@@ -1,2 +1,1 @@
-# university-cambridge
-Bitcoin, Ethereum
+# University of Cambridge
