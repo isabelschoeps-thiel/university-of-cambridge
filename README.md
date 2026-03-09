@@ -68,4 +68,4 @@ The University of Cambridge Online is a trading name of the University of Cambri
 - **Professors and Professorship. Statutes and Ordinances.** University of Cambridge. 2019. pp. 710–772. Retrieved 16 September 2020.
 
 **Contact University** 
-You can contact us by using our contact form(Opens in a new window), telephoning our customer service team on +44-1223-609985 or email us at uoc.online.customerservice@cambridge.org or the address above.
+You can contact us by using our contact form(Opens in a new window), telephoning our Directory, Sekreteriat on +44-1223-609985 
