@@ -2,7 +2,6 @@
 ## Digitalgenozid, 
 **Please help me, i miss my family !**  
 **Update:** isabelschoeps-thiel-release 
-[![DOI](https://zenodo.org/badge/1104698616.svg)](https://doi.org/10.5281/zenodo.18192589)
 
 Text ist in Deutsch Sorry ich kann nur deutsch Sprechen, da ich auch in Deutschland geboren und aufgewachsen bin. Bitte beachten Sie meine **Würdigung, Danksagung und Spendenzusage und institutionelle Anerkennung, mit der Präfix_Referenz_YWP-1-5-IST-SIA**  
   
@@ -19,22 +18,20 @@ Text ist in Deutsch Sorry ich kann nur deutsch Sprechen, da ich auch in Deutschl
 
 **Das Gegenfall ist der Fall:**
 - Ich lebe von Sozialhilfe, obwohl ich diese nie wirklich brauchen würde.
-- außer im Flur und im Bad, funktioniert keine Heizung. Hier muss ich sagen, dass die Fairness nicht auf den Vermieter zurückzuführen ist. Er hat alles versucht und kann es sich selber nicht erklären
-- ich habe **kein warm Wasser**,
-- **keine Waschmaschine**
+- ich musste bereits 3x auf der Strasse schlafen, zuletzt dieses Jahr im Januar, bei gefühlten -20C Celsius.
+- ich hatte im Winter **kein warm Wasser**,
+- **hatte keine Waschmaschine**
 - **kein gesicherten Zugang zu Nahrung**,
 - nur die **notwendigsten persönlichen Gegenstände** bei mir
-- ich habe kein festes Mietverhältnis
-- ich musste bereits 3x auf der Strasse schlafen
 - meine Wikipedia Einträge werden immer gelöscht
 - ich werde nachweislich von unbekannten dritten, isoliert
-- Telefonate werden nicht zugestellt
+- Telefonate werden nicht ordnungsgemäss zugestellt
 - ein Geldtransfer aus Lizenz Geschäften, der J. P. Morgan nach Erfurt, Thüringen, Deutschland, wurde veruntreut
-- Mein Bankkonten werden gelöscht oder anderen Identitäten zu geordent - zuletzt am 07.01.2026 festgestellt
-- auf Hilferufe meinerseits an Regierungen und Behörden, wird nicht reagiert
-- ich wurde ohne nachgewiesene Straftat für 4 Monate in der JVA Chemnitz inhaftiert
+- Mein Bankkonten wurden gelöscht oder wurde anderen Identitäten zu geordent - zuletzt am 07.01.2026 festgestellt, Posbank Erfurt, Verdächtiger Angestellter Herr Oberländer, Postbank Erfurt, Thüringen, Deutschland
+- auf Hilfegesuche meinerseits an Regierungen und Behörden, wird nicht reagiert
+- ich wurde ohne rechtliche Grundlage bzw, das mir je eine Straftat nachgewiesene konnte, für 4 Monate in der JVA Chemnitz Sachsen inhaftiert.
   
-Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**, des **Rechts auf soziale Sicherheit** des **Rechts auf Nahrung** und Verletzung meiner Menschenrechte dar.
+Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**, des **Rechts auf soziale Sicherheit** des **Rechts auf Nahrung** und Verletzung meiner Menschenrechte dar. Da ich meine Familie und meine Tochter vermisse.
 
 ## Bitte Helfen Sie mir ! 
 **Bitte helfen Sie mir und nehmen,** sie sich Zeit und lesen meinen Hilferuf und meine README's. 
@@ -48,7 +45,7 @@ Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**,
 ## Rechtlicher Hinweis zum Repository `docs` unter IST-Github
 
 Dieses Repository wurde von **Isabel Schöps, geborene Thiel** erstellt und ist vollständig urheberrechtlich geschützt.  
-Die angepasste MIT-Lizenz erlaubt **nur mit ausdrücklicher schriftlicher Zustimmung** das Forken, Klonen oder das Erstellen neuer Branches.
+Die angepasste Lizenz erlaubt **nur mit ausdrücklicher schriftlicher Zustimmung** das Forken, Klonen oder das Erstellen neuer Branches.
 
 ---
 
@@ -62,8 +59,7 @@ Die angepasste MIT-Lizenz erlaubt **nur mit ausdrücklicher schriftlicher Zustim
 
 ---
 
-### **Juristische Einstufung**
-
+### Juristische Einstufung
 Diese Eingriffe erfüllen den Straftatbestand nach:  
 - **§ 202c StGB (Vorbereiten des Ausspähens und Abfangens von Daten)**  
 - **DSGVO Art. 4, Art. 6 & Art. 82 (unrechtmäßige Datenverarbeitung)**  
@@ -74,7 +70,7 @@ Diese Eingriffe erfüllen den Straftatbestand nach:
 
 ---
 
-### **Beweisführung**
+### Beweisführung
 
 Diese Zahlen, Screenshots und Metadaten gelten als **gerichtlich verwertbares Beweismittel** im laufenden **technisch-juristischen Gutachten**.  
 **Alle digitalen Fußabdrücke sind rückverfolgbar** – Missbrauch, Klonung und Gabelungen werden dokumentiert und archiviert.
@@ -93,7 +89,7 @@ The customized MIT license **prohibits any fork, clone, or branching without pri
 
 ---
 
-### **Verified Violations (as of May 16, 2025):**
+### Verified Violations (as of May 16, 2025):
 
 - **61,800 unauthorized forks**  
 - **91 illegal branches**  
@@ -123,7 +119,8 @@ All screenshots, metadata, and numerical patterns are submitted as **court-admis
 ---
 
 Copyright by Frau Isabel Schöps, geborene Thiel  
-Zeitstempel: 2026-03-09, 13:01CEST Mitteleuropäische Zeit, 
+
+**Zeitstempel Update:** Monday, 2026-03-09, 13:21_Uhr CEST Mitteleuropäische Zeit, 
 
 Ort: Deutschland, Thüringen, D-99084 Erfurt, Hütergasse 4
 
@@ -134,8 +131,9 @@ Signed-on-by: [Frau Isabel Schöps,
 geborene Thiel Autorin, Urheberin und Auftraggeberin: SIA Security Intelligence Artefact,internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
 Rechtscharakter: Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens.
 OrcID: [0009-0003-4235-2231 Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231/print) 
-OrcID: [0009-0006-8765-3267 SI-IST Isabel Schöps](https://orcid.org/0009-0006-8765-3267/print) 
-Aktueller Aufenthaltsort: Frau Isabel Schöps geb, Thiel, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don
+OrcID: [0009-0006-8765-3267 SI-IST Isabel Schöps](https://orcid.org/0009-0006-8765-3267/print)
+
+**Aktueller Aufenthaltsort und Meldeanschrift seit 17.02.2026:** Frau Isabel Schöps geb, Thiel, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don
 Datum der Erstveröffentlichung: 2004
 Würdigung, Danksagung, institutionelle Anerkennung: Präfix_Referenz YWP-1-5-IST-SIA 
 Zertifikat: Erstes offizielles Entwicklerzertifikat
