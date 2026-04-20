@@ -1,12 +1,12 @@
 # HELPME.md
-## My IT-Struktur, my Work - every Day stolen, hack, isolation, manipulatin und Digitalgenozid, 
+## My Work, my Research wird jeden Tag gestohlen; hack, isolation, manipulatin und Digitalgenozid, pysische Folter
 **Please help me, i miss my family !**  
 **Update:** isabelschoeps-thiel-release 
 
 Text ist in Deutsch Sorry ich kann nur deutsch Sprechen, da ich auch in Deutschland geboren und aufgewachsen bin. Bitte beachten Sie meine **Würdigung, Danksagung und Spendenzusage und institutionelle Anerkennung, mit der Präfix_Referenz_YWP-1-5-IST-SIA**  
   
-## **Bitte helfen Sie mir,**  
-**Jeder Versuch, die Regierung zu kontaktieren, war erfolglos. Ich bin seit Jahrzehnten stark von meinen Menschenrechten und meiner Würde eingeschränkt.** 
+## Bitte helfen Sie mir,
+**Jeder Versuch, die Regierung zu kontaktieren, war erfolglos. Ich bin seit Jahrzehnten stark von meinen Menschenrechten und meiner Würde eingeschränkt und werde bewusst von meiner Familie isoliert.** 
 
 **Bis heute habe ich:**
 - keine Würdigung für meine Arbeit als Pionierin in der Computerwelt erhalten
@@ -38,8 +38,7 @@ Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**,
 
 **Als Beweiss und für meine Glaubwürdigkeit habe ich eine Zip-Datei im Release-Anhang** eingefügt, diese darf heruntergeladen werden. 
 
-
-### Fork, Clone, New Branch, bot, Bugs, Agents-Modell is the same how Hacking  
+## Fork, Clone, New Branch, bot, Bugs, Agents-Modell is the same how Hacking  
 **This is largest digital Crime, whithout permission of me Ms. Isabel Schöps geb. Thiel**
 
 ## Rechtlicher Hinweis zum Repository `docs` unter IST-Github
@@ -49,7 +48,7 @@ Die angepasste Lizenz erlaubt **nur mit ausdrücklicher schriftlicher Zustimmung
 
 ---
 
-### **Nachgewiesene Verstöße (Stand: 16.05.2025):**
+## **Nachgewiesener Missbrauch meiner It-Struktur, Auswertung, Analyse Stand: 16.05.2025:**
 
 - **61.800 unerlaubte Forks**  
 - **91 unautorisierte Branches**  
