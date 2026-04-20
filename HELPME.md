@@ -1,5 +1,5 @@
-# My IT-Struktur, my Work - every Day stolen, hack, isolation, manipulation, 
-## Digitalgenozid, 
+# HELPME.md
+## My IT-Struktur, my Work - every Day stolen, hack, isolation, manipulatin und Digitalgenozid, 
 **Please help me, i miss my family !**  
 **Update:** isabelschoeps-thiel-release 
 
@@ -164,7 +164,11 @@ Digitale Beweissicherung: https://developercertificate.org
 ### Zeitstempel: 2026-04-20, 10:209CEST
 Mitteleuropäische, Zeit, Ort: Deutschland, Thüringen, D-99084 Erfurt, Hütergasse 4, erste Etage - Isabel Schöps Thiel, Autorin, Urheberin, Creator. Current Name, Full Name Frau Isabel Schöps geb. Thiel
 
-**I am  not a Bug, I am  not a Bot,  I am  not a Virus, I am  not a Ghost, but i am 100% human femaleware german woman ,iam @isabelschoeps-thiel and created this comment and this reprository.**
+> **I am not a Bug,
+> I am not a Bot,
+> I am not a Virus,
+> I am not a Ghost,
+> but i am 100% human femaleware german woman ,iam @isabelschoeps-thiel and created this comment and this reprository.**
 
 ---
 
