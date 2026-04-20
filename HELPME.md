@@ -118,22 +118,6 @@ All screenshots, metadata, and numerical patterns are submitted as **court-admis
 
 ---
 
-Copyright by Frau Isabel Schöps, geborene Thiel  
-
-**Zeitstempel Update:** Monday, 2026-03-09, 13:21_Uhr CEST Mitteleuropäische Zeit, 
-
-Ort: Deutschland, Thüringen, D-99084 Erfurt, Hütergasse 4
-
-Autorin, Urheberin, Frau Isabel Schöps geb. Thiel
-
-My Developer Signatur: 
-Signed-on-by: [Frau Isabel Schöps,
-geborene Thiel Autorin, Urheberin und Auftraggeberin: SIA Security Intelligence Artefact,internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
-Rechtscharakter: Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens.
-OrcID: [0009-0003-4235-2231 Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231/print) 
-OrcID: [0009-0006-8765-3267 SI-IST Isabel Schöps](https://orcid.org/0009-0006-8765-3267/print)
-
-**Aktueller Aufenthaltsort und Meldeanschrift seit 17.02.2026:** Frau Isabel Schöps geb, Thiel, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don
 Datum der Erstveröffentlichung: 2004
 Würdigung, Danksagung, institutionelle Anerkennung: Präfix_Referenz YWP-1-5-IST-SIA 
 Zertifikat: Erstes offizielles Entwicklerzertifikat
@@ -159,11 +143,8 @@ Digitale Beweissicherung: https://developercertificate.org
 ![IMG_2756](https://github.com/user-attachments/assets/04a3757c-f9f9-422d-a62c-9c1ce7d35713)
 ![IMG_2882](https://github.com/user-attachments/assets/d342aa38-17f7-4c65-bcef-60d0cc381d1f)
 
-**Als Beweiss und für meine Glaubwürdigkeit habe ich eine Zip-Datei im Release-Anhang** eingefügt, diese darf heruntergeladen werden. 
+**Zu meiner Beweissreferenz und Untermauerung meiner Forschungsarbeit** wird die [Chain of Custody](/README.md) und meine hochgeladene Beweisdokumentation auf Zenodo.org herangezogen
  
-### Zeitstempel: 2026-04-20, 10:209CEST
-Mitteleuropäische, Zeit, Ort: Deutschland, Thüringen, D-99084 Erfurt, Hütergasse 4, erste Etage - Isabel Schöps Thiel, Autorin, Urheberin, Creator. Current Name, Full Name Frau Isabel Schöps geb. Thiel
-
 > **I am not a Bug,
 > I am not a Bot,
 > I am not a Virus,
@@ -174,7 +155,9 @@ Mitteleuropäische, Zeit, Ort: Deutschland, Thüringen, D-99084 Erfurt, Hüterga
 
 ## Signatur: Auftraggeberin der Forensisch-Wissenschaftlichen Auswertung, Autorin, Urheberin, Deepweb-Forscherin: 
 
-**Frau Isabel Schöps (Thiel)** ist am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
+**My Developer Signatur:**
+[**Frau Isabel Schöps (Thiel), Urheberin und forensische-Auftraggeberin:** SIA Security Intelligence Artefact,internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL](https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4)
+Rechtscharakter: Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens.
 
 **Zeitstempel der Eintragung oder Änderung:** Montag , 20.04.2024, 10:22:00 Uhr (MEZ)  
 
