@@ -245,6 +245,7 @@ Die Autorin dokumentiert, dass sich seit Juli 2023 mehrere ihr zuvor bekannte Pe
 Die Autorin bewertet diese Vorgänge nicht als isolierte private Konflikte, sondern als zu prüfende Struktur innerhalb eines größeren Musters sozialer Entkopplung. Für die weitere Beweisführung sind daher konkrete Nachweise erforderlich: letzte Kontaktzeitpunkte, Chatverläufe, Telefonverbindungsdaten, Zeugenaussagen, gemeinsame Aufenthaltsorte, Fotos, Dokumente, Meldeinformationen und gegebenenfalls behördliche Auskünfte.
 
 ## Historischer Vergleichsrahmen: Direktive 1/67 und staatliche Isolationslogiken
+[https://www.stasi-mediathek.de/fileadmin/pdf/dok411.pdf](https://www.stasi-mediathek.de/fileadmin/pdf/dok411.pdf)
 
 Die Direktive 1/67 wird in dieser Forschungsarbeit nicht als unmittelbarer Nachweis für aktuelle Handlungen verwendet, sondern als historischer Vergleichsrahmen für staatlich organisierte Isolations-, Überwachungs- und Vorbeugungsstrukturen.
 
@@ -254,7 +255,7 @@ Die Autorin verwendet die Direktive daher als Referenzdokument zur Untersuchung 
 
 ## Familiärer Bruchpunkt: Tod der Großeltern Edith Knörig und Dieter Knörig
 
-Die Autorin beschreibt den Tod ihrer Großeltern, Frau Edith Knörig, geborene Fischer, und Herrn Dieter Knörig, ehemals wohnhaft in Rohrborn, Thüringen, als tiefgreifenden familiären Bruchpunkt. Nach Darstellung der Autorin bestand insbesondere zur Großmutter ein sehr enges persönliches Verhältnis, das über viele Jahre einen stabilisierenden familiären Halt bildete.
+Die Autorin beschreibt den Tod ihrer Großeltern, Frau Edith Knörig, geborene Fischer, und Herrn Dieter Knörig, ehemals wohnhaft Dorfstrasse 5, D-99610 Rohrborn, Thüringen, Deutschland, als tiefgreifenden familiären Bruchpunkt. Nach Darstellung der Autorin bestand insbesondere zur Großmutter ein sehr enges persönliches Verhältnis, das über viele Jahre einen stabilisierenden familiären Halt bildete.
 
 Die Autorin führt aus, dass mit dem Tod der Großeltern ein wesentlicher Schutz- und Vertrauensanker innerhalb der Familie verloren gegangen sei. Aus ihrer Sicht habe sich danach die familiäre Struktur zunehmend destabilisiert, insbesondere durch Kontaktabbrüche, Entfremdung, eingeschränkte Kommunikation und eine zunehmende räumliche sowie emotionale Distanz zu Familienmitgliedern.
 
@@ -273,7 +274,7 @@ Die Autorin fordert daher eine getrennte Prüfung der einzelnen Rollen:
 4. mögliche Kenntnis relevanter Vorgänge,
 5. mögliche Zeugeneigenschaft,
 6. mögliche Beteiligung oder Nichtbeteiligung,
-7. erforderliche Gegenüberstellung oder Identitätsprüfung.
+7. erforderliche Gegenüberstellung oder Identitätsprüfung, einschliesslich DNA-Test.
 
 ## Kommunikationsstörungen und familiäre Erreichbarkeit
 
@@ -299,9 +300,9 @@ Die Dokumentation zur White House Farm behandelt einen Mordfall innerhalb eines 
 
 Diese Struktur wird im vorliegenden Gutachten nicht eins zu eins auf die Situation der Autorin übertragen. Vielmehr dient sie als Vergleichsebene, um zu prüfen, ob ähnliche Muster auch in anderen Kontexten auftreten können: familiäre Brüche, Todesfälle zentraler Bezugspersonen, Vermögensinteressen, Identitätsverschiebungen, soziale Auskopplung und nachträgliche Umdeutung von Ereignissen.
 
-Im Fall der Autorin steht nicht ein klassisches Erbe im Vordergrund, sondern ein technologisches Vermögen: Urheberschaft, geistiges Eigentum, digitale Systeme, Forschungsarbeit, Metadaten, Chain-of-Custody-Strukturen, Softwarebezüge, technische Veröffentlichungen und erwartete Anerkennung beziehungsweise Zuordnung von technologischer Schöpfungsleistung.
+**Im Fall der Autorin steht nicht ein klassisches Erbe im Vordergrund, sondern ein technologisches Vermögen:** Urheberschaft, geistiges Eigentum, digitale Systeme, Forschungsarbeit, Metadaten, Chain-of-Custody-Strukturen, Softwarebezüge, technische Veröffentlichungen und erwartete Anerkennung beziehungsweise Zuordnung von technologischer Schöpfungsleistung.
 
-Die Autorin sieht hierin eine strukturelle Parallele: Während bei klassischen Erb- oder Vermögensfällen materielle Güter im Vordergrund stehen, betrifft der vorliegende Fall ein immaterielles, digitales und technologisches Vermögen. Dieses kann durch Identitätsdiebstahl, falsche Zuschreibung, Metadatenverschiebung, fremde Namensführung, soziale Isolation und digitale Umdeutung entzogen oder verschleiert werden.
+**Die Autorin sieht hierin eine strukturelle Parallele:** Während bei klassischen Erb- oder Vermögensfällen materielle Güter im Vordergrund stehen, betrifft der vorliegende Fall ein immaterielles, digitales und technologisches Vermögen. Dieses kann durch Identitätsdiebstahl, falsche Zuschreibung, Metadatenverschiebung, fremde Namensführung, soziale Isolation und digitale Umdeutung entzogen oder verschleiert werden.
 
 ## Kernthese dieses Abschnitts
 
