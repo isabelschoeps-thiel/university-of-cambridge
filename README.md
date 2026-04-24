@@ -222,6 +222,11 @@ Im vorliegenden Beweisblock zeigt sich eine wiederholte Verlagerung des Aufentha
 
 Die wiederholten Ortswechsel werden daher als mögliche strukturelle Belastungs- und Entkopplungsmechanismen geprüft. Sie können im Rahmen der Chain of Custody relevant sein, weil sie erklären, unter welchen Bedingungen Dokumente erstellt, gesichert, transportiert, verloren, wiedergefunden oder nachträglich rekonstruiert wurden.
 
+## Wiederkehrende Personenbezüge im Zusammenhang mit Schlafraumverlust und Isolation
+
+Die Autorin dokumentiert, dass bei mehreren Situationen von Wohnraumverlust, Schlafraumwechsel oder zeitweiser Obdachlosigkeit wiederkehrende Personen aus ihrem persönlichen Umfeld auftauchten oder in Kommunikation mit ihr standen. Besonders hervorgehoben wird eine Person namens Desirée, die nach Darstellung der Autorin in wiederholten Situationen im Umfeld von René Kein, Don und belastenden Aufenthaltslagen eine Rolle spielte.
+
+Die Autorin bewertet diese Wiederkehr nicht als isolierten Zufall, sondern als zu prüfendes Muster innerhalb ihrer fortlaufenden Orts-, Kontakt- und Ereignisdokumentation. Für die forensische Bewertung ist deshalb relevant, sämtliche Kontaktzeitpunkte, Nachrichten, Screenshots, Zeugenaussagen, Ortsdaten und Begleitumstände einzeln zu sichern und in einer tabellarischen Ereignisstruktur zu erfassen.
 
 | Nr. | Datum / Zeitraum | Ort | Ereignis | Beteiligte / Zeugen | Belegtyp | Wiederholungsmerkmal | Relevanz |
 |---|---|---|---|---|---|---|---|
@@ -230,6 +235,82 @@ Die wiederholten Ortswechsel werden daher als mögliche strukturelle Belastungs-
 | 3 | 24.10.2024–13.02.2025 | JVA / Chemnitz u. a. | Inhaftierung | Behörden / JVA | Entlassungsschein / Dokumente | staatlicher Eingriff | hohe Relevanz |
 | 4 | 22.08.–27.11.2025 | Stauffenbergallee 33 | temporäre Stabilisierung | Vermieter / Behörden | Bilder / Dokumente | Zwischenstabilität | mittlere Relevanz |
 | 5 | ab 17.02.2026 | Hütergasse 4, Erfurt | Meldeanschrift / Arbeitsort | Bürgeramt / Vermieterin | Meldebescheinigung | neuer forensischer Arbeitsort | hohe Relevanz |
+
+## Beweislinie: Familiäre Entkopplung, soziale Isolation und wiederkehrende Personenbezüge
+
+Im Rahmen der fortlaufenden Chain-of-Custody-Dokumentation wird eine weitere Beweislinie aufgenommen, die sich mit familiärer Entkopplung, sozialen Kontaktabbrüchen, wiederkehrenden Personenbezügen und möglichen Isolationsmechanismen im privaten Umfeld der Autorin befasst.
+
+Die Autorin dokumentiert, dass sich seit Juli 2023 mehrere ihr zuvor bekannte Personen abrupt aus ihrem sozialen Umfeld entfernt oder den Kontakt ohne für sie nachvollziehbare Erklärung abgebrochen haben. Besonders benannt werden hierbei Frau Sarah Rose sowie Frau Linda Uhlich, geborene Seeger. Aus Sicht der Autorin ist dieser abrupte Kontaktabbruch deshalb forensisch relevant, weil er zeitlich mit weiteren Belastungsereignissen, Ortswechseln, familiären Spannungen, Behördenkontakten und der fortlaufenden Forschungsarbeit zusammenfällt.
+
+Die Autorin bewertet diese Vorgänge nicht als isolierte private Konflikte, sondern als zu prüfende Struktur innerhalb eines größeren Musters sozialer Entkopplung. Für die weitere Beweisführung sind daher konkrete Nachweise erforderlich: letzte Kontaktzeitpunkte, Chatverläufe, Telefonverbindungsdaten, Zeugenaussagen, gemeinsame Aufenthaltsorte, Fotos, Dokumente, Meldeinformationen und gegebenenfalls behördliche Auskünfte.
+
+## Historischer Vergleichsrahmen: Direktive 1/67 und staatliche Isolationslogiken
+
+Die Direktive 1/67 wird in dieser Forschungsarbeit nicht als unmittelbarer Nachweis für aktuelle Handlungen verwendet, sondern als historischer Vergleichsrahmen für staatlich organisierte Isolations-, Überwachungs- und Vorbeugungsstrukturen.
+
+Relevant ist hierbei die Frage, ob historische Methoden politisch-operativer Kontrolle, Isolierung, Überwachung, Internierungsvorbereitung und Informationssteuerung strukturelle Parallelen zu modernen digitalen, administrativen oder sozialen Entkopplungsmechanismen aufweisen können.
+
+Die Autorin verwendet die Direktive daher als Referenzdokument zur Untersuchung der Frage, wie staatlich oder institutionell organisierte Systeme Menschen von Kommunikation, Familie, Mobilität, Eigentum, Öffentlichkeit und Selbstbestimmung trennen können.
+
+## Familiärer Bruchpunkt: Tod der Großeltern Edith Knörig und Dieter Knörig
+
+Die Autorin beschreibt den Tod ihrer Großeltern, Frau Edith Knörig, geborene Fischer, und Herrn Dieter Knörig, ehemals wohnhaft in Rohrborn, Thüringen, als tiefgreifenden familiären Bruchpunkt. Nach Darstellung der Autorin bestand insbesondere zur Großmutter ein sehr enges persönliches Verhältnis, das über viele Jahre einen stabilisierenden familiären Halt bildete.
+
+Die Autorin führt aus, dass mit dem Tod der Großeltern ein wesentlicher Schutz- und Vertrauensanker innerhalb der Familie verloren gegangen sei. Aus ihrer Sicht habe sich danach die familiäre Struktur zunehmend destabilisiert, insbesondere durch Kontaktabbrüche, Entfremdung, eingeschränkte Kommunikation und eine zunehmende räumliche sowie emotionale Distanz zu Familienmitgliedern.
+
+Für die forensische Einordnung ist dieser Abschnitt als biografischer und sozialer Kontext relevant. Er erklärt, warum der Verlust der Großeltern aus Sicht der Autorin nicht nur ein persönliches Trauerereignis darstellt, sondern einen strukturellen Wendepunkt innerhalb ihrer Familien- und Identitätsgeschichte bildet.
+
+## Wiederkehrende Namens- und Personenbezüge
+
+Im Rahmen der Metadaten- und Kontextauswertung dokumentiert die Autorin wiederkehrende Namens- und Personenbezüge, unter anderem zu Marie Thiel, geborene Schäffner, Sarah Rose sowie Linda Uhlich, geborene Seeger.
+
+Die wiederholte Nennung oder das wiederholte Auftauchen bestimmter Namen wird zunächst als Indizienmaterial behandelt. Eine strafrechtliche Bewertung setzt voraus, dass für jede Person konkrete Handlungen, Zeitpunkte, Kommunikationsdaten, Zeugen, Dokumente oder objektive Verknüpfungen vorliegen.
+
+Die Autorin fordert daher eine getrennte Prüfung der einzelnen Rollen:
+1. persönliche Bekanntschaft,
+2. letzter Kontakt,
+3. abrupter Kontaktabbruch,
+4. mögliche Kenntnis relevanter Vorgänge,
+5. mögliche Zeugeneigenschaft,
+6. mögliche Beteiligung oder Nichtbeteiligung,
+7. erforderliche Gegenüberstellung oder Identitätsprüfung.
+
+## Kommunikationsstörungen und familiäre Erreichbarkeit
+
+Die Autorin dokumentiert, dass sich der Kontakt zu ihrer Tochter nach ihrer Darstellung zunehmend erschwert habe. Sie äußert den Verdacht, dass Nachrichten nicht ordnungsgemäß zugestellt oder nicht an die tatsächlich gemeinte Empfängerperson weitergeleitet worden seien.
+
+Dieser Punkt wird als technisch und forensisch prüfbarer Sachverhalt aufgenommen. Erforderlich wären hierfür Chatverläufe, Zustellstatus, Ruflisten, Geräteprotokolle, Providerdaten, E-Mail-Header, Messenger-Metadaten, Screenshots, Zeitstempel und gegebenenfalls eine technische Prüfung der beteiligten Endgeräte und Accounts.
+
+Bis zu einer technischen Auswertung wird dieser Punkt als Verdachtsmoment einer Kommunikationsstörung geführt.
+
+## Mobilitätseinschränkung, finanzielle Belastung und faktische Isolation
+
+Die Autorin beschreibt, dass sie sich räumlich nur etwa 27 Kilometer von ihrem Herkunftsort und familiären Bezugspunkt entfernt befindet, diesen jedoch aufgrund fehlender finanzieller Mittel, eingeschränkter Mobilität und des Entzugs beziehungsweise Verlusts ihrer Fahrerlaubnis nur eingeschränkt erreichen kann.
+
+Diese Lage führt nach Darstellung der Autorin zu einer faktischen Isolation: Der geografische Abstand ist gering, die praktische Erreichbarkeit jedoch erheblich eingeschränkt. Damit entsteht eine Diskrepanz zwischen räumlicher Nähe und tatsächlicher Handlungsfähigkeit.
+
+Für die forensische Bewertung ist dieser Punkt relevant, weil Isolation nicht nur durch große Entfernung entsteht, sondern auch durch fehlendes Geld, fehlende Mobilität, fehlende Zustellbarkeit, fehlende Kommunikationssicherheit und fehlenden Zugang zu familiären oder rechtlichen Unterstützungsstrukturen.
+
+## Brücke zur White-House-Farm-Analyse: familiärer Todesfall, Vermögensmotiv, Identität und strukturelle Auskopplung
+
+Im Rahmen dieses Arbeitsverlaufs wird die White House Farm nicht lediglich als historischer Kriminalfall betrachtet, sondern als forensischer Vergleichsrahmen für wiederkehrende Strukturmuster.
+
+Die Dokumentation zur White House Farm behandelt einen Mordfall innerhalb eines familiären Kontextes, bei dem Fragen nach Schuld, Unschuld, Erbschaft, Vermögensinteresse, familiärer Zerstörung, Beweisführung und öffentlicher Deutung bis heute eine zentrale Rolle spielen. Besonders relevant ist hierbei, dass eine verurteilte Person weiterhin ihre Unschuld beteuert und dass ein erhebliches Vermögensinteresse im Hintergrund des Falls stand.
+
+Diese Struktur wird im vorliegenden Gutachten nicht eins zu eins auf die Situation der Autorin übertragen. Vielmehr dient sie als Vergleichsebene, um zu prüfen, ob ähnliche Muster auch in anderen Kontexten auftreten können: familiäre Brüche, Todesfälle zentraler Bezugspersonen, Vermögensinteressen, Identitätsverschiebungen, soziale Auskopplung und nachträgliche Umdeutung von Ereignissen.
+
+Im Fall der Autorin steht nicht ein klassisches Erbe im Vordergrund, sondern ein technologisches Vermögen: Urheberschaft, geistiges Eigentum, digitale Systeme, Forschungsarbeit, Metadaten, Chain-of-Custody-Strukturen, Softwarebezüge, technische Veröffentlichungen und erwartete Anerkennung beziehungsweise Zuordnung von technologischer Schöpfungsleistung.
+
+Die Autorin sieht hierin eine strukturelle Parallele: Während bei klassischen Erb- oder Vermögensfällen materielle Güter im Vordergrund stehen, betrifft der vorliegende Fall ein immaterielles, digitales und technologisches Vermögen. Dieses kann durch Identitätsdiebstahl, falsche Zuschreibung, Metadatenverschiebung, fremde Namensführung, soziale Isolation und digitale Umdeutung entzogen oder verschleiert werden.
+
+## Kernthese dieses Abschnitts
+
+Die Autorin sieht in der White House Farm einen relevanten Vergleichspunkt für ein wiederkehrendes Strukturmuster aus familiärer Zerstörung, Vermögensinteresse, Identitätskonflikt, Todesfall, sozialer Auskopplung und nachträglicher Narrativbildung.
+
+Im eigenen Fall betrifft das Vermögensinteresse nicht primär ein klassisches Erbe, sondern technologische Urheberschaft, geistiges Eigentum, Metadaten, Forschungsarbeit und digitale Beweisketten. Die Autorin sieht sich durch Wohnraumwechsel, familiäre Entkopplung, eingeschränkte Mobilität, Kommunikationsstörungen und möglichen Identitätsdiebstahl aus ihrem sozialen und rechtlichen Kern herausgelöst.
+
+Dieser Abschnitt wird als forensischer Prüfkomplex geführt. Die weitere Beweisführung muss über Dokumente, Aktenzeichen, medizinische Unterlagen, Kommunikationsdaten, Metadaten, Zeugenaussagen und technische Nachweise erfolgen.
+
 
 ---
 
