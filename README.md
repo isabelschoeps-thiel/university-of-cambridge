@@ -92,7 +92,12 @@ Die Analyse der RFC-Protokolle 882 und 883 wird in dieser Forschungsreihe als te
 
 Die Autorin sieht hierin einen relevanten Anschluss an ihre Untersuchung wiederkehrender Protokollmuster, algorithmischer Wiederholungslogiken und digitaler Raumstrukturierung. Dabei wird nicht behauptet, dass die RFCs selbst einen Tatnachweis darstellen. Vielmehr dienen sie als Referenzmaterial zur Frage, wie technische Standards menschliches Verhalten, digitale Erreichbarkeit, administrative Zuständigkeit und Kommunikationswege strukturieren können.
 
-**Referenz:**
+## Einbezogene Forschungsquelle
+
+Schöps geb. Thiel, Isabel, und Schöps geb. Thiel, I. 2026. isabelschoeps-thiel/boards_of_canada: Boards of Canada, Evidence Release (Boards_of_canada_evidence). Zenodo. DOI: 10.5281/zenodo.18380414.
+
+Diese Forschungsquelle wird als Bestandteil der Chain of Custody, der Medienanalyse und der Deepweb-Forschungsreihe herangezogen. Sie dient in diesem Arbeitsverlauf als Referenz für die Analyse wiederkehrender audiovisueller Muster, symbolischer Strukturen, möglicher psychologischer Trigger, medialer Fragmentierung und digitaler Beweissicherung.
+
 **Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026).** Die Lügenmatrix und ihr Ende sieg_heil_den_frieden HR_06_02_2026,Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. [https://doi.org/10.5281/zenodo.18500830](https://doi.org/10.5281/zenodo.18500830)
 
 **Schöps geb. Thiel, I. (2025).** Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx. In Trillion Dollar Bitcoin (Zenodo.org, 1st Aufl., Bd. 20, Nummer 9, S. 1453). Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi.org/10.5281
@@ -122,6 +127,14 @@ Im analogen Raum findet diese Analyse eine strukturelle Entsprechung: Auch dort 
 Im Zusammenhang mit der White House Farm wird geprüft, ob dieser Tatort beziehungsweise die spätere mediale, planerische, wissenschaftliche oder symbolische Behandlung dieses Ortes als Knotenpunkt innerhalb eines größeren künstlich hergestellten algorithmischen Netzwerks verstanden werden kann. Dabei wird nicht vorschnell behauptet, dass jeder einzelne Beleg bereits einen abgeschlossenen Tatnachweis darstellt. Vielmehr wird untersucht, ob sich aus der Gesamtheit der Dokumente, Metadaten, Begriffe, Wiederholungen, Ortsbezüge, Protokolle, medialen Darstellungen und wissenschaftlichen Referenzen ein wiederkehrendes Muster ergibt, das auf ein strukturiertes Verbrechen oder ein manipuliertes Narrativ hindeutet.
 
 Die White House Farm wird in diesem Arbeitsverlauf daher nicht nur als historischer Tatort betrachtet, sondern als möglicher forensischer Schlüsselpunkt innerhalb eines größeren Untersuchungsfeldes zu Isolation, Matrix-Strukturen, algorithmischer Wiederholung, digitaler Zuschreibung, analoger Identitätsverschiebung und künstlich erzeugten Wahrheitsnarrativen.
+
+## Einordnung der Boards-of-Canada-Forschungsquelle in die White-House-Farm-Analyse
+
+**Die Forschungsquelle „isabelschoeps-thiel/boards_of_canada:** Boards of Canada, Evidence Release“ wird als ergänzender Bestandteil der Chain of Custody in diesen Arbeitsverlauf aufgenommen.
+
+Sie dient der Untersuchung wiederkehrender audiovisueller Muster, möglicher psychologischer Konditionierung, fragmentierter Zeitlinien, medialer Symbolik, isolierter Personendarstellungen und narrativer Manipulationsstrukturen. Im Zusammenhang mit der White House Farm wird geprüft, ob sich zwischen sichtbaren analogen Wiederholungsmustern und verdeckten digitalen Wiederholungsstrukturen eine methodisch nachvollziehbare Verbindung herstellen lässt.
+
+Der zentrale Prüfpunkt lautet: Wiederholen sich bestimmte Strukturen, Begriffe, Motive, Orte, Bildmuster, Geräusche, Personenbezüge oder mediale Erzählformen so deutlich, dass sie nicht mehr als bloße Einzelbeobachtung behandelt werden können, sondern als Teil eines größeren forensisch zu untersuchenden Musters.
 
 ---
 
