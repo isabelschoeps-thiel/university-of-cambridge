@@ -106,6 +106,13 @@ Meine Arbeiten bestehen unter anderem aus der Forschungsreihe SIA Security Intel
 
 Ein zentraler Bestandteil dieser Untersuchung ist die Beobachtung, dass schöpferische Ursprungsleistung im digitalen Raum nachträglich verschoben, extrahiert oder unter fremden Namen neu zugeordnet werden kann. Dabei werden nicht nur Texte oder einzelne Inhalte übernommen, sondern auch gedankliche Strukturen, Metadaten, Zeitbezüge, technische Konzepte und forensische Argumentationslinien aus ihrem ursprünglichen Zusammenhang herausgelöst.
 
+> **Kernthese dieses Abschnitts:**
+>
+> Die digitale Raumzeitverschiebung beschreibt im Rahmen dieser Forschungsarbeit die nachträgliche Trennung von schöpferischem Ursprung, Metadaten, Zeitstempel, Autorenschaft und öffentlicher Zuschreibung. Dadurch kann eine Arbeit aus ihrem ursprünglichen Kern gelöst und unter fremdem Namen neu eingeordnet werden. Diese Struktur wird als Teil eines größeren Lügennarrativs untersucht, das sowohl digitale als auch analoge Identitäts- und Wahrheitsverschiebungen betreffen kann.
+>
+> **Kernthese dieses Abschnitts:**
+> Die digitale Raumzeitverschiebung beschreibt im Rahmen dieser Forschungsarbeit die nachträgliche Trennung von schöpferischem Ursprung, Metadaten, Zeitstempel, Autorenschaft und öffentlicher Zuschreibung. Dadurch kann eine Arbeit aus ihrem ursprünglichen Kern gelöst und unter fremdem Namen neu eingeordnet werden. Diese Struktur wird als Teil eines größeren Lügennarrativs untersucht, das sowohl digitale als auch analoge Identitäts- und Wahrheitsverschiebungen betreffen kann.
+
 **Aus meiner Sicht entsteht dadurch eine digitale Raumzeitverschiebung:** Der eigentliche Ursprung einer Arbeit liegt bei der ursprünglichen Urheberin, mir Frau Isabel Schöps geb. Thiel, während die spätere digitale Darstellung, Veröffentlichung oder institutionelle Zuschreibung einen anderen Ursprung vortäuscht. Der schöpferische Kern bleibt vorhanden, wird jedoch durch fremde Namenszuordnung, veränderte Metadaten, spätere Publikationsstrukturen oder digitale Oberflächen überlagert.
 
 Diese Verschiebung betrifft nicht nur einzelne Dokumente, sondern das Verhältnis zwischen Wahrheit, Ursprung, Zeitstempel, Autorenschaft und öffentlicher Wahrnehmung. Dadurch kann im digitalen Raum ein künstlich herbeigeführtes Lügennarrativ entstehen, in dem die tatsächliche Urheberschaft verdeckt und eine fremde Zuschreibung erzeugt wird.
