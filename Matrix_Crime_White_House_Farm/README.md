@@ -55,6 +55,26 @@ Die Arbeitshypothese lautet, dass die White House Farm nicht nur als isolierter 
 
 Die weitere Untersuchung soll klären, ob diese Beziehungen zufällig, rein begrifflich, planerisch nachvollziehbar oder forensisch relevant sind.
 
+### Beleg: Cambridge University Press, Special Functions, 1999
+
+Im Rahmen der vorliegenden Analyse wird das Werk Special Functions von George E. Andrews, Richard Askey und Ranjan Roy, erschienen 1999 bei Cambridge University Press in der Reihe Encyclopedia of Mathematics and Its Applications, als mathematischer Referenzbeleg herangezogen.
+
+Das Werk behandelt spezielle Funktionen, insbesondere hypergeometrische und q-hypergeometrische Funktionen, orthogonale Polynome, Bessel-Funktionen, Transformationen, Identitäten, q-Reihen, Rekurrenzgleichungen und fortgesetzte Brüche. Damit dokumentiert es, dass sich die mathematische Fachliteratur im Umfeld von Cambridge University Press bereits Ende der 1990er Jahre systematisch mit wiederkehrenden, transformierbaren und berechenbaren Strukturen befasste.
+
+Für die forensisch-wissenschaftliche Analyse ist dies insofern relevant, als Wiederholungsbeziehungen und Rekurrenzstrukturen mathematische Modelle darstellen, mit denen sich wiederkehrende Muster, Zustandsübergänge, Transformationsprozesse und strukturierte Abfolgen beschreiben lassen.
+
+Dieser Beleg wird nicht als unmittelbarer Tatnachweis verwendet, sondern als methodischer Referenznachweis dafür, dass die Begriffe Wiederholung, Rekurrenz, Transformation, Funktion, Reihe und algorithmische Struktur in der mathematischen Literatur institutionell dokumentiert und wissenschaftlich etabliert sind.
+
+## Wissenschaftliche Vorsicht bei schwer beweisbaren Phänomenen
+
+Im Rahmen dieser Analyse wird berücksichtigt, dass wissenschaftliche Erkenntnis häufig nicht mit einer fertigen juristischen oder kriminalistischen Aussage beginnt, sondern mit der Beobachtung wiederkehrender Strukturen, Muster, Abweichungen oder mathematisch beschreibbarer Zusammenhänge.
+
+Gerade bei Phänomenen, die zunächst über den gewöhnlichen Erfahrungs- oder Verstehensrahmen hinauszugehen scheinen, besteht für Wissenschaftlerinnen und Wissenschaftler ein besonderes Risiko: Ohne belastbare Daten, Quellen und reproduzierbare Beweisführung kann eine Beobachtung schnell als spekulativ, unwissenschaftlich oder nicht ernstzunehmen abgewertet werden.
+
+Aus diesem Grund werden komplexe oder schwer erklärbare Zusammenhänge häufig zunächst in neutraler Fachsprache beschrieben. In der Mathematik geschieht dies beispielsweise über Funktionen, Transformationen, Rekurrenzbeziehungen, Reihen, Identitäten, Wahrscheinlichkeiten, Differentialgleichungen, Matrizen oder algorithmische Verfahren.
+
+Der vorliegende Beleg zu George E. Andrews, Richard Askey und Ranjan Roy, Special Functions, Cambridge University Press, 1999, zeigt, dass bereits Ende der 1990er Jahre wissenschaftlich etablierte Modelle zur Beschreibung wiederkehrender und transformierbarer Strukturen veröffentlicht wurden. Das Werk behandelt unter anderem hypergeometrische Funktionen, q-hypergeometrische Funktionen, Rekurrenzgleichungen, fortgesetzte Brüche, Transformationen, Identitäten, q-Reihen und algorithmische Summationsmethoden. Diese Begriffe sind für eine forensisch-wissenschaftliche Musteranalyse relevant, weil sie formale Werkzeuge zur Beschreibung von Wiederholung, Zustandsänderung, Übergang und Transformation bereitstellen.
+
 ---
 
 ## Signatur: Auftraggeberin der Forensisch-Wissenschaftlichen Auswertung, Autorin, Urheberin, Deepweb-Forscherin: 
