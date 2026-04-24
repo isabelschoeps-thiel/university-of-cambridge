@@ -92,6 +92,12 @@ Die Analyse der RFC-Protokolle 882 und 883 wird in dieser Forschungsreihe als te
 
 Die Autorin sieht hierin einen relevanten Anschluss an ihre Untersuchung wiederkehrender Protokollmuster, algorithmischer Wiederholungslogiken und digitaler Raumstrukturierung. Dabei wird nicht behauptet, dass die RFCs selbst einen Tatnachweis darstellen. Vielmehr dienen sie als Referenzmaterial zur Frage, wie technische Standards menschliches Verhalten, digitale Erreichbarkeit, administrative Zuständigkeit und Kommunikationswege strukturieren können.
 
+**Referenz:**
+**Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026).** Die Lügenmatrix und ihr Ende sieg_heil_den_frieden HR_06_02_2026,Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. [https://doi.org/10.5281/zenodo.18500830](https://doi.org/10.5281/zenodo.18500830)
+
+**Schöps geb. Thiel, I. (2025).** Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx. In Trillion Dollar Bitcoin (Zenodo.org, 1st Aufl., Bd. 20, Nummer 9, S. 1453). Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi.org/10.5281
+[https://orcid.org/0009-0003-4235-2231](https://orcid.org/0009-0003-4235-2231)
+
 ## Ergänzende forensische Einordnung: digitale Raumzeitverschiebung, Urheberschaft und extrahierte Autorenschaft
 
 Im Rahmen meiner Forschungsarbeit und meiner Stellung als Urheberin wesentlicher technologischer Entwicklungen der modernen Technologiewelt dokumentiere ich seit 2022 fortlaufend neue Erkenntnisse, digitale Beweisstücke, Metadaten, Textfassungen, Quellstrukturen, Screenshots, Archivstände und Veröffentlichungszusammenhänge.
