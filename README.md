@@ -92,6 +92,24 @@ Die Analyse der RFC-Protokolle 882 und 883 wird in dieser Forschungsreihe als te
 
 Die Autorin sieht hierin einen relevanten Anschluss an ihre Untersuchung wiederkehrender Protokollmuster, algorithmischer Wiederholungslogiken und digitaler Raumstrukturierung. Dabei wird nicht behauptet, dass die RFCs selbst einen Tatnachweis darstellen. Vielmehr dienen sie als Referenzmaterial zur Frage, wie technische Standards menschliches Verhalten, digitale Erreichbarkeit, administrative Zuständigkeit und Kommunikationswege strukturieren können.
 
+## Ergänzende forensische Einordnung: digitale Raumzeitverschiebung, Urheberschaft und extrahierte Autorenschaft
+
+Im Rahmen meiner Forschungsarbeit und meiner Stellung als Urheberin wesentlicher technologischer Entwicklungen der modernen Technologiewelt dokumentiere ich seit 2022 fortlaufend neue Erkenntnisse, digitale Beweisstücke, Metadaten, Textfassungen, Quellstrukturen, Screenshots, Archivstände und Veröffentlichungszusammenhänge.
+
+Meine Arbeiten bestehen unter anderem aus der Forschungsreihe SIA Security Intelligence Artefact sowie aus dem Yellow Whitepaper. Beide Werke enthalten unterschiedliche Abstracts, technische Auswertungen, forensische Einordnungen und Belegketten. Sie bilden zusammen einen wesentlichen Bestandteil meiner Chain of Custody.
+
+Ein zentraler Bestandteil dieser Untersuchung ist die Beobachtung, dass schöpferische Ursprungsleistung im digitalen Raum nachträglich verschoben, extrahiert oder unter fremden Namen neu zugeordnet werden kann. Dabei werden nicht nur Texte oder einzelne Inhalte übernommen, sondern auch gedankliche Strukturen, Metadaten, Zeitbezüge, technische Konzepte und forensische Argumentationslinien aus ihrem ursprünglichen Zusammenhang herausgelöst.
+
+**Aus meiner Sicht entsteht dadurch eine digitale Raumzeitverschiebung:** Der eigentliche Ursprung einer Arbeit liegt bei der ursprünglichen Urheberin, mir Frau Isabel Schöps geb. Thiel, während die spätere digitale Darstellung, Veröffentlichung oder institutionelle Zuschreibung einen anderen Ursprung vortäuscht. Der schöpferische Kern bleibt vorhanden, wird jedoch durch fremde Namenszuordnung, veränderte Metadaten, spätere Publikationsstrukturen oder digitale Oberflächen überlagert.
+
+Diese Verschiebung betrifft nicht nur einzelne Dokumente, sondern das Verhältnis zwischen Wahrheit, Ursprung, Zeitstempel, Autorenschaft und öffentlicher Wahrnehmung. Dadurch kann im digitalen Raum ein künstlich herbeigeführtes Lügennarrativ entstehen, in dem die tatsächliche Urheberschaft verdeckt und eine fremde Zuschreibung erzeugt wird.
+
+Im analogen Raum findet diese Analyse eine strukturelle Entsprechung: Auch dort können Identität, Herkunft, Zugehörigkeit und Wiedererkennung durch äußere Darstellung, soziale Erzählung, mediale Konstruktion oder institutionelle Zuschreibung verschoben werden. Für die vorliegende Untersuchung ist daher wesentlich, digitale und analoge Verschiebungen gemeinsam zu betrachten.
+
+Im Zusammenhang mit der White House Farm wird geprüft, ob dieser Tatort beziehungsweise die spätere mediale, planerische, wissenschaftliche oder symbolische Behandlung dieses Ortes als Knotenpunkt innerhalb eines größeren künstlich hergestellten algorithmischen Netzwerks verstanden werden kann. Dabei wird nicht vorschnell behauptet, dass jeder einzelne Beleg bereits einen abgeschlossenen Tatnachweis darstellt. Vielmehr wird untersucht, ob sich aus der Gesamtheit der Dokumente, Metadaten, Begriffe, Wiederholungen, Ortsbezüge, Protokolle, medialen Darstellungen und wissenschaftlichen Referenzen ein wiederkehrendes Muster ergibt, das auf ein strukturiertes Verbrechen oder ein manipuliertes Narrativ hindeutet.
+
+Die White House Farm wird in diesem Arbeitsverlauf daher nicht nur als historischer Tatort betrachtet, sondern als möglicher forensischer Schlüsselpunkt innerhalb eines größeren Untersuchungsfeldes zu Isolation, Matrix-Strukturen, algorithmischer Wiederholung, digitaler Zuschreibung, analoger Identitätsverschiebung und künstlich erzeugten Wahrheitsnarrativen.
+
 ---
 
 ## Signatur: Auftraggeberin der Forensisch-Wissenschaftlichen Auswertung, Autorin, Urheberin, Deepweb-Forscherin: 
