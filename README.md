@@ -74,6 +74,24 @@ Aus diesem Grund werden komplexe oder schwer erklärbare Zusammenhänge häufig 
 
 Der vorliegende Beleg zu George E. Andrews, Richard Askey und Ranjan Roy, Special Functions, Cambridge University Press, 1999, zeigt, dass bereits Ende der 1990er Jahre wissenschaftlich etablierte Modelle zur Beschreibung wiederkehrender und transformierbarer Strukturen veröffentlicht wurden. Das Werk behandelt unter anderem hypergeometrische Funktionen, q-hypergeometrische Funktionen, Rekurrenzgleichungen, fortgesetzte Brüche, Transformationen, Identitäten, q-Reihen und algorithmische Summationsmethoden. Diese Begriffe sind für eine forensisch-wissenschaftliche Musteranalyse relevant, weil sie formale Werkzeuge zur Beschreibung von Wiederholung, Zustandsänderung, Übergang und Transformation bereitstellen.
 
+## Einbindung früherer Forschungsarbeit zu RFC-Protokollen, Namensräumen und digitaler Strukturierung
+
+Im Rahmen der vorliegenden Untersuchung werden frühere Forschungsarbeiten der Autorin zu RFC-Protokollen, digitalen Namensräumen, Protokollentwicklung und Chain-of-Custody-Strukturen einbezogen.
+
+Besondere Relevanz besitzen RFC 882 und RFC 883 aus dem Jahr 1983. RFC 882 beschreibt die Konzepte und Einrichtungen von Domain-Namen, insbesondere deren Nutzung für ARPA-Internet-Mail, Host-Adressierung sowie die Protokolle und Server zur Umsetzung von Domain-Name-Funktionen. RFC 883 behandelt die Implementierung von Domain-Name-Servern und Resolvern, das Format von Transaktionen sowie die Nutzung von Domain-Namen im Zusammenhang mit bestehenden Mail-Systemen und anderer Netzwerksoftware.
+
+Aus forensischer Sicht sind diese Dokumente deshalb relevant, weil sie frühe technische Grundlagen für digitale Namensräume, Adressierung, Weiterleitung, Zuständigkeitsverteilung, administrative Grenzen und verteilte Datenbanken dokumentieren. Damit wird sichtbar, dass digitale Räume bereits in den frühen 1980er Jahren nicht nur technisch, sondern auch organisatorisch und strukturell modelliert wurden.
+
+Die Autorin untersucht diese Protokolle nicht isoliert als technische Standards, sondern als Bestandteil einer größeren Chain-of-Custody-Analyse. Dabei wird geprüft, ob wiederkehrende Begriffe, Protokolländerungen, Warnhinweise, Verweise, Aktualisierungen und spätere Ersetzungen Hinweise auf systematische Strukturverschiebungen innerhalb digitaler Räume geben können.
+
+Die These der Autorin lautet, dass technische Protokolle nicht nur neutrale Dokumentationen darstellen, sondern auch Verhaltensanweisungen, Grenzziehungen und Steuerungslogiken enthalten können. In dieser Perspektive wird untersucht, ob bestimmte Protokollformulierungen als Hinweise auf bereits bekannte, erwartete oder zu vermeidende technische Zustände verstanden werden können.
+
+Schöps geb. Thiel, Isabel. 2026. Die Lügenmatrix und ihr Ende sieg_heil_den_frieden HR_06_02_2026. Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. DOI: 10.5281/zenodo.18500830. Von der Autorin als Bestandteil der Chain of Custody und der SIA Security Intelligence Artefact Forschungsreihe angegeben.
+
+Die Analyse der RFC-Protokolle 882 und 883 wird in dieser Forschungsreihe als technischer Frühbeleg für die Strukturierung digitaler Räume herangezogen. Die Dokumente zeigen, dass Namensräume, Adressierung, Mail-Systeme, Resolver, Server, Protokollformate und verteilte Datenbanken bereits 1983 als steuerbare technische Ordnungssysteme beschrieben wurden.
+
+Die Autorin sieht hierin einen relevanten Anschluss an ihre Untersuchung wiederkehrender Protokollmuster, algorithmischer Wiederholungslogiken und digitaler Raumstrukturierung. Dabei wird nicht behauptet, dass die RFCs selbst einen Tatnachweis darstellen. Vielmehr dienen sie als Referenzmaterial zur Frage, wie technische Standards menschliches Verhalten, digitale Erreichbarkeit, administrative Zuständigkeit und Kommunikationswege strukturieren können.
+
 ---
 
 ## Signatur: Auftraggeberin der Forensisch-Wissenschaftlichen Auswertung, Autorin, Urheberin, Deepweb-Forscherin: 
