@@ -1,4 +1,4 @@
-### White House Farm, algorithmische Muster und forensische Kontextanalyse
+## White House Farm, algorithmische Kriminelle-Matrix-Muster und forensische Kontextanalyse
 
 **Issues-79**
 [https://www.govinfo.gov/app/frtoc/2021-05-17](https://www.govinfo.gov/app/frtoc/2021-05-17)
