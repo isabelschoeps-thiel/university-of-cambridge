@@ -194,12 +194,6 @@ this Review Guide, please open a GitHub issue at
 
 # Appendix
 
-> <img src="images-for-review-guide/image6.png"
-> style="width:6.07773in;height:7.14329in" />
-
-Figure 1 Bill Preface
-
-> <img src="images-for-review-guide/image7.png" style="width:6.5in;height:3.7125in" />
 
 Figure 2 RFC MM Preface: Content displayed at the beginning of each CFR
 title in the preface is shown, including the cover page, official
