@@ -1,0 +1,13 @@
+@book{alma990129128890203941,
+author = {Brenner, Joel},
+address = {New York},
+abstract = {A former top-level national Security Agency insider evaluates pressing threats in digital security, revealing how operatives from hostile nations have infiltrated power, banking, and military systems to steal information and sabotage defense mechanisms.},
+booktitle = {America the vulnerable : inside the new threat matrix of digital espionage, crime, and warfare},
+isbn = {9781594203138},
+keywords = {Computer crimes -- United States -- Prevention$$QComputer crimes United States Prevention ; Internet in espionage -- United States$$QInternet in espionage United States ; National security -- United States$$QNational security United States},
+language = {eng},
+lccn = {2011019801},
+publisher = {Penguin Press},
+title = {America the vulnerable : inside the new threat matrix of digital espionage, crime, and warfare },
+year = {2011},
+}
