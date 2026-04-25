@@ -3,6 +3,9 @@
 **Issues-86**
 [https://www.govinfo.gov/app/frtoc/2021-05-17](https://www.govinfo.gov/app/frtoc/2021-05-17)
 
+[**FR-2026-04-24**](https://www.govinfo.gov/content/pkg/FR-2026-04-24/xml/FR-2026-04-24.xml#seqnum22167)
+
+
 Im Rahmen meiner forensischen Forschungsarbeit im Bereich Deep Web, algorithmische Matrix, digitale Beweissicherung und strukturelle Verbrechensmuster eröffne ich diesen Arbeitsverlauf zur gesonderten Analyse des sogenannten White-House-Farm-Verbrechens.
 
 Dieser Verlauf dient ausschließlich der forensisch-wissenschaftlichen Einordnung dieses Falls im Zusammenhang mit möglichen wiederkehrenden algorithmischen Strukturen, analogen Tatorten, digitalen Spiegelungen, architektonischen Mustern und der Vermischung zwischen realem Leben und digitaler Rekonstruktion.
