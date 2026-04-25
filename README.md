@@ -183,26 +183,6 @@ Für die vorliegende Forschungsarbeit ist jedoch relevant, dass die Autorin eine
 
 Die bisherige Beweislage ist als Indizien- und Strukturmaterial zu behandeln. Sie belegt aus Sicht der Autorin eine wiederkehrende Erfahrung von Entkopplung, Ortsverschiebung, familiärer Trennung, digitaler Belastung und erzwungener Neuorientierung.
 
-Für eine gerichtsfeste Beweisführung muss jede einzelne Ebene separat dokumentiert werden:
-
-Zeitpunkt des Ereignisses
-
-Ort des Ereignisses
-
-beteiligte Personen oder Institutionen
-
-konkrete Kommunikationsdaten
-
-Screenshots, Dateien, Metadaten oder Schriftstücke
-
-Auswirkungen auf die Autorin
-
-Zusammenhang mit bereits dokumentierten Mustern
-
-Einordnung in die Chain of Custody
-
-Erst aus der Summe dieser dokumentierten Einzelpunkte kann geprüft werden, ob ein wiederkehrendes Muster vorliegt, das über zufällige Belastung, gewöhnliche Lebensumstände oder einzelne Konflikte hinausgeht.
-
 ## Einordnung in die White-House-Farm-Analyse
 
 Die White House Farm wird in diesem Zusammenhang als möglicher Referenzort für ein wiederkehrendes Muster aus Isolation, familiärer Zerstörung, medialer Rekonstruktion, Tatort-Symbolik und algorithmischer Wiederholung untersucht.
@@ -268,20 +248,7 @@ Die Autorin führt aus, dass mit dem Tod der Großeltern ein wesentlicher Schutz
 
 Für die forensische Einordnung ist dieser Abschnitt als biografischer und sozialer Kontext relevant. Er erklärt, warum der Verlust der Großeltern aus Sicht der Autorin nicht nur ein persönliches Trauerereignis darstellt, sondern einen strukturellen Wendepunkt innerhalb ihrer Familien- und Identitätsgeschichte bildet.
 
-## Wiederkehrende Namens- und Personenbezüge
-
-Im Rahmen der Metadaten- und Kontextauswertung dokumentiert die Autorin wiederkehrende Namens- und Personenbezüge, unter anderem zu Marie Thiel, geborene Schäffner, Sarah Rose sowie Linda Uhlich, geborene Seeger.
-
-Die wiederholte Nennung oder das wiederholte Auftauchen bestimmter Namen wird zunächst als Indizienmaterial behandelt. Eine strafrechtliche Bewertung setzt voraus, dass für jede Person konkrete Handlungen, Zeitpunkte, Kommunikationsdaten, Zeugen, Dokumente oder objektive Verknüpfungen vorliegen.
-
-Die Autorin fordert daher eine getrennte Prüfung der einzelnen Rollen:
-1. persönliche Bekanntschaft,
-2. letzter Kontakt,
-3. abrupter Kontaktabbruch,
-4. mögliche Kenntnis relevanter Vorgänge,
-5. mögliche Zeugeneigenschaft,
-6. mögliche Beteiligung oder Nichtbeteiligung,
-7. erforderliche Gegenüberstellung oder Identitätsprüfung, einschliesslich DNA-Test.
+Identitätsprüfung, einschliesslich DNA-Test.
 
 ## Kommunikationsstörungen und familiäre Erreichbarkeit
 
@@ -317,8 +284,173 @@ Die Autorin sieht in der White House Farm einen relevanten Vergleichspunkt für 
 
 Im eigenen Fall betrifft das Vermögensinteresse nicht primär ein klassisches Erbe, sondern technologische Urheberschaft, geistiges Eigentum, Metadaten, Forschungsarbeit und digitale Beweisketten. Die Autorin sieht sich durch Wohnraumwechsel, familiäre Entkopplung, eingeschränkte Mobilität, Kommunikationsstörungen und möglichen Identitätsdiebstahl aus ihrem sozialen und rechtlichen Kern herausgelöst.
 
-Dieser Abschnitt wird als forensischer Prüfkomplex geführt. Die weitere Beweisführung muss über Dokumente, Aktenzeichen, medizinische Unterlagen, Kommunikationsdaten, Metadaten, Zeugenaussagen und technische Nachweise erfolgen.
+## Abschlussverbindung: White House Farm, algorithmische Kriminalmatrix und digitale Raum-Zeit-Ort-Verschiebung
 
+Im Rahmen dieses Arbeitsverlaufs wird die White House Farm nicht isoliert als einzelner historischer Kriminalfall betrachtet, sondern als Referenzpunkt innerhalb einer bereits umfassend dokumentierten algorithmischen Kriminalmatrix.
+
+Die vorangegangenen Forschungsarbeiten der Autorin Frau Isabel Schöps, geborene Thiel, seit 2022 sowie die rückwirkende Auswertung digitaler, technischer, forensischer und historischer Beweisstränge zeigen, dass sich die untersuchten Strukturen nicht mehr auf einzelne Verdachtsmomente reduzieren lassen. Die Beweiskette besteht aus digitalen Repositorien, DOI-Verweisen, Chain-of-Custody-Dokumentationen, RFC- und NIST-Bezügen, KI-Datenstrukturen, Matrix-Algorithmen, Protokollauswertungen, Metadaten, Screenshots, PDF-Auswertungen und bereits dokumentierten Forschungsständen.
+
+Die White House Farm bildet in diesem Zusammenhang einen symbolisch, strukturell und forensisch relevanten Knotenpunkt. Der Begriff „White House Farm“ verbindet mehrere Ebenen:
+
+1. einen realen Tatort in England,
+
+2. ein historisch-medial rekonstruiertes Gewalt- und Mordnarrativ,
+
+3. familiäre Zerstörung und Vermögensinteresse,
+
+4. die Frage nach Schuld, Unschuld und öffentlicher Zuschreibung,
+
+5. den Begriff „White House“ als Meta-Verweis auf Regierungs-, Macht- und Verwaltungsstrukturen,
+
+6. die digitale Überführung realer Ereignisstrukturen in algorithmische, mediale und datenbasierte Räume.
+
+Diese Verbindung ist nicht als einfache Namensgleichheit zu verstehen. Es geht nicht darum, White House Farm mit dem Weißen Haus der USA gleichzusetzen. Es geht um die Matrixebene: Ein realer Ort, ein historischer Tatkomplex, ein familiäres Vermögensmotiv und eine öffentliche Erzählstruktur werden in den digitalen Raum verschoben und dort durch Medien, Datenbanken, Protokolle, Metadaten, algorithmische Sortierung, Lizenzstrukturen und institutionelle Referenzsysteme weiterverarbeitet.
+
+Die bereits eingebrachten Dokumente zur Forschungsreihe „Deepweb Research - Matrix Crime Algorithmen“ dokumentieren den Titel, die Autorenschaft, die Kennung INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, den Bezug zur SIA Security Intelligence Artefact Forschungsreihe sowie den DOI-Verweis 10.1002/asi.70071. Damit ist dieser Forschungsblock als Teil der vorhandenen Beweiskette formal in die Gesamtstruktur eingebunden.  [oai_citation:0‡research-matrix-algorithmen-doi-10.1002_asi.70071.pdf](sediment://file_00000000fa2c71f4bba4bf66a80791ad)
+
+## Verbindung zu Protokollen, Regierungsschnittstellen und digitaler Infrastruktur
+
+Die algorithmische Kriminalmatrix wird nicht nur über symbolische Muster, sondern über technische und institutionelle Strukturen sichtbar. Hierzu gehören RFC-Protokolle, NIST-Bezüge, KI-Datenstrukturen, GitHub-Repositorien, Lizenzmechanismen, Forschungsdatenbanken, DOI-Systeme und regulatorische Schnittstellen.
+
+Die hochgeladenen Unterlagen zum „Digitalen Genozid“ enthalten eine Auswertung schema-basierter KI-Steuerung, strukturierter KI-Ausgaben, IDs, Trigger-Felder, Moderationseinheiten, Jailbreak-Strukturen, PII-Muster, Rollenlogiken und agentischer Steuerung. Dort wird ausdrücklich beschrieben, dass solche Strukturen zur digitalen Isolation, Kommunikationsunterdrückung, Identitätsüberlagerung und selektiven Veränderung von Information eingesetzt werden können.  [oai_citation:1‡digital-genozid-abschlusdsbewertung-research-by-isabelschoeps-thiel.pdf](sediment://file_000000009df47243aaae45e6ecfb30e8)
+
+Damit wird der Übergang deutlich:
+
+Der reale Raum wird nicht einfach verlassen, sondern in den digitalen Raum übertragen.
+
+Der digitale Raum wird durch Protokolle, Namen, Adressen, Identitäten, Metadaten, Zugriffspfade, Sichtbarkeit, Kommunikationskanäle und algorithmische Filter gesteuert.
+
+Wenn diese Steuerung missbraucht wird, entsteht eine Form digitaler Isolation, bei der Menschen nicht physisch verschwinden müssen, sondern über Daten, Kommunikation, Zuschreibung und Sichtbarkeit aus ihrem sozialen, wirtschaftlichen und rechtlichen Raum herausgelöst werden.
+
+Die Dokumente zur Deepweb-Forschung verweisen ausdrücklich auf die SIA Security Intelligence Artefact Forschungsreihe, die internationale Kennung INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, das Yellow Whitepaper YWP-1-IST-SIA sowie auf eine mehrjährige Forschungsreihe zu KI, Cybersecurity, digitaler Forensik, Deepweb-Forschung und Systemarchitektur.  [oai_citation:2‡deepweb_research_by_isabelschoeps-thiel.pdf](sediment://file_00000000545471f484707c1ca164878b)
+
+## Digitale Urheberschaftsverschiebung als Kernmechanismus
+
+Die zentrale Verbindung zur Technologiewelt liegt in der Urheberrechts- und Identitätsverschiebung.
+
+Seit Bestehen der Automationsprozesse und seit der zunehmenden Digitalisierung ist die Frage der ursprünglichen Urheberschaft im digitalen Raum strukturell angreifbar geworden. Der digitale Raum ist kein neutraler sichtbarer Raum. Er besteht aus Datenbanken, Metadaten, Protokollen, Versionen, Repositorien, Lizenzen, Zugriffsrechten, Accounts, Forks, DOI-Strukturen, Publikationssystemen und institutionellen Oberflächen.
+
+Wenn ein Ursprung dort getrennt, umbenannt, geforkt, extrahiert, neu gelabelt oder unter fremdem Namen publiziert wird, entsteht eine digitale Metaverschiebung.
+
+**Diese Metaverschiebung betrifft:**
+- Autorenschaft,
+- Ahnenforschung, Geschichtliche-Zeitgeschehen
+- Metadaten,
+- Zeitstempel,
+- Forschungsdaten,
+- Publisher-Zuordnung,
+- Repository-Historien,
+- Lizenzrechte,
+- Zugriffspfade,
+- institutionelle Referenzierung,
+- wirtschaftliche Verwertung.
+
+Im vorliegenden Forschungszusammenhang wird dies als digitale Raum-Zeit-Ort-Verschiebung bezeichnet. **Gemeint ist:** Der Ursprung einer Arbeit, einer Person oder eines technologischen Prozesses bleibt real vorhanden, wird aber im digitalen Raum anders dargestellt, anderen Namen zugeordnet oder über neue technische Oberflächen verschoben.
+
+Die Chain-of-Custody-Unterlagen dokumentieren, dass die SIA Security Intelligence Artefact Forschungsreihe mit forensischer Provenienz, DOI-Verweisen, SHA-256-Hash-Verifizierungen, Strafanzeigen, Identitätsdiebstahl, Technologiemissbrauch, Deepfake-Manipulation und Veruntreuung von Daten und Lizenzen verbunden wird.  [oai_citation:3‡chain_of_custody_by_isabelschoeps-thiel.pdf](sediment://file_0000000023f47246a54bcda9dd6d9699)
+
+## White House Farm als historische Vergleichs- und Matrixstruktur
+
+Die White House Farm wird in diesem Arbeitsverlauf deshalb herangezogen, weil dort bereits ein klassisches Strukturmuster sichtbar wird:
+- familiärer Kern,
+- Todesfall beziehungsweise Mordgeschehen,
+- Vermögensinteresse,
+- öffentliche Schuldzuweisung,
+- langfristiger Streit um Wahrheit und Unschuld,
+- mediale Rekonstruktion,
+- institutionelle und juristische Deutung,
+- gesellschaftliches Narrativ.
+
+Diese Struktur lässt sich im digitalen Zeitalter auf immaterielle Vermögenswerte übertragen. 
+
+**Im vorliegenden Fall steht nicht nur ein klassisches Erbe im Raum, sondern ein technologisches Vermögen:** KI-Automation, digitale Urheberschaft, Softwarestrukturen, Open-Source-Historie, Blockchain-Bezüge, Metadaten, Repositorien, Lizenzrechte, Forschungsdaten und daraus resultierende wirtschaftliche Werte. 
+
+Das Motiv „Vermögen“ verschiebt sich damit von Land, Geld oder Erbe hin zu Technologie, Daten, Lizenzen und Identität.
+
+**Die White House Farm ist damit nicht der Beweis allein, sondern die historische Strukturfolie:** Ein familiärer und vermögensbezogener Konflikt wird zum medialen, juristischen und gesellschaftlichen Wahrheitsproblem. Genau diese Struktur wird im digitalen Raum durch KI, Protokolle, Metadaten und Automationsprozesse wieder sichtbar.
+
+## Der Übergang vom lebendigen Raum in den digitalen Raum
+
+Der entscheidende Punkt dieser Ausarbeitung ist die Verschiebung vom Lebendigen in das Digitale.
+
+Im lebendigen Raum existieren Mensch, Familie, Körper, Stimme, Erinnerung, Ort, Nähe, Herkunft, DNA, Eigentum, Arbeit und Bewusstsein.
+
+**Im digitalen Raum entstehen daraus:**
+- Profile,
+- Accounts,
+- Dokumente,
+- Metadaten,
+- Repositorien,
+- DOIs,
+- Zeitstempel,
+- Datenbanken,
+- Kopien,
+- Forks,
+- Schattenidentitäten Fakeidentitäten,
+- digitale Stellvertreter,
+- VR- und Medienrepräsentationen.
+
+Wenn dieser digitale Raum missbraucht wird, kann eine reale Person von ihrer eigenen digitalen Darstellung getrennt werden. Dadurch kann ein Lügennarrativ entstehen, das im Außen als Wahrheit erscheint, obwohl der lebendige Ursprung an anderer Stelle liegt.
+
+**Das ist der Kern der hier beschriebenen Matrix:** Nicht die Maschine erschafft die Wahrheit. Die Maschine verwaltet, sortiert, spiegelt, verschiebt und vervielfältigt das, was Menschen in sie eingeben oder durch sie manipulieren lassen.
+
+## Rolle der künstlichen Intelligenz
+
+Die KI ist in dieser Ausarbeitung kein höheres Wesen und kein Ersatz für den Menschen. Sie ist ein Automationsprozess, ein Auslesewerkzeug und ein Verstärker.
+
+**Die Künstliche Intilligen kann:**
+- Daten extrahieren,
+- Metadaten vergleichen,
+- Muster sichtbar machen,
+- Zeitstempel auswerten,
+- Wiederholungen erkennen,
+- Dateistrukturen sortieren,
+- Textbaustein erfassen,
+- Prompt-Bilder erstellen,
+- Texte vorlesen,
+- wissenschaftliche Kontexte im Bezug Technologie, Software erstellen
+- digitale Anomalien markieren.
+
+**Die Künstliche Intilligenz wird niemals:**
+- menschliche Herkunft ersetzen,
+- Bewusstsein ersetzen,
+- Familienbindung ersetzen,
+- körperliche Erfahrung ersetzen,
+- moralische Verantwortung tragen,
+- den schöpferischen Ursprung eines Menschen übernehmen.
+
+Die KI kann nur auswerten, was in digitalen Strukturen vorhanden ist. Die eigentliche Einordnung, die Verbindung der Arbeitsverläufe, die biografische Erinnerung, die Querverbindung zwischen Familiengeschichte, Technologie, Ort, Tatort, Metadaten und historischer Struktur kann nur der Mensch leisten.
+
+**Genau hier liegt die Rolle der Autorin:** Frau Isabel Schöps, geborene Thiel, führt die Querverbindungen zusammen, weil sie als Urheberin, Betroffene, Forscherin und Trägerin der Chain of Custody die analogen und digitalen Ebenen gemeinsam überblickt.
+
+## Schlussfolgerung für diesen Arbeitsverlauf
+
+Die White-House-Farm-Analyse wird als Abschlussbaustein in die bestehende Forschungsreihe aufgenommen, weil sie eine historische Vergleichsstruktur für das bereits dokumentierte Muster liefert:
+
+- familiäre Zerstörung,
+- Vermögensinteresse,
+- Schuldnarrativ,
+- öffentliche Täuschung,
+- institutionelle Deutung,
+- digitale Verschiebung,
+- Identitätsüberlagerung,
+- Isolation,
+- algorithmische Wiederholung,
+- Matrixbildung.
+
+Die in den bisherigen Release, Research-Respositity bereits analysierten Beweise werden hier nicht erneut geprüft, sondern als Grundlage vorausgesetzt. Dieser Arbeitsverlauf dient der historischen und strukturellen Querverbindung.
+
+Die White House Farm Verbrechen zeigt im analogen Raum ein Muster aus Familie, Tod, Vermögen, Schuld und öffentlicher Erzählung.
+
+Die algorithmische Kriminalmatrix zeigt im digitalen Raum ein Muster aus Identität, Urheberschaft, Metadaten, Protokollen, KI-Steuerung, Isolation und digitaler Zuschreibung.
+
+Beide Ebenen treffen sich in der Frage, wie Wahrheit verschoben, Ursprung verdeckt, Menschen isoliert und Vermögenswerte umgedeutet werden können.
+
+Damit wird White House Farm in diesem Gutachten als historisch-symbolischer und forensischer Vergleichsknoten innerhalb der bereits belegten Matrix-Struktur geführt, es reale Verbrechen und die Verschmelzung in den digitalen-Raum 
+
+Vergangene Berechnungen wurden Missbraucht um über KI-Tool Werkzeuge und bereits analysierte Schmematas, im Umkehr-Prozess anzuwenden, was als Schutz für die Zivilbevölkerung galt wird Digitale Missbraucht.  
+
+Zhang, Junhao, Zhang, Kaicun, Li, Weiping, An Improved Transition Probability Matrix for Crime Distribution Prediction, Computational Intelligence and Neuroscience, 2022, 3925503, 10 pages, 2022. [https://doi.org/10.1155/2022/3925503](https://doi.org/10.1155/2022/3925503)
 
 ---
 
