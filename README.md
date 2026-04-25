@@ -1,10 +1,11 @@
 ### White House Farm, algorithmische Muster und forensische Kontextanalyse
 
-**Issues-86**
+**Issues-79**
 [https://www.govinfo.gov/app/frtoc/2021-05-17](https://www.govinfo.gov/app/frtoc/2021-05-17)
 
 [**FR-2026-04-24**](https://www.govinfo.gov/content/pkg/FR-2026-04-24/xml/FR-2026-04-24.xml#seqnum22167)
 
+> **Office of the Federal Register, National Archives and Records Administration. (2026, April 24).** 91 FR 22167 - United States et al. v. Constellation Energy Corporation, Inc. et al. Response of Plaintiff United States to Public Comments on the Proposed Final Judgment. [Government]. Office of the Federal Register, National Archives and Records Administration. **https://www.govinfo.gov/app/details/FR-2026-04-24/2026-08095**
 
 Im Rahmen meiner forensischen Forschungsarbeit im Bereich Deep Web, algorithmische Matrix, digitale Beweissicherung und strukturelle Verbrechensmuster eröffne ich diesen Arbeitsverlauf zur gesonderten Analyse des sogenannten White-House-Farm-Verbrechens.
 
