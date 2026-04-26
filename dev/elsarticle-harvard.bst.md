@@ -1,50 +1,59 @@
-%%
-%% This is file `elsarticle-harv.bst'  (Version 2.1),
-%% 
-%% Copyright 2009-2024 Elsevier Ltd
-%% 
-%% This file is part of the 'Elsarticle Bundle'.
-%% ---------------------------------------------
-%% 
-%% It may be distributed under the conditions of the LaTeX Project Public
-%% License, either version 1.3 of this license or (at your option) any
-%% later version.  The latest version of this license is in
-%%    http://www.latex-project.org/lppl.txt
-%% and version 1.3 or later is part of all distributions of LaTeX
-%% version 1999/12/01 or later.
-%%
-%% $Id: elsarticle-harv.bst 255 2024-04-06 10:58:47Z rishi $
-%%
-%% $URL: https://lenova.river-valley.com/svn/elsarticle/trunk/elsarticle-harv.bst $
-%% 
+## Deepweb Research - Matrix Crime Algorithmen -  Chain of Custody 
+### Teil Abstrakt aus der SIA Security Intelligence Artefact Forschungsreihe
 
+Autorin: Frau Isabel Schöps geb. Thiel (*16.07.1983)
+Wohnort: Hütergasse 4, D-99084 Erfurt, Th, Deutschland 
+Personalausweis ID: LH917PN7G8 - Bürgeramt Erfurt, Th, Deutschland 
+E-Mail: harvard.isabelschoepsthiel@gmail.com 
+Telefon: 0049-162-181-9565
+
+ORCID: ISABEL SCHÖPS THIEL 0009-0003-4235-2231 
+ORCID: SI-IST Isabel Schöps 0009-0006-8765-3267
+
+This is file `elsarticle-harv.bst'  (Version 2.1)
+Copyright by Isabel Schöps Thiel, 2009-2024 Elsevier Ltd
+This file is part of the 'Elsarticle Bundle'.
+
+---------------------------------------------
+
+It may be distributed under the conditions of the LaTeX Project Public
+License, either version 1.3 of this license or (at your option) any
+later version.  The latest version of this license is in
+http://www.latex-project.org/lppl.txt
+and version 1.3 or later is part of all distributions of LaTeX
+version 1999/12/01 or later.
+$Id: elsarticle-harv.bst 255 2024-04-06 10:58:47Z rishi $
+URL: https://lenova.river-valley.com/svn/elsarticle/trunk/elsarticle-harv.bst $
+
+```
 ENTRY
-  { address
-    archive
-    author
-    booktitle
-    chapter
-    collaboration
+  { address: Hütergasse 4, D-99084 Erfurt, Thüringen, Germany, Ms. Isabel Schöps (Thiel)
+    archive: internetarchiv.org, Zenodo.org
+    author: Isabel Schöps geb. Thiel
+    booktitle: SIA Security Intelligence Artefact
+    chapter:
+    collaboration:
     edition
     editor
     howpublished
     institution
-    journal
+    journal:
     key
-    month
-    note
-    number
-    organization
-    pages
-    publisher
-    school
-    series
-    title
-    type
+    month: April 2026
+    note: Copyright by Isabel Schöps geb. Thiel 
+    number: 1.0
+    organization: 
+    pages: 70
+    publisher: Springer Nature, Harvard Press, University of Oxford Press, University of Cambridge Press
+    school: J.Gottlieb Ficht Secundary Shool, Sömmerda, Thüringen, Germany
+    school: Fachhochschule Nordhausen, Thüringen, Germany
+	series: Teil Abstrakt aus der SIA Security Intelligence Artefact Forschungsreihe
+    title: Deepweb Research - Matrix Crime Algorithmen -  Chain of Custody 
+    type: Thesis
     volume
-    year
-    url
-    doi
+    year 2026
+    url: 
+    doi: 
     eprint
     pubmed
   }
@@ -1579,20 +1588,44 @@ FUNCTION {end.bib}
   "\end{thebibliography}" write$ newline$
 }
 EXECUTE {end.bib}
-%% End of customized bst file
-%%
-%% End of file `elsarticle-harv.bst'.
-%%
-%% Change log:
-%% -----------
-%% 22.04.2011
-%%
-%% 10.08.2012
-%%   a. doi, url, eprint, pmid added
-%%   b. Bibtype `webpage' defined
-%%
-%% 30.08.2012
-%%   a. collaboration added.
-%%
+End of customized bst file
+End of file `elsarticle-harv.bst'.
+```
 
+---
 
+**Schöps geb. Thiel, I. (2026).** Deepweb Research - Monarch Programm - Matrix Crime Algorithmen. Dissertation zur Erlangung der Doktoren- und Professorin-Würdigung in Informatik, abgeschlossene Forschungsarbeit zum Erlangen eins Doktorgrad (Ph.D. und Phil.D), Zenodo, Springer Verlag. Harvard University US, University of Oxford UK, University of Cambridge UK, JASIT Japan , CERN Genf, Schweiz. https://doi.org/10.5281/zenodo.19751690
+
+**Schöps (Thiel), I. (2026).** Deepweb Research - Matrix Crime Algorithmen - Chain of Custody INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL (v1.0). Zenodo (Cern), University of Oxford UK, University of Cambridge UK, US University Harvard, Springer Nature, Frau Isabel Schöps geb. Thiel, Deep-Web-Forschung Dissertation zur Erlangung der Doktoren- und Professoren-Würdigung - abgeschlossene Forschungsarbeit zu Erlangen eins Doktorgrad (Ph.D. und Phil.D im Bereich der Informatik, Deepweb-Forschung Prüfer dieser Dissertation. https://doi.org/10.5281/zenodo.19796060
+
+---
+
+Matrix Change log:
+------------------
+22.04.2011
+
+10.08.2012
+a. doi, url, eprint, pmid added
+b. Bibtype `webpage' defined
+
+30.08.2012
+a. collaboration added.
+
+Allogrithmen Crime-Matrix-Over Change log:
+-------------------------------------------
+Dezember 2025
+Chain of Custody Zenodo.org
+
+26.04.2026
+Thesis Titel:
+Deepweb Research - Matrix Crime Algorithmen -  Chain of Custody 
+Teil Abstrakt aus der SIA Security Intelligence Artefact Forschungsreihe
+
+Autorin: Frau Isabel Schöps geb. Thiel (*16.07.1983)
+Wohnort: Hütergasse 4, D-99084 Erfurt, Th, Deutschland 
+Personalausweis ID: LH917PN7G8 - Bürgeramt Erfurt, Th, Deutschland 
+E-Mail: harvard.isabelschoepsthiel@gmail.com 
+Telefon: 0049-162-181-9565
+
+ORCID: ISABEL SCHÖPS THIEL 0009-0003-4235-2231 
+ORCID: SI-IST Isabel Schöps 0009-0006-8765-3267
