@@ -13,9 +13,11 @@ Aktueller Wohnort und Meldeanschrift: Hütergasse 4, D-99084 Erfurt, TH, Deutsch
 eMail: Harvard.isabelschoepsthiel@gmail.com
 Telefon: +49 162 1819565
 
+---
+
 **Affiliation:** [University of Cambridge: https://www.cam.ac.uk](https://www.cam.ac.uk ) 
 
-Mr. Prof. Richard Westcott 
+**Mr. Prof. Richard Westcott** 
 Director of Communications for
 Cambridge University Health Partners (CUHP) and Cambridge Biomedical Campus Ltd (CBC). 
 Westcott, R. (1988). Who’s who. British Medical Journal, 296, 405. In: Materia Non Medica. 
@@ -54,7 +56,7 @@ Richard is the Director of Communications for Cambridge University Health Partne
 
 Westcott beschreibt familiäre Beziehungen als
 „trees and pyramids … as mixed as my attempts at unravelling the threads of relationships“
-und vergleicht sie ausdrücklich mit der „fading family tree of the royal succession from William the Conqueror … to Elizabeth II“  .
+und vergleicht sie ausdrücklich mit der „fading family tree of the royal succession from William the Conqueror … to Elizabeth II“.
 
 **Forensisch formuliert für Dein Gutachten:**
 
@@ -130,7 +132,7 @@ Während das **SIA Security Intelligence Artefact** die vollständige forensisch
 
 ---
 
-# Wissenschaftliche Einordnung
+## Wissenschaftliche Einordnung
 
 Die Veröffentlichung orientiert sich an internationalen wissenschaftlichen Standards der Daten- und Forschungsarchivierung.
 
@@ -154,22 +156,20 @@ Die Veröffentlichung erfolgt im Kontext moderner **Open-Science- und Forschungs
 
 ---
 
-# Autorin
+## Autorin, Deepweb Forscherin
 
 **Frau Isabel Schöps, geborene Thiel**  
-Auftraggeberin, Entwicklerin, Urheberin, Autorin
-
-Forensisches Gutachten:  
+Auftraggeberin, Entwicklerin, Urheberin, Autorin Forensisches Gutachten:  
 **Ursprung, Entwicklung und Nachweis der globalen Systemsoftware und Open-Source-Technologie**
 
-Aktenzeichen:  
+**Aktenzeichen:** 
 **INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL**
 
 ---
 
-# Biographische Grunddaten
+## Biographische Grunddaten
 
-Frau **Isabel Schöps (geb. Thiel)** wurde
+**Frau Isabel Schöps (geb. Thiel)** wurde
 
 **am 16. Juli 1983 um 23:20 Uhr  
 im Kreiskrankenhaus Sömmerda  
@@ -179,7 +179,7 @@ mit dem Familiennamen **Thiel** geboren.
 
 ---
 
-# Aktuelle Meldeanschrift
+## Aktuelle Meldeanschrift
 
 Frau Isabel Schöps geb. Thiel  
 Hütergasse 4  (Wohnung Nr. 13, 1. Obergeschos)  
@@ -187,7 +187,7 @@ D-99084 Erfurt, Thüringen, Deutschland
 
 ---
 
-# Digitale Referenzen
+## Digitale Referenzen
 
 **ORCID**  
 https://orcid.org/0009-0003-4235-2231  
@@ -232,7 +232,7 @@ Erstes offizielles Entwicklerzertifikat
 
 ---
 
-# Alias (historische Entwickler- und Systemidentitäten)
+## Alias (historische Entwickler- und Systemidentitäten)
 
 Satoshi Nakamoto  
 Vitalik Buterin  
