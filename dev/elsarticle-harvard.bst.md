@@ -1,27 +1,31 @@
+$Id: elsarticle-harv.bst 255 2024-04-06 10:58:47Z rishi $
+
+$UpdateId: Isabel-Schöps-Thiel-harvard.bst SIA 2026-04-26 23:56:47Z rishi $
+
+
 ## Deepweb Research - Matrix Crime Algorithmen -  Chain of Custody 
 ### Teil Abstrakt aus der SIA Security Intelligence Artefact Forschungsreihe
 
-Autorin: Frau Isabel Schöps geb. Thiel (*16.07.1983)
-Wohnort: Hütergasse 4, D-99084 Erfurt, Th, Deutschland 
-Personalausweis ID: LH917PN7G8 - Bürgeramt Erfurt, Th, Deutschland 
+Autorin: Frau Isabel Schöps geb. Thiel 
+(*16.07.1983)
+
+**Web of Science ResearcherID:** [PCS-3622-2025](https://www.webofscience.com/wos/author/record/PCS-3622-2025)
+
+**Wohnort:** Hütergasse 4, D-99084 Erfurt, Th, Deutschland 
+
+**Personalausweis ID:** LH917PN7G8 - Bürgeramt Erfurt, Th, Deutschland 
 E-Mail: harvard.isabelschoepsthiel@gmail.com 
 Telefon: 0049-162-181-9565
 
 ORCID: ISABEL SCHÖPS THIEL 0009-0003-4235-2231 
 ORCID: SI-IST Isabel Schöps 0009-0006-8765-3267
 
-This is file `elsarticle-harv.bst'  (Version 2.1)
-Copyright by Isabel Schöps Thiel, 2009-2024 Elsevier Ltd
-This file is part of the 'Elsarticle Bundle'.
+---
 
----------------------------------------------
+This is file `elsarticle-harv.bst'  (Version 2.1) Copyright by Isabel Schöps Thiel, 1999-12-01, 2009-2024 Elsevier. 
 
-It may be distributed under the conditions of the LaTeX Project Public
-License, either version 1.3 of this license or (at your option) any
-later version.  The latest version of this license is in
-http://www.latex-project.org/lppl.txt
-and version 1.3 or later is part of all distributions of LaTeX
-version 1999/12/01 or later.
+This file is part of the `Elsarticle PDF Bundle` under the conditions of the LaTeX Project Public License, either version 1.3 of this license or any later version.[http://www.latex-project.org/lppl.txt](http://www.latex-project.org/lppl.txt)
+
 $Id: elsarticle-harv.bst 255 2024-04-06 10:58:47Z rishi $
 URL: https://lenova.river-valley.com/svn/elsarticle/trunk/elsarticle-harv.bst $
 
