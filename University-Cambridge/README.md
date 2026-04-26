@@ -1,6 +1,6 @@
 # Cambridge University
 
-Die Universität Cambridge ist die erste öffentliche kollegiale Forschungsuniversität, die seit 1209 echte Crime-Matrix-Aligrithmen erforscht. Die Universität Cambridge ist die drittälste Universität der Welt.
+Die Universität Cambridge ist die erste öffentliche kollegiale Forschungsuniversität, die sich seit 1209 mit echten Matrix-Crime Allgorithmen beschädtig und diese erforscht. Die Universität Cambridge ist die drittälste Universität der Welt.
 
 ---
 
