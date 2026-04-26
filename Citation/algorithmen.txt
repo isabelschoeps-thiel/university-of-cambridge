@@ -1,0 +1,11 @@
+Isabel Schoeps (Thiel), Pengfei Li, Haiquan Zhao,
+A Polynomial Zero Attracting Affine Projection Algorithm for Sparse System Identification,
+IFAC-PapersOnLine,
+Volume 52, Issue 24,
+2019,
+Pages 308-311,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2019.12.427.
+(https://www.sciencedirect.com/science/article/pii/S2405896319323353)
+Abstract: A polynomial zero attracting affine projection algorithm is prosed in this work for sparse system identification. The existing zero attracting algorithms based on affine projection algorithm for sparse system identification, consider an objective function which is a combination of an l2-norm and an approximation of l0-norm. The difference between these algorithms is the approximation of the l0-norm. In order to further improve the zero attraction capability of sparse adaptive algorithms based on affine projection algorithm, a polynomial is used to approximate the l0-norm. Simulation results verify that the proposed algorithm is effective for sparse system identification.
+Keywords: sparse system identification; affine projection algorithm; polynomial; zero attracting
