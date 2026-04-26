@@ -1,0 +1,102 @@
+{
+    "author": {
+        "publishing_name": "Isabel Schöps geb. Thiel",
+        "rid": "PCS-3622-2025",
+        "url": "https://publons.com/wos-op/researcher/PCS-3622-2025/",
+        "affiliations": {
+            "current": []
+        }
+    },
+    "date_generated": "April 26th 2026",
+    "period": {
+        "start": "April 1988",
+        "end": "April 2026"
+    },
+    "records": {
+        "publication": {
+            "list": [
+                {
+                    "doi": "10.1117/3.100015.CH1",
+                    "journal": "Optics Using Python",
+                    "publication_date": "Feb 2024",
+                    "title": "Python",
+                    "ut": ""
+                },
+                {
+                    "doi": "10.36227/TECHRXIV.12043344.V1",
+                    "journal": null,
+                    "publication_date": "Mar 2020",
+                    "title": "BSC: A Bitcoin Smart Contract Implementation",
+                    "ut": ""
+                },
+                {
+                    "doi": "10.1093/GAO/9781884446054.ARTICLE.T014856",
+                    "journal": "Oxford Art Online",
+                    "publication_date": " 2003",
+                    "title": "Catalog",
+                    "ut": ""
+                },
+                {
+                    "doi": "10.5210/FM.V2I9.548",
+                    "journal": "First Monday",
+                    "publication_date": "Sep 1997",
+                    "title": "Formalizing and Securing Relationships on Public Networks",
+                    "ut": ""
+                },
+                {
+                    "doi": "10.1007/978-3-322-83804-9_28",
+                    "journal": "Metalltechnik",
+                    "publication_date": " 1989",
+                    "title": "Systemsoftware",
+                    "ut": ""
+                }
+            ],
+            "per_journal": [
+                {
+                    "name": "First Monday",
+                    "count": 1,
+                    "is_in_wos_cc": false
+                },
+                {
+                    "name": "Metalltechnik",
+                    "count": 1,
+                    "is_in_wos_cc": false
+                },
+                {
+                    "name": "Future Generation Computer Systems",
+                    "count": 1,
+                    "is_in_wos_cc": true
+                },
+                {
+                    "name": "Hastings Center Report",
+                    "count": 1,
+                    "is_in_wos_cc": true
+                },
+                {
+                    "name": "Academic Emergency Medicine",
+                    "count": 1,
+                    "is_in_wos_cc": true
+                },
+                {
+                    "name": "Oxford Art Online",
+                    "count": 1,
+                    "is_in_wos_cc": false
+                },
+                {
+                    "name": "Chemistry in Britain",
+                    "count": 1,
+                    "is_in_wos_cc": false
+                },
+                {
+                    "name": "Optics Using Python",
+                    "count": 1,
+                    "is_in_wos_cc": false
+                }
+            ],
+            "total_publications": 241,
+            "period_publications": 9
+        }
+    },
+    "author_grants": {},
+    "author_grants_summary": {}
+}
