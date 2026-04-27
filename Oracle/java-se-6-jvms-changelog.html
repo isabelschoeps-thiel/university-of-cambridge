@@ -1,0 +1,42 @@
+<html>
+<body>
+
+<h2>JVMS changes for the Maintenance Review of JSR 270 (Java<sup>TM</sup> SE 6 Release Contents)</h2>
+
+<p><em>Last updated 2015-01-21 by Alex Buckley</em></p>
+
+<p>The amendment below is proposed to the Java Virtual Machine
+Specification from Maintenance Draft Review 3 of JSR 924 in March
+2011. Maintenance Draft Review 3 consolidated all changes to the Java
+Virtual Machine Specification made between 1999 (when the <em>Second
+Edition</em> was published) and 2011. The changes include amendments
+from Java SE 5.0 and 6, as well as general clarifications
+(see <a href="https://jcp.org/aboutJava/communityprocess/maintenance/jsr924/JVMSpec-JavaSE7-ChangeLog.html">change
+log</a>). The consolidated draft served as the basis for the <em>Java
+SE 7 Edition</em> of the Java Virtual Machine Specification, but is
+used here as if it was the definitive <em>Java SE 6 Edition</em>
+against which amendments may be proposed.</p>
+
+<p>As a result of the amendment below, the <em>Java Virtual Machine
+Specification, Java SE 6 Edition</em> will be superseded by
+the <em>Java Virtual Machine Specification, Java SE 6 Edition
+(MR)</em>.</p>
+
+<hr/>
+
+<h4>4.11.1.4.5 - Changed - The exception stack frame for an invokespecial &lt;init&gt; instruction.</h4>
+
+<p><em>The Prolog clause:</em></p>
+
+<pre>
+ExceptionStackFrame = frame(NextLocals, [], Flags),
+</pre>
+
+<p><em>is changed to:</em></p>
+
+<pre>
+ExceptionStackFrame = frame(Locals, [], Flags),
+</pre>
+
+</body>
+</html>

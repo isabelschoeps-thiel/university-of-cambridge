@@ -1,0 +1,1513 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/xhtml1-strict.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=ascii" /><title>Java&#160;SE&#160;26 (&#8202;JSR 401)</title><meta name="viewport" content="width=device-width, initial-scale=.6" /><link rel="stylesheet" type="text/css" href=".fonts/dejavu.css" /><style type="text/css">
+
+      HTML, BODY, DIV, SPAN, APPLET, OBJECT, IFRAME, H1, H2, H3, H4, H5, H6, P,
+      BLOCKQUOTE, PRE, A, ABBR, ACRONYM, ADDRESS, BIG, CITE, CODE, DEL, DFN, EM,
+      IMG, INS, KBD, Q, S, SAMP, SMALL, STRIKE, STRONG, SUB, SUP, TT, VAR, B, U,
+      I, CENTER, DL, DT, DD, OL, UL, LI, FIELDSET, FORM, LABEL, LEGEND, TABLE,
+      CAPTION, TBODY, TFOOT, THEAD, TR, TH, TD, ARTICLE, ASIDE, CANVAS, DETAILS,
+      EMBED, FIGURE, FIGCAPTION, FOOTER, HEADER, HGROUP, MENU, NAV, OUTPUT, RUBY,
+      SECTION, SUMMARY, TIME, MARK, AUDIO, VIDEO {
+        margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit;
+        vertical-align: baseline; }
+      ARTICLE, ASIDE, DETAILS, FIGCAPTION, FIGURE, 
+      FOOTER, HEADER, HGROUP, MENU, NAV, SECTION { display: block; }
+      BLOCKQUOTE, Q { quotes: none; }
+      BLOCKQUOTE:before, BLOCKQUOTE:after, Q:before, Q:after {
+              content: ''; content: none; }
+      TABLE { border-collapse: collapse; border-spacing: 0; }
+
+      A { text-decoration: none; }
+      A:link { color: #437291; }
+      A:visited { color: #666666; }
+      A.anchor:link, A.anchor:visited { color: black; }
+      A[href]:hover { color: #e76f00; }
+      A IMG { border-width: 0px; }
+
+      HTML { font-size: 20px; } /* baseline grid */
+      HTML > BODY { font-size: 14px; }
+      BODY {
+        background: white;
+        margin: 40px;
+        margin-bottom: 150%;
+        width: 560px;
+        line-height: 20px;
+        -webkit-text-size-adjust: 100%; /* iOS */
+        color: #222;
+      }
+
+      /*BODY { background: url("grid.png") repeat 0 05px; }*/
+
+      BODY { font-family: "DejaVu Serif", "Lucida Bright", "Bookman Old Style",
+                          Georgia, serif; }
+      CODE, TT, .jref, DIV.spec .open, TABLE.modules { 
+        font-family: "DejaVu Sans", "Lucida Sans", Helvetica, sans-serif; }
+      PRE { font-family: "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
+                          Monaco, "Courier New", monospace; }
+
+      @media only screen
+      and (min-device-width: 320px) and (max-device-width: 480px) {
+        BODY { width: 90%; }
+      }
+
+      H1, H2, H3, H4 { color: green; font-weight: bold; }
+
+      I { font-style: italic; }
+      TH { font-weight: bold; }
+
+      P { text-indent: 40px; }
+      P:first-child, UL + P, OL + P, BLOCKQUOTE + P, TABLE + P, P.subsection,
+        P.break, DIV.modules-table + P { text-indent: 0; }
+      P.break { margin-top: 10px; }
+      OL P, UL P { text-indent: 0; margin-top: 10px; }
+
+      P.subsection { margin-top: 20px; }
+      P.subsection SPAN.title { font-weight: bold; padding-right: 20px; }
+
+      UL, OL { margin: 10px 0; padding-left: 40px; }
+      LI { margin-bottom: 10px; }
+      OL LI { padding-left: .25em; }
+      UL.compact LI { margin-bottom: 0; }
+      UL.deprecate, UL.deprecate UL { padding-left: 20px; }
+      UL.deprecate LI { font-size: 12px; line-height: 16px; margin-bottom: 0;
+        font-family: "DejaVu Sans", "Lucida Sans", Helvetica, sans-serif;
+        list-style-type: none;
+      }
+      UL.blank { padding-left: 20px; }
+      UL.blank LI { list-style-type: none; }
+
+      PRE { padding: 0; margin: 10px 0 10px 20px; width: 45em; }
+      BLOCKQUOTE { margin: 10px 0; margin-left: 20px; }
+      UL LI { list-style-type: square; }
+      .todo { color: darkred; text-align: right; }
+      .error { color: red; font-weight: bold; }
+
+      .warn { color: #ee0000; font-weight: bold; }
+      DIV.doctitle { margin-top: -13px;
+        font-size: 22px; line-height: 40px; font-weight: bold; }
+      DIV.doctitle SMALL { font-size: 21px; }
+      DIV.twarn { color: #cc0000; font-weight: bold; margin-bottom: 9px; }
+      DIV.subtitle { margin-top: 2px; font-size: 18px; font-weight: bold; }
+      DIV.authors { margin-top: 10px; margin-bottom: 10px; font-size: 16px; }
+      DIV.author A { font-style: italic; }
+      DIV.version { margin-top: 10px; font-size: 12px; }
+      DIV.version, DIV.legal-notice { font-size: 12px; line-height: 15px; }
+      DIV.version SPAN.modified { color: green; font-weight: bold; }
+      DIV.head { margin-bottom: 20px; }
+
+      DIV.section > DIV.title, DIV.section DIV.number SPAN {
+        font-size: 15px; font-weight: bold;
+        ZZline-height: 40px; margin-top: 20px; margin-bottom: 10px; }
+
+      DIV.section DIV.number { float: left; width: 30px; }
+      DIV.section DIV.body { margin-left: 30px; }
+
+      DIV.subsection DIV.body { margin-left: 0px; }      
+
+      DIV.toc { margin: 20px 0; padding-left: 60px; }
+      TABLE.toc { font-size: 13px; } /* Hack to ensure 20px rows */
+      TABLE.toc TD:first-child { font-weight: bold; padding-right: 10px; }
+      TABLE.toc TH { font-weight: bold; text-align: left; }
+      TABLE.toc TD.subcontent { padding-left: 40px; font-size: 11px; }
+      TABLE.toc TR TH { padding-top: 10px; }
+      TABLE.toc TR:first-child TH { padding-top: 0; }
+
+      DIV.feature-details { margin-left: 0; }
+      DIV.feature-details DIV.group { margin-top: 20px; margin-left: 20px; }
+      DIV.feature-details DIV.group DIV.title { font-weight: bold; margin-left: -20px; }
+
+      DIV.feature { margin-top: 10px; margin-left: 20px; }
+      DIV.feature DIV.jep, DIV.feature DIV.title { font-weight: bold; }
+      DIV.feature DIV.jep { float: right; }
+      DIV.feature DIV.summary, DIV.feature DIV.refs, DIV.feature DIV.spec { margin-top: 10px; }
+      DIV.feature DIV.refs SPAN.what { font-weight: bold; }
+      DIV.spec .body { margin-left: 20px; }
+      DIV.spec .open { float: left; width: 20px; }
+
+      TABLE.features { margin: 10px 0 10px 0; }
+      TABLE.features TR.new-group TD { padding-top: 10px; }
+      TABLE.features TD:first-child { text-align: right; padding-right: 20px; }
+      TABLE.features TR:first-child TD { padding-top: 0; }
+      TABLE.features SPAN.jsrs-wrapper { padding-left: 6px; }
+      TABLE.features SPAN.jsrs { ZZfont-size: 11px; }
+      TABLE.features TD { white-space: nowrap; }
+
+      SPAN.new { color: #e76f00; font-size: smaller; }
+      SPAN.update { font-size: smaller; }
+
+      TABLE.jsr-list TD { vertical-align: baseline; }
+      TABLE.jsr-list TD.name { padding-left: 10px; }
+      TABLE.jsr-list TD.stage { padding-left: 40px; font-style: italic; white-space: nowrap; }
+      
+      DIV.modules-table { margin: 20px 0 20px 20px; }
+      TABLE.modules { font-size: 12px; line-height: 18px; }
+      TABLE.modules TH { text-align: left; }
+      TABLE.modules TH + TH { padding-left: 40px; }
+      TABLE.modules TD + TD { padding-left: 40px; }
+
+      .v2  { width: 43em; border: solid #4a4; border-width: 0 .5em 0 0; }
+      .v2 > * { padding-right: 2em; }
+      .v3  { width: 43em; border: solid #46c; border-width: 0 .5em 0 0; }
+      .v3 > * { padding-right: 2em; }
+      
+  </style></head><body>
+
+  <div class="head"><div class="doctitle">Java&#160;SE&#160;26 <small>(&#8202;JSR 401)</small></div><div class="subtitle">Final Release Specification</div><div class="authors"><div class="author">Iris Clark</div><div class="version">2026/3/5 06:37 +0000 <span class="hash">[<span>ed2e2777b967</span>]</span></div><div class="legal-notice">Copyright &#169; 2026 Oracle and/or its affiliates &#183; All Rights Reserved &#183; <a href="https://www.oracle.com/java/javase/terms/license/java26speclicense.html">License</a></div></div></div>
+
+
+  <div class="section"><div class="body">
+
+    <p> This Specification defines version 26 of the Java Platform,
+    Standard&#160;Edition (&#8220;Java&#160;SE&#160;26&#8221;).  The Reference Implementation of
+    this Specification is the Java Development Kit, version 26 (&#8220;JDK
+    26&#8221;). </p>
+
+  </div></div>
+
+
+  <div class="toc"><table class="toc" summary="Contents"><tr><th colspan="2">Contents</th></tr><tr><td>1</td><td><a href="#Summary">Summary</a></td></tr><tr><td></td><td style="font-size:smaller"><div></div></td></tr><tr><td>2</td><td><a href="#Structure">Structure</a></td></tr><tr><td></td><td style="font-size:smaller"><div></div></td></tr><tr><td>3</td><td><a href="#Definitions">Definitions</a></td></tr><tr><td></td><td style="font-size:smaller"><div></div></td></tr><tr><td>4</td><td><a href="#Component-JSR-Specifications">Component JSR Specifications</a></td></tr><tr><td></td><td style="font-size:smaller"><div></div></td></tr><tr><td>5</td><td><a href="#Features">Features</a></td></tr><tr><td></td><td style="font-size:smaller"><div><span><a href="#Preview-features">Preview features</a>
+	  &#160;&#183;
+	</span><span><a href="#Restricted-methods">Restricted methods</a>
+	  &#160;&#183;
+	</span><span><a href="#Integrity-of-final-fields">Integrity of final fields</a>
+	  &#160;&#183;
+	</span><span><a href="#Preparing-for-removal-of-finalization">Preparing for removal of finalization</a></span></div></td></tr><tr><td>6</td><td><a href="#APIs-previewed">APIs previewed</a></td></tr><tr><td></td><td style="font-size:smaller"><div></div></td></tr><tr><td>7</td><td><a href="#Modules">Modules</a></td></tr><tr><td></td><td style="font-size:smaller"><div><span><a href="#The-module-graph">The module graph</a>
+	  &#160;&#183;
+	</span><span><a href="#Relaxing-strong-encapsulation">Relaxing strong encapsulation</a>
+	  &#160;&#183;
+	</span><span><a href="#Incorporated-subsections">Incorporated subsections</a></span></div></td></tr><tr><td>8</td><td><a href="#APIs-removed">APIs removed</a></td></tr><tr><td></td><td style="font-size:smaller"><div></div></td></tr><tr><td>9</td><td><a href="#APIs-proposed-for-removal">APIs proposed for removal</a></td></tr><tr><td></td><td style="font-size:smaller"><div></div></td></tr><tr><th colspan="2">Annexes</th></tr><tr><td>A1</td><td><a href="api/index.html">Complete API Specification</a></td></tr><tr><td>A2</td><td><a href="apidiffs/index.html">API Specification
+        differences</a></td></tr><tr><td>A3</td><td><a href="java-se-26-annex-3.html">Java Language &amp;
+	Virtual Machine Specifications</a></td></tr><tr><td>A4</td><td><a href="java-se-26-annex-4.html">JAR File Specification</a></td></tr><tr><td>A5</td><td><a href="java-se-26-annex-5.html">Java AWT Native Interface (JAWT)
+        Specification &amp; Guide</a></td></tr><tr><td>A6</td><td><a href="java-se-26-annex-6.html">Java Debug Wire Protocol (JDWP)
+	</a></td></tr><tr><td>A7</td><td><a href="java-se-26-annex-7.html">Java Native Interface (JNI)
+        Specification</a></td></tr><tr><td>A8</td><td><a href="java-se-26-annex-8.html">Java Object Serialization
+        Specification</a></td></tr><tr><td>A9</td><td><a href="java-se-26-annex-9.html">Java Remote Method Invocation
+	(RMI) Specification</a></td></tr><tr><td>A10</td><td><a href="java-se-26-annex-10.html">Java Security Standard
+	Algorithm Names</a></td></tr><tr><td>A11</td><td><a href="java-se-26-annex-11.html">JVM Tool Interface (JVM TI)
+	</a></td></tr></table></div>
+
+
+  <div class="section"><div class="number"><span>1</span></div><div class="title"><span>Summary</span><a id="s1">&#160;</a><a id="Summary">&#160;</a></div><div class="body">
+
+    <p> This release continues the evolution of the Platform to ensure the
+    broadest possible success of the core Java technology.
+
+
+
+
+    It re-previews one language feature, which is updated with further
+    refinements based on experience and feedback: primitive types in
+    patterns, <code>instanceof</code>, and <code>switch</code>.
+
+    
+
+
+    
+
+    This release standaridizes an update of the HTTP Client API to support the
+    HTTP/3 protocol.
+
+
+    
+
+
+
+    It re-previews
+
+    an API for lazy constants, which are objects that contain unmodifiable
+    data,
+
+    an API for encoding and encoding objects that represent cryptographic
+    keys, certificates, and certificate revocation lists into the
+    Privacy-Enhanced Mail (PEM) transport format,
+
+    and a structured concurrency API, which simplifies multithreaded
+    programming.
+
+    
+
+    
+
+
+    In preparation for a future release that ensures integrity by default,
+    warnings are issued whenever deep reflection is used to mutate final
+    fields.
+
+    Finally, this release removes the Applet API.
+
+
+    </p>
+
+  </div></div>
+
+
+  <div class="section"><div class="number"><span>2</span></div><div class="title"><span>Structure</span><a id="s2">&#160;</a><a id="Structure">&#160;</a></div><div class="body">
+
+    <p> This document directly specifies API features, enhancements,
+    clarifications, and bug fixes.  It also specifies features by reference to
+    other Specifications which are revised in Maintenance Releases of existing
+    JSRs.  The specifications of these changes are contained in two
+    accompanying documents: <a href="api/index.html">Annex&#160;1</a> is the
+    complete Java&#160;SE&#160;26 API Specification and
+    <a href="apidiffs/index.html">Annex&#160;2</a> is an annotated API
+    specification showing the exact differences relative to Java&#160;SE&#160;25.
+    Informative background for these changes may be found in the <a href="https://bugs.openjdk.org/issues/?filter=47281"> list of
+    approved Change Specification Requests</a> for this release. </p>
+
+    <p> This Specification includes the Java&#160;SE&#160;26 Editions of <i>The Java
+    Language Specification</i> and <i>The Java Virtual Machine
+    Specification</i> in <a href="java-se-26-annex-3.html">Annex&#160;3</a>.
+    The Java&#160;SE&#160;26 Editions contain all corrections and clarifications made
+    since the Java&#160;SE&#160;25 Editions, as well as additions for new
+    features. Annex 3 also presents changes to <i>The Java Language
+    Specification</i> and <i>The Java Virtual Machine Specification</i> in
+    connection with preview language features in Java&#160;SE&#160;26. </p>
+
+    <p> This Specification includes the Java&#160;SE&#160;26 versions of additional
+    narrative specifications in Annexes 4 &#8212; 11. The Java&#160;SE&#160;26 versions
+    contain all corrections and clarifications made since the Java&#160;SE&#160;25
+    versions, as well as additions for new features.  </p>
+
+
+
+  </div></div>
+
+
+  <div class="section"><div class="number"><span>3</span></div><div class="title"><span>Definitions</span><a id="s3">&#160;</a><a id="Definitions">&#160;</a></div><div class="body">
+
+    <p> Changes to the Java&#160;SE Platform Specification are categorized as
+    either features or enhancements.  A <i>feature</i> is, roughly speaking, a
+    change of which at least one of the following statements is true: </p>
+
+    <ul>
+
+      <li> It requires two or more weeks of development effort to design and
+      implement, </li>
+
+      <li> It is a significant change worthy of wide review, or </li>
+
+      <li> It is in high demand by the Java community. </li>
+
+    </ul>
+
+    <p> Any addition that is not a feature is considered an
+    <i>enhancement</i>. </p>
+
+    <p> There is, obviously, room for judgment when interpreting this
+    definition.  In order to maximize the visibility of Platform revisions we
+    generally tend to consider borderline items to be features rather than
+    enhancements. </p>
+
+  </div></div>
+
+  <div class="section"><div class="number"><span>4</span></div><div class="title"><span>Component JSR Specifications</span><a id="s4">&#160;</a><a id="Component-JSR-Specifications">&#160;</a></div><div class="body">
+
+    <p> Some Component JSR Specifications previously incorporated into the
+    Platform are still available separately or have significant Specifications
+    themselves.  Changes to their Specifications are therefore made in
+    separate Maintenance
+
+
+
+    Releases, which are incorporated here by reference:
+
+
+
+
+
+</p>
+
+    <blockquote><table class="jsr-list" summary="JSR list"><tr><td><a href="https://jcp.org/en/jsr/detail?id=221">JSR&#160;221: </a></td><td class="name">
+      JDBC 4.0 API Specification<a href="https://jcp.org/aboutJava/communityprocess/maintenance/jsr221/221ChangeLog.html">&#160;[MR&#160;5]</a></td></tr><tr><td><a href="https://jcp.org/en/jsr/detail?id=269">JSR&#160;269: </a></td><td class="name">
+      Pluggable Annotation-Processing API<a href="https://jcp.org/aboutJava/communityprocess/maintenance/jsr269/269ChangeLog.html">&#160;[MR&#160;20]</a></td></tr></table></blockquote>
+
+    <p> Each Component JSR Specification, or revision thereto, may be related
+    to one or more features in the detailed list below. </p>
+
+  </div></div>
+
+
+  <div class="section"><div class="number"><span>5</span></div><div class="title"><span>Features</span><a id="s5">&#160;</a><a id="Features">&#160;</a></div><div class="body">
+
+    <p> Work on features in the Java&#160;SE&#160;26 Reference Implementation is
+    organized in terms of JDK Enhancement Proposals (JEPs).
+
+
+
+    Each feature
+    description gives a link to the corresponding JEP document as a
+    convenience, but that document is not a normative part of this
+    Specification. Some features are included in the Java&#160;SE&#160;26 Reference
+    Implementation on a <a href="#Preview-features">preview</a> basis, to gain
+    exposure before achieving permanent status in a later release of the
+    Java&#160;SE Platform. </p>
+
+    <p class="subsection" id="Summary-"><span class="title">Summary&#160;</span></p>
+
+    <table class="features" summary="features"><tr class="new-group"><td>Libraries</td><!-- <td> {$j/group/text()} </td> --><td><a href="#j517">HTTP/3 for the HTTP Client API</a></td></tr><tr><td></td><!-- <td> {$j/group/text()} </td> --><td><a href="#j526">Lazy Constants (Second Preview)</a></td></tr><tr><td></td><!-- <td> {$j/group/text()} </td> --><td><a href="#j500">Prepare to Make Final Mean Final</a></td></tr><tr><td></td><!-- <td> {$j/group/text()} </td> --><td><a href="#j504">Remove the Applet API</a></td></tr><tr><td></td><!-- <td> {$j/group/text()} </td> --><td><a href="#j525">Structured Concurrency (Sixth Preview)</a></td></tr><tr class="new-group"><td>Security</td><!-- <td> {$j/group/text()} </td> --><td><a href="#j524">PEM Encodings of Cryptographic Objects (Second Preview)</a></td></tr><tr class="new-group"><td>Language</td><!-- <td> {$j/group/text()} </td> --><td><a href="#j530">Primitive Types in Patterns, instanceof, and switch (Fourth Preview)</a></td></tr></table>
+
+    <div class="feature-details"><div class="group"><div class="title">Libraries</div><div class="feature" id="j517"><div class="title">HTTP/3 for the HTTP Client API</div><div class="summary"><div class="markdown"><p>Update the <a href="https://cr.openjdk.org/~dfuchs/8291976/apidoc.05/api/java.net.http/java/net/http/HttpClient.html">HTTP Client API</a> to support the <a href="https://en.wikipedia.org/wiki/HTTP/3">HTTP/3</a> protocol, so that libraries and applications can interact with HTTP/3 servers with minimal code change.</p>
+</div></div><div class="spec"><div class="open">&#187;</div><div class="body"><a href="https://openjdk.org/jeps/517">JEP 517</a></div></div></div><div class="feature" id="j526"><div class="title">Lazy Constants (Second Preview)</div><div class="summary"><div class="markdown"><p>Introduce an API for <em>lazy constants</em>, which are objects that hold unmodifiable data. Lazy constants are treated as true constants by the JVM, enabling the same performance optimizations that are enabled by declaring a field <code>final</code>. Compared to <code>final</code> fields, however, lazy constants offer greater flexibility as to the timing of their initialization. This is a <a href="https://openjdk.org/jeps/12">preview API</a>.</p>
+</div></div><div class="spec"><div class="open">&#187;</div><div class="body"><a href="https://openjdk.org/jeps/526">JEP 526</a></div></div></div><div class="feature" id="j500"><div class="title">Prepare to Make Final Mean Final</div><div class="summary"><div class="markdown"><p>Issue warnings about uses of deep reflection to mutate final fields. These warnings aim to prepare developers for a future release that ensures <a href="https://openjdk.org/jeps/8305968">integrity by default</a> by restricting final field mutation, which will make Java programs safer and potentially faster. Application developers can avoid both current warnings and future restrictions by selectively enabling the ability to mutate final fields where essential.</p>
+</div></div><div class="spec"><div class="open">&#187;</div><div class="body"><a href="https://openjdk.org/jeps/500">JEP 500</a></div></div></div><div class="feature" id="j504"><div class="title">Remove the Applet API</div><div class="summary"><div class="markdown"><p>Remove the Applet API, which was <a href="https://openjdk.org/jeps/398">deprecated for removal in JDK&#160;17</a> (2021). It is obsolete because neither recent JDK releases nor current web browsers support applets.</p>
+</div></div><div class="spec"><div class="open">&#187;</div><div class="body"><a href="https://openjdk.org/jeps/504">JEP 504</a></div></div></div><div class="feature" id="j525"><div class="title">Structured Concurrency (Sixth Preview)</div><div class="summary"><div class="markdown"><p>Simplify concurrent programming by introducing an API for <em>structured concurrency</em>. Structured concurrency treats groups of related tasks running in different threads as single units of work, thereby streamlining error handling and cancellation, improving reliability, and enhancing observability. This is a <a href="https://openjdk.org/jeps/12">preview API</a>.</p>
+</div></div><div class="spec"><div class="open">&#187;</div><div class="body"><a href="https://openjdk.org/jeps/525">JEP 525</a></div></div></div></div><div class="group"><div class="title">Security</div><div class="feature" id="j524"><div class="title">PEM Encodings of Cryptographic Objects (Second Preview)</div><div class="summary"><div class="markdown"><p>Introduce an API for encoding objects that represent cryptographic keys, certificates, and certificate revocation lists into the widely-used <a href="https://en.wikipedia.org/wiki/Privacy-Enhanced_Mail">Privacy-Enhanced Mail</a> (PEM) transport format, and for decoding from that format back into objects. This is a <a href="https://openjdk.org/jeps/12">preview API</a>.</p>
+</div></div><div class="spec"><div class="open">&#187;</div><div class="body"><a href="https://openjdk.org/jeps/524">JEP 524</a></div></div></div></div><div class="group"><div class="title">Language</div><div class="feature" id="j530"><div class="title">Primitive Types in Patterns, instanceof, and switch (Fourth Preview)</div><div class="summary"><div class="markdown"><p>Enhance pattern matching by allowing primitive types in all pattern contexts,
+and extend <code>instanceof</code> and <code>switch</code> to work with all primitive types. This is a
+<a href="https://openjdk.org/jeps/12">preview language feature</a>.</p>
+</div></div><div class="spec"><div class="open">&#187;</div><div class="body"><a href="https://openjdk.org/jeps/530">JEP 530</a></div></div></div></div></div>
+
+    
+
+    <div class="subsection"><div class="body">
+
+    <p class="subsection" id="Preview-features"><span class="title">Preview features</span> A preview feature is a new feature of
+    the Java language, Java Virtual Machine, or Java&#160;SE API that is fully
+    specified, fully implemented, and yet impermanent.
+
+    Preview features must possess
+    <a href="https://openjdk.org/jeps/12#Design-of-Preview-Features">
+    the following properties</a>:
+    </p>
+
+    <ul>
+      <li> <i>High quality.</i>  A preview feature must display the same level
+      of technical excellence and finesse as a final and permanent feature of
+      the Java&#160;SE Platform. </li>
+
+      <li> <i>Not experimental.</i> A preview feature must not be
+      experimental, risky, incomplete, or unstable. An experimental feature
+      must not be previewed in a release of the Java&#160;SE Platform. </li>
+
+      <li> <i>Universally available.</i> All preview features included in a
+      Java&#160;SE Platform Specification must be supported in full by every
+      implementation of that Specification. </li>
+
+    </ul>
+
+    <p> Preview features may be removed in a future release, or upgraded to
+    permanent features of the Java&#160;SE Platform. </p>
+
+    <p> The Java&#160;SE API consists solely of Java APIs, but the complete
+    Java&#160;SE Platform includes non-Java APIs, such as <a href="specs/jni">JNI</a> and <a href="specs/jvmti.html">JVM TI</a>, and
+    language-independent protocols, such as
+    <a href="specs/jdwp/jdwp-spec.html">JDWP</a> and
+    <a href="specs/serialization">Java Object Serialization</a>.
+    A preview feature may include changes to non-Java APIs and
+    language-independent protocols. </p>
+
+    <p> Implementations of this Specification must: </p>
+
+    <ul>
+
+      <li> support all, and only, the preview features included by this
+      Specification. </li>
+
+      <li> disable all preview features in the Java language, Java Virtual
+      Machine, and Java&#160;SE API at compile time and run time by default. </li>
+
+      <li> allow the user to indicate to the Java compiler and the Java
+      runtime that the entire set of preview features are to be enabled. </li>
+
+      <li> not allow the user to enable preview features on an individual
+      basis, because they have equal status in the Platform and must be
+      enabled or disabled as a set. </li>
+
+      <li> always enable the non-Java APIs and language-independent protocols
+      that are part of any preview feature, regardless of whether preview
+      features are enabled or disabled. </li>
+
+    </ul>
+
+    <p> Additional details about preview features, including a description of
+    a <a href="https://openjdk.org/jeps/12#Process-issues">
+    preview feature&#8217;s life cycle</a> and the
+    <a href="https://openjdk.org/jeps/12#Relationship-of-Preview-Language/VM-Features-and-Preview-APIs">
+    relationship of preview features in the Java language to preview features
+    in the Java&#160;SE API</a>, are available in
+    <a href="https://openjdk.org/jeps/12">JEP 12</a> <i>Preview Features</i>.
+    </p>
+
+    <p> <i>This section may be compared to
+    <a href="https://cr.openjdk.org/~iris/se/18/latestSpec/#Preview-features">the corresponding section</a> that appeared in Java&#160;SE&#160;18. </i>
+    </p>
+
+  </div></div>
+
+    
+    <div class="subsection"><div class="body">
+
+    <p class="subsection" id="Restricted-methods"><span class="title">Restricted methods</span> Various methods in the Java&#160;SE API
+    allow Java code to interoperate with resources outside the Java runtime in
+    such a way that the runtime cannot prove correct or safe use of the
+    resources. These methods, which are provided because of their high
+    utility, are specified as having the potential to crash the Java runtime
+    or corrupt memory. They are known as <i>restricted</i> methods. </p>
+
+    <p> All methods in the Java&#160;SE API that are not restricted are
+    <i>unrestricted</i>. Given the potential danger of restricted methods,
+    developers should use restricted methods only when no suitable
+    functionality is available in unrestricted methods.  To encourage
+    developers to seek unrestricted alternatives to restricted methods, the
+    following rule applies: </p>
+
+    <ul>
+
+      <li> An Implementation must issue a warning on the standard error <br />
+      stream every time a restricted method is invoked, unless (1) the <br />
+      invocation occurs in a class in the <code>java.base</code> module, or
+      (2) the <br /> invocation occurs in a class in a module specified
+      previously to <br />
+      <a class="jref" href="api/java.base/java/lang/ModuleLayer.Controller.html#enableNativeAccess(java.lang.Module)">ModuleLayer.Controller.enableNativeAccess</a>,
+      or (3) as provided for <br /> below. </li>
+
+    </ul>
+
+    <p style="text-indent:0;"> In addition, <code>native</code> methods can
+    cause arbitrary undefined behavior, including JVM crashes. Such problems
+    cannot be prevented by the Java runtime, nor do they provoke exceptions
+    for Java code to catch. Given the potential danger of <code>native</code>
+    methods, the following rule applies: </p>
+
+    <ul>
+
+      <li> An Implementation must issue a warning on the standard error stream
+      every time a native method is bound, unless (1) the method is declared
+      in a class in the java.base module, or (2) the method is declared in a
+      class in a module specified previously to
+      <a class="jref" href="api/java.base/java/lang/ModuleLayer.Controller.html#enableNativeAccess(java.lang.Module)">ModuleLayer.Controller.enableNativeAccess</a>,
+      or (3) as provided for below. </li>
+
+    </ul>
+
+    <p> An Implementation may provide a means to invoke its run-time system
+    with (1) all restricted methods treated as unrestricted when invoked from
+    code specified to the run-time system, and (2) <code>native</code>
+    methods treated as if they are already bound if declared in code
+    specified to the run-time system. </p>
+
+    <p> If the run-time system is invoked in this way, then by definition
+    there are no restricted methods for the specified code to invoke, and no
+    <code>native</code> methods in the specified code that are not
+    bound. Therefore, no warnings are issued during the execution of such
+    code. </p>
+
+    <p> If code other than that specified to the run-time system either
+    invokes a restricted method or declares a <code>native</code> method that
+    is bound, the Implementation may give a signal other than a warning issued
+    on the standard error stream. </p>
+
+    <p> (The Reference Implementation allows the user to specify code in which
+    (1) the invocation of restricted methods will be treated as the invocation
+    of unrestricted methods, and (2) <code>native</code> method declarations
+    will be treated as already bound. This is achieved via the command-line
+    option <code>--enable-native-access=M</code>, where <code>M</code> is a
+    comma-separated list of modules.  The special operand
+    <code>ALL-UNNAMED</code> indicates every unnamed module, which includes
+    code on the class path.  When the <br /><code>--enable-native-access</code>
+    option is present, any invocation of restricted methods from, or binding
+    of <code>native</code> methods in, code outside the listed modules will
+    cause, at most, one warning to be issued per module.) </p>
+
+    <p> (The Reference Implementation can identify when code invokes
+    restricted methods and when <code>native</code> methods are bound. These
+    actions are called <code>restricted operations</code>. The identification
+    of restricted operations is enabled via the command-line option
+    <code>--illegal-native-access=X</code>, where <code>X</code> is
+    <code>allow</code>, <code>warn</code>, or <code>deny</code>.  A value of
+    <code>allow</code> means that all restricted operations will proceed
+    silently; <code>warn</code> will cause a warning to be issued at most once
+    per module if code performs restricted operations; and <code>deny</code>
+    will cause an
+      <a class="jref" href="api/java.base/java/lang/IllegalCallerException.html">IllegalCallerException</a>
+    to be thrown for every restricted operation.
+
+    Future revisions of this Platform Specification are expected to make
+    <code>deny</code> the default and eventually remove both
+    <code>allow</code> and <code>warn</code>.) </p>
+
+    <p> The list of restricted methods may be found in the
+    <a href="api/restricted-list.html">Restricted Methods</a> section of the
+    <a href="api/index.html">API Specification</a>.  </p>
+
+    <p> Compared to Java&#160;SE&#160;25, this Specification does not add or
+    remove any restricted methods.  </p>
+
+    <p> <i>This section may be compared to
+    <a href="https://cr.openjdk.org/~iris/se/23/latestSpec/#Restricted-methods">the corresponding section</a> that appeared in Java&#160;SE&#160;23. </i>
+    </p>
+  </div></div>
+
+    
+    <div class="subsection"><div class="body">
+
+    <p class="subsection" id="Integrity-of-final-fields"><span class="title">Integrity of final fields</span> Various methods in the
+    Java&#160;SE API provide <i>write access</i> to final fields at run time. This
+    means that Java code can mutate the value of a final field after the field
+    has been initialized in a constructor, an instance initializer, or the
+    field&#8217;s declaration. Only the values of final instance fields, not final
+    static fields, can be mutated in this way. </p>
+
+    <p> The methods that provide write access, known as <i>mutation
+    methods</i>, are: </p>
+
+    <ul class="deprecate">
+
+      <li><a class="jref" href="api/java.base/java/lang/reflect/Field.html#set(java.lang.Object,java.lang.Object)">java.lang.reflect.Field.set</a></li>
+
+
+      <li><a class="jref" href="api/java.base/java/lang/reflect/Field.html#setBoolean(java.lang.Object,boolean)">java.lang.reflect.Field.setBoolean</a></li>
+
+
+      <li><a class="jref" href="api/java.base/java/lang/reflect/Field.html#setByte(java.lang.Object,byte)">java.lang.reflect.Field.setByte</a></li>
+
+
+      <li><a class="jref" href="api/java.base/java/lang/reflect/Field.html#setChar(java.lang.Object,char)">java.lang.reflect.Field.setChar</a></li>
+
+
+      <li><a class="jref" href="api/java.base/java/lang/reflect/Field.html#setShort(java.lang.Object,short)">java.lang.reflect.Field.setShort</a></li>
+
+
+      <li><a class="jref" href="api/java.base/java/lang/reflect/Field.html#setInt(java.lang.Object,int)">java.lang.reflect.Field.setInt</a></li>
+
+
+      <li><a class="jref" href="api/java.base/java/lang/reflect/Field.html#setLong(java.lang.Object,long)">java.lang.reflect.Field.setLong</a></li>
+
+
+      <li><a class="jref" href="api/java.base/java/lang/reflect/Field.html#setFloat(java.lang.Object,float)">java.lang.reflect.Field.setFloat</a></li>
+
+
+      <li><a class="jref" href="api/java.base/java/lang/reflect/Field.html#setDouble(java.lang.Object,double)">java.lang.reflect.Field.setDouble</a></li>
+
+
+      <li><a class="jref" href="api/java.base/java/lang/invoke/MethodHandles.Lookup.html#unreflectSetter(java.lang.reflect.Field)">java.lang.invoke.MethodHandles.Lookup.unreflectSetter</a></li>
+
+    </ul>
+
+    <p> The use of mutation methods to alter the values of final fields is a
+    legacy practice. It is strongly inadvisable because it undermines the
+    correctness of programs written in expectation of final fields being
+    immutable. </p>
+
+    <p> In Java&#160;SE&#160;26 and later, when a mutation method is invoked, one of the
+    preconditions for providing its caller with write access is that <i>final
+    field mutation</i> is enabled for the caller. If final field mutation is
+    disabled for the caller, then write access is not provided and the
+    mutation method throws
+      <a class="jref" href="api/java.base/java/lang/IllegalAccessException.html">IllegalAccessException</a>.
+    </p>
+
+    <p> An Implementation of this Specification must: </p>
+
+    <ul>
+
+      <li> disable final field mutation for all code by default. </li>
+
+      <li> provide a means to invoke its run-time system with final field
+      mutation enabled for code identified to the run-time system, and
+      disabled for all other code. </li>
+
+    </ul>
+
+    <p> (The Reference Implementation provides this capability via the
+    command-line option <code>--enable-final-field-mutation=M</code>, where
+    <code>M</code> is a comma-separated list of modules. The special operand
+    <code>ALL-UNNAMED</code> indicates every unnamed module, which includes
+    code on the class path.) </p>
+
+    <p> As an aid to migration, an Implementation may allow code to alter the
+    values of final fields by invoking mutation methods, even if the code is
+    not identified to the run-time system as being enabled for final field
+    mutation. In particular: </p>
+
+    <ul>
+
+      <li> An Implementation may provide a means to invoke its run-time system
+      with final field mutation enabled for all code. If it does so then it
+      must, further, provide a means to invoke its run-time system with final
+      field mutation disabled for all code. </li>
+
+    </ul>
+
+    <p> (The Reference Implementation provides the first capability via the
+    command-line option <code>--illegal-final-field-mutation=allow</code>, and
+    the second capability via the command-line option
+    <code>--illegal-final-field-mutation=deny</code>.) </p>
+
+    <ul>
+
+      <li> An Implementation may provide a means to invoke its run-time system
+      such that all code is provided with write access to final fields. If the
+      run-time system is invoked in this way, and if by doing so some
+      invocations of mutation methods succeed where otherwise they would have
+      failed (because final field mutation was disabled for the caller or
+      because some other precondition for write access did not hold), then the
+      first such invocation must cause a warning to be issued on the standard
+      error stream. </li>
+
+    </ul>
+
+    <p> (The Reference Implementation provides this capability via the
+    command-line option <code>--illegal-final-field-mutation=warn</code>. At
+    most one warning is issued for each module whose code invokes mutation
+    methods.) </p>
+
+    <p> Future revisions of this Platform Specification are expected to remove
+    these migration aids. </p>
+
+  </div></div>
+
+  
+  <div class="subsection"><div class="body">
+
+    <p class="subsection" id="Preparing-for-removal-of-finalization"><span class="title">Preparing for removal of finalization</span> An Implementation must support the finalization of objects, as described in
+    <a href="java-se-24-jls-fr-diffs.pdf#jls-12.6"><i>The Java Language Specification</i>, section 12.6</a>.  However,
+    the Java&#160;SE&#160;18 Platform Specification
+    <a href="https://cr.openjdk.org/~iris/se/18/latestSpec/#j421">deprecates finalization, for removal</a>. To aid preparations for
+    the removal of finalization, an Implementation may provide a means
+    to invoke its run-time system with finalization disabled. If
+    finalization is disabled, the effect is that the Java Virtual
+    Machine never invokes an object&#8217;s finalizer before the storage for
+    the object is reclaimed by the garbage collector. An
+    Implementation must not, by default, disable finalization. </p>
+
+    <p> (The Reference Implementation provides the ability to disable
+    finalization via the command-line option
+    <code>--finalization=disabled</code>.) </p>
+
+    <p> Future revisions of this Platform Specification are expected to
+    disable finalization by default and, eventually, to remove finalization
+    from the Java Language Specification. </p>
+
+  </div></div>
+  </div></div>
+
+
+  <div class="section"><div class="number"><span>6</span></div><div class="title"><span>APIs previewed</span><a id="s6">&#160;</a><a id="APIs-previewed">&#160;</a></div><div class="body">
+
+    <p> The list of Java APIs which are preview features may be found in the
+    <a href="api/preview-list.html">Preview API</a> section of the <a href="api/index.html">API Specification</a>.  They are disabled by
+    default at compile time and run time. </p>
+
+    <p> (The Reference Implementation provides the ability to
+    <a href="https://openjdk.org/jeps/12#Example-Use-of-Preview-Features">
+    enable the entire set of preview features</a> via the command-line option
+    <br />
+    <code>--enable-preview</code> to <code>javac</code> and the
+    <code>java</code> launcher.) </p>
+
+   <p> No non-Java APIs or language-independent protocols were added to the
+   Java&#160;SE Platform by this Platform Specification. </p>
+
+
+
+
+    <p> Preview features may be removed in a future release, or upgraded to
+    permanent features of the Java&#160;SE Platform. </p>
+
+  </div></div>
+
+
+  <div class="section"><div class="number"><span>7</span></div><div class="title"><span>Modules</span><a id="s7">&#160;</a><a id="Modules">&#160;</a></div><div class="body">
+
+    <p> A <i>module</i> is a named set of packages designed for reuse. A
+    specification governed by the JCP defines <i>standard packages</i>, and
+    may group them into one or more <i>standard modules</i>. </p>
+
+    <p> This Specification groups the standard packages of the Java&#160;SE
+    Platform into 21 standard modules, which we refer to as <i>the Java&#160;SE
+    modules</i>. The name of a Java&#160;SE module always starts with the string
+    <tt>"java."</tt>. The complete list of such modules is: </p>
+
+    <blockquote><table class="modules"><tr>
+      <td>
+        java.base <br />
+        java.compiler <br />
+        java.datatransfer <br />
+        java.desktop <br />
+        java.instrument <br />
+        java.logging <br />
+        java.management
+      </td>
+      <td>
+        java.management.rmi <br />
+        java.naming <br />
+	java.net.http <br />
+        java.prefs <br />
+        java.rmi <br />
+        java.scripting <br />
+        java.se (aggregator)<br />
+      </td>
+      <td>
+        java.security.jgss <br />
+        java.security.sasl <br />
+        java.sql <br />
+        java.sql.rowset <br />
+	java.transaction.xa <br />
+        java.xml <br />
+        java.xml.crypto <br />
+      </td>
+    </tr></table></blockquote>
+
+    <p> Compared to Java&#160;SE&#160;25, this Specification does not add or
+    remove any modules.  </p>
+
+    <div class="subsection"><div class="body">
+
+    <p class="subsection" id="The-module-graph"><span class="title">The module graph</span> The Java&#160;SE modules depend upon each
+    other as stated in their specifications, which are part of the overall <a href="api">API Specification</a>.  The corresponding complete Java&#160;SE
+    module graph has too many edges to be displayed easily in visual form;
+    here is the <a href="https://en.wikipedia.org/wiki/Transitive_reduction"><i>transitive
+    reduction</i></a> of the directed acyclic graph, in which redundant edges
+    are omitted (click to enlarge): </p>
+
+    <blockquote>
+      <p><a href="images/java.se-graph.svg">
+	<img src="images/java.se-graph.svg" width="500px" alt="java.se Module Graph" />
+      </a></p>
+    </blockquote>
+
+    <p> Here is how to read this visualization of the module graph: </p>
+
+    <ul>
+
+      <li><p> If one module depends upon another, and it grants implied
+      readability to that module via a <tt>requires transitive</tt> directive,
+      then there is an edge from the first module to the second. </p></li>
+
+      <li><p> At the very bottom is the <tt>java.base</tt> module, which
+      contains essential classes such as <tt>java.lang.Object</tt> and
+      <tt>java.lang.String</tt>.  The base module depends upon no module, and
+      every other module depends upon the base module. </p></li>
+
+      <li><p> At the top is the <tt>java.se</tt> module, which gathers
+      together all of the modules that comprise the Java&#160;SE Platform.  This
+      is an example of an <i>aggregator</i> module, which logically gathers
+      the content of other modules by granting implied readability to them,
+      but adds no content of its own.  A run-time system configured to contain
+      the <tt>java.se</tt> module will contain all of the packages of the
+      Java&#160;SE Platform. </p></li>
+
+    </ul>
+
+    <p> A module is a Java&#160;SE module &#8212; that is, considered part of the
+    Java&#160;SE Platform Specification &#8212; if and only if it is a standard
+    module reachable from the <tt>java.se</tt> module. </p>
+
+  </div></div>
+
+  <div class="subsection"><div class="body">
+
+    <p class="subsection" id="Relaxing-strong-encapsulation"><span class="title">Relaxing strong encapsulation</span> As an aid to migration,
+    previous versions of this Specification permitted an Implementation to
+    provide a means to invoke its run-time system with one or more packages of
+    one or more of its modules open to code in all unnamed modules, <i>i.e.</i>, to
+    code on the class path.  This is no longer permitted. </p>
+
+    <p> (The Reference Implementation provided this capability via the
+    command-line option <code>--illegal-access=permit</code>.) </p>
+
+    <p> An Implementation must not relax the strong encapsulation of any of its
+    modules, either by default or upon request.  That is, its run-time system
+    must not behave as if some packages in the Implementation&#8217;s modules are
+    open when they are not open according to their module declarations.  A
+    package, or an entire module, is open to code in all unnamed modules if and
+    only if: </p>
+
+    <ul>
+
+      <li> It is explicitly declared to be open, without qualification, in a
+      module declaration, or </li>
+
+      <li> The run-time system is explicitly invoked to open it to code in all
+      unnamed modules, <a href="#Overriding-module-declarations">as provided
+      for below</a>. </li>
+
+    </ul>
+
+    <p> <i>This section may be compared to
+    <a href="https://cr.openjdk.org/~iris/se/16/latestSpec/#Relaxing-strong-encapsulation">the corresponding section</a> that appeared in Java&#160;SE&#160;16. </i>
+    </p>
+
+  </div></div>
+
+  <div class="subsection"><div class="body">
+
+    <p class="subsection" id="Incorporated-subsections"><span class="title">Incorporated subsections</span> This Specification incorporates
+    the following subsections by reference from the Java&#160;SE&#160;9 Platform
+    Specification (<a href="https://jcp.org/en/jsr/detail?id=379">JSR&#160;379</a>),
+    <a href="https://cr.openjdk.org/~iris/se/9/latestSpec/#Modules">&#8220;Modules&#8221;: </a> </p>
+
+    <ul>
+      <li> <a href="https://cr.openjdk.org/~iris/se/9/latestSpec/#Constraints-on-Java-SE-modules">Constraints on Java&#160;SE modules</a> </li>
+      <li> <a href="https://cr.openjdk.org/~iris/se/9/latestSpec/#Constraints-on-all-modules-in-an-Implementation">Constraints on all modules in an Implementation</a> </li>
+      <li> <a id="Overriding-module-declarations"></a>
+	<a href="https://cr.openjdk.org/~iris/se/9/latestSpec/#Overriding-module-declarations">Overriding module declarations</a> </li>
+      <li> <a href="https://cr.openjdk.org/~iris/se/9/latestSpec/#Upgradeable-modules">Upgradeable modules</a>
+              The only upgradeable module in this Platform Specification
+              is <code>java.compiler</code>. </li>
+    </ul>
+
+  </div></div>
+
+  </div></div>
+
+
+
+  <div class="section"><div class="number"><span>8</span></div><div class="title"><span>APIs removed</span><a id="s8">&#160;</a><a id="APIs-removed">&#160;</a></div><div class="body">
+
+
+    <p> The following APIs were removed from the Java&#160;SE Platform by this
+    Platform Specification.  The number in parentheses indicates the Java&#160;SE
+    Platform Specification which first proposed its removal. </p>
+
+    
+    <p class="subsection" id="Package"><span class="title">Package</span></p>
+    <ul class="deprecate">
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359058">
+        java.applet</a> (17)</li>
+
+    </ul>
+
+    
+    <p class="subsection" id="Interfaces"><span class="title">Interfaces</span></p>
+    <ul class="deprecate">
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359058">
+	java.applet.AppletContext</a> (17)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359058">
+	java.applet.AppletStub</a> (17)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359058">
+	java.applet.AudioClip</a> (17)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359058">
+	java.beans.AppletInitializer</a> (17)</li>
+
+    </ul>
+
+    
+    <p class="subsection" id="Classes"><span class="title">Classes</span></p>
+    <ul class="deprecate">
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359058">
+        java.applet.Applet</a> (17)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359058">
+        javax.swing.JApplet</a> (17)</li>
+
+    </ul>
+
+    
+
+
+      
+
+    
+    <p class="subsection" id="Methods"><span class="title">Methods</span></p>
+    <ul class="deprecate">
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359058">
+	java.beans.Beans.instantiate(ClassLoader,String,BeanContext,AppletInitializer)</a> (17)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8368237">
+        java.lang.Thread.stop</a> (18)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359594">
+        java.net.DatagramSocketImpl.getTTL</a> (23)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359594">
+        java.net.DatagramSocketImpl.setTTL</a> (23)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359594">
+	java.net.MulticastSocket.getTTL</a> (23)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359594">
+        java.net.MulticastSocket.send</a> (23)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359594">
+	java.net.MulticastSocket.setTTL</a> (23)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8365409">
+        javax.imageio.spi.ServiceRegistry.finalize</a> (18)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8364778">
+	javax.imageio.stream.FileCacheImageInputStream.finalize</a> (18)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8364778">
+        javax.imageio.stream.FileImageInputStream.finalize</a> (18)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8364778">
+	javax.imageio.stream.FileImageOutputStream.finalize</a> (18)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8364778">
+	javax.imageio.stream.ImageInputStreamImpl.finalize</a> (18)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8364778">
+        javax.imageio.stream.MemoryCacheImageInputStream.finalize</a> (18)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359663">
+        javax.management.modelmbean.DescriptorSupport.toXMLString</a> (25)</li>
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359058">
+	javax.swing.RepaintManager.addDirtyRegion</a> (17)</li>
+
+    </ul>
+
+    
+    <p class="subsection" id="Exception"><span class="title">Exception</span></p>
+    <ul class="deprecate">
+
+      
+      
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359663">
+        javax.management.modelmbean.XMLParseException</a> (25)</li>
+
+    </ul>
+
+    
+    <p class="subsection" id="Constructor"><span class="title">Constructor</span></p>
+    <ul class="deprecate">
+
+      
+      
+      <li><a href="https://bugs.openjdk.org/browse/JDK-8359663">
+        javax.management.modelmbean.DescriptorSupport.&lt;init&gt;()</a> (25)</li>
+
+    </ul>
+
+    <p> This section excludes preview APIs which are impermanent and may be
+    removed without warning.
+    </p>
+
+  </div></div>
+
+
+  <div class="section"><div class="number"><span>9</span></div><div class="title"><span>APIs proposed for removal</span><a id="s9">&#160;</a><a id="APIs-proposed-for-removal">&#160;</a></div><div class="body">
+
+    <p> The following APIs were proposed for removal from the Java&#160;SE
+    Platform by the Platform Specifications for
+    <a href="https://cr.openjdk.org/~iris/se/10/latestSpec/#APIs-proposed-for-removal">Java&#160;SE&#160;10</a>,
+    <a href="https://cr.openjdk.org/~iris/se/13/latestSpec/#APIs-proposed-for-removal">Java&#160;SE&#160;13</a>,
+    <a href="https://cr.openjdk.org/~iris/se/16/latestSpec/#APIs-proposed-for-removal">Java&#160;SE&#160;16</a>,
+    <a href="https://cr.openjdk.org/~iris/se/17/latestSpec/#APIs-proposed-for-removal">Java&#160;SE&#160;17</a>,
+    <a href="https://cr.openjdk.org/~iris/se/18/latestSpec/#APIs-proposed-for-removal">Java&#160;SE&#160;18</a>,
+    <a href="https://cr.openjdk.org/~iris/se/19/latestSpec/#APIs-proposed-for-removal">Java&#160;SE&#160;19</a>,
+    <a href="https://cr.openjdk.org/~iris/se/20/latestSpec/#APIs-proposed-for-removal">Java&#160;SE&#160;20</a>,
+    <a href="https://cr.openjdk.org/~iris/se/21/latestSpec/#APIs-proposed-for-removal">Java&#160;SE&#160;21</a>,
+    <a href="https://cr.openjdk.org/~iris/se/23/latestSpec/#APIs-proposed-for-removal">Java&#160;SE&#160;23</a>,
+    <a href="https://cr.openjdk.org/~iris/se/24/latestSpec/#APIs-proposed-for-removal">Java&#160;SE&#160;24</a>. and
+    <a href="https://cr.openjdk.org/~iris/se/25/latestSpec/#APIs-proposed-for-removal">Java&#160;SE&#160;25</a>.
+
+    They are not removed in this release of the Java&#160;SE Platform. They
+    continue to be eligible for removal in a future release. </p>
+
+    
+
+    
+    <p class="subsection" id="Package-"><span class="title">Package&#160;</span></p>
+    <ul class="deprecate">
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/package-summary.html">java.beans.beancontext</a> (23)</li>
+
+    </ul>
+
+    
+    <p class="subsection" id="Interfaces-"><span class="title">Interfaces&#160;</span></p>
+    <ul class="deprecate">
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContext.html">java.beans.beancontext.BeanContext</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextChild.html">java.beans.beancontext.BeanContextChild</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextChildComponentProxy.html">java.beans.beancontext.BeanContextChildComponentProxy</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextContainerProxy.html">java.beans.beancontext.BeanContextContainerProxy</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextMembershipListener.html">java.beans.beancontext.BeanContextMembershipListener</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextProxy.html">java.beans.beancontext.BeanContextProxy</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextServiceProvider.html">java.beans.beancontext.BeanContextServiceProvider</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextServiceProviderBeanInfo.html">java.beans.beancontext.BeanContextServiceProviderBeanInfo</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextServiceRevokedListener.html">java.beans.beancontext.BeanContextServiceRevokedListener</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextServices.html">java.beans.beancontext.BeanContextServices</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextServicesListener.html">java.beans.beancontext.BeanContextServicesListener</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/Certificate.html">java.security.Certificate</a> (10)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/DomainCombiner.html">java.security.DomainCombiner</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/Policy.Parameters.html">java.security.Policy.Parameters</a> (17)</li>
+
+    </ul>
+
+    
+    <p class="subsection" id="Classes-"><span class="title">Classes&#160;</span></p>
+    <ul class="deprecate">
+
+      
+      <li><a class="jref" href="api/java.desktop/java/awt/AWTPermission.html">java.awt.AWTPermission</a> (24)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextChildSupport.html">java.beans.beancontext.BeanContextChildSupport</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextEvent.html">java.beans.beancontext.BeanContextEvent</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextMembershipEvent.html">java.beans.beancontext.BeanContextMembershipEvent</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextServiceAvailableEvent.html">java.beans.beancontext.BeanContextServiceAvailableEvent</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextServiceRevokedEvent.html">java.beans.beancontext.BeanContextServiceRevokedEvent</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextServicesSupport.html">java.beans.beancontext.BeanContextServicesSupport</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/beancontext/BeanContextSupport.html">java.beans.beancontext.BeanContextSupport</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/io/FilePermission.html">java.io.FilePermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/io/SerializablePermission.html">java.io.SerializablePermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/RuntimePermission.html">java.lang.RuntimePermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/SecurityManager.html">java.lang.SecurityManager</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.management/java/lang/management/ManagementPermission.html">java.lang.management.ManagementPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/reflect/ReflectPermission.html">java.lang.reflect.ReflectPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/net/NetPermission.html">java.net.NetPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/net/URLPermission.html">java.net.URLPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/nio/file/LinkPermission.html">java.nio.file.LinkPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.rmi/java/rmi/RMISecurityManager.html">java.rmi.RMISecurityManager</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/AccessControlContext.html">java.security.AccessControlContext</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/AccessController.html">java.security.AccessController</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/Identity.html">java.security.Identity</a> (10)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/IdentityScope.html">java.security.IdentityScope</a> (10)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/Policy.html">java.security.Policy</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/PolicySpi.html">java.security.PolicySpi</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/SecurityPermission.html">java.security.SecurityPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/Signer.html">java.security.Signer</a> (10)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/UnresolvedPermission.html">java.security.UnresolvedPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/util/PropertyPermission.html">java.util.PropertyPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.logging/java/util/logging/LoggingPermission.html">java.util.logging.LoggingPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.management/javax/management/MBeanPermission.html">javax.management.MBeanPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.management/javax/management/MBeanServerPermission.html">javax.management.MBeanServerPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.management/javax/management/MBeanTrustPermission.html">javax.management.MBeanTrustPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.management/javax/management/remote/SubjectDelegationPermission.html">javax.management.remote.SubjectDelegationPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/net/ssl/SSLPermission.html">javax.net.ssl.SSLPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/auth/AuthPermission.html">javax.security.auth.AuthPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/auth/PrivateCredentialPermission.html">javax.security.auth.PrivateCredentialPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/auth/SubjectDomainCombiner.html">javax.security.auth.SubjectDomainCombiner</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.security.jgss/javax/security/auth/kerberos/DelegationPermission.html">javax.security.auth.kerberos.DelegationPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/cert/Certificate.html">javax.security.cert.Certificate</a> (13) </li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/cert/X509Certificate.html">javax.security.cert.X509Certificate</a> (13) </li>
+
+      
+      <li><a class="jref" href="api/java.security.jgss/javax/security/auth/kerberos/ServicePermission.html">javax.security.auth.kerberos.ServicePermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/javax/sound/sampled/AudioPermission.html">javax.sound.sampled.AudioPermission</a> (24)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/javax/swing/plaf/basic/BasicMenuItemUI.MouseInputHandler.html">javax.swing.plaf.basic.BasicMenuItemUI.MouseInputHandler</a> (19)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/javax/swing/plaf/basic/BasicScrollPaneUI.HSBChangeListener.html">javax.swing.plaf.basic.BasicScrollPaneUI.HSBChangeListener</a> (19)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/javax/swing/plaf/basic/BasicScrollPaneUI.PropertyChangeHandler.html">javax.swing.plaf.basic.BasicScrollPaneUI.PropertyChangeHandler</a> (19)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/javax/swing/plaf/basic/BasicScrollPaneUI.ViewportChangeHandler.html">javax.swing.plaf.basic.BasicScrollPaneUI.ViewportChangeHandler</a> (19)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/javax/swing/plaf/basic/BasicScrollPaneUI.VSBChangeListener.html">javax.swing.plaf.basic.BasicScrollPaneUI.VSBChangeListener</a> (19)</li>
+
+    </ul>
+
+    
+    <p class="subsection" id="Exceptions-"><span class="title">Exceptions&#160;</span></p>
+    <ul class="deprecate">
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/ThreadDeath.html">java.lang.ThreadDeath</a> (20)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/security/AccessControlException.html">java.security.AccessControlException</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/util/zip/ZipError.html">java.util.zip.ZipError</a> (24)</li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/cert/CertificateEncodingException.html">javax.security.cert.CertificateEncodingException</a> (13) </li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/cert/CertificateException.html">javax.security.cert.CertificateException</a> (13) </li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/cert/CertificateExpiredException.html">javax.security.cert.CertificateExpiredException</a> (13) </li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/cert/CertificateNotYetValidException.html">javax.security.cert.CertificateNotYetValidException</a> (13) </li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/cert/CertificateParsingException.html">javax.security.cert.CertificateParsingException</a> (13) </li>
+
+    </ul>
+
+    
+    <p class="subsection" id="Methods-"><span class="title">Methods&#160;</span></p>
+    <ul class="deprecate">
+
+      
+      <li><a class="jref" href="api/java.desktop/java/awt/Graphics.html#finalize()">java.awt.Graphics.finalize</a> (18)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/awt/PrintJob.html#finalize()">java.awt.PrintJob.finalize</a> (18)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/awt/Window.html#getWarningString()">java.awt.Window.getWarningString</a> (24)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/java/beans/Beans.html#instantiate(java.lang.ClassLoader,java.lang.String,java.beans.beancontext.BeanContext)">java.beans.Beans.instantiate</a>(ClassLoader,String,BeanContext) (23)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/io/ObjectOutputStream.PutField.html#write(java.io.ObjectOutput)">java.io.ObjectOutputStream.PutField.write</a> (23)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/Enum.html#finalize()">java.lang.Enum.finalize</a> (18)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/Object.html#finalize()">java.lang.Object.finalize</a> (18)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/Runtime.html#runFinalization()">java.lang.Runtime.runFinalization</a> (18)</li>
+
+      
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/System.html#getSecurityManager()">java.lang.System.getSecurityManager</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/System.html#runFinalization()">java.lang.System.runFinalization</a> (18)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/System.html#setSecurityManager(java.lang.SecurityManager)">java.lang.System.setSecurityManager</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/Thread.html#checkAccess()">java.lang.Thread.checkAccess</a> (17)</li>
+
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/ThreadGroup.html#checkAccess()">java.lang.ThreadGroup.checkAccess</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/ThreadGroup.html#destroy()">java.lang.ThreadGroup.destroy</a> (16)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/ThreadGroup.html#isDaemon()">java.lang.ThreadGroup.isDaemon</a> (16)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/ThreadGroup.html#isDestroyed()">java.lang.ThreadGroup.isDestroyed</a> (16)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/ThreadGroup.html#setDaemon(boolean)">java.lang.ThreadGroup.setDaemon</a> (16)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/net/HttpURLConnection.html#getPermission()">java.net.HttpURLConnection.getPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/net/URLConnection.html#getPermission()">java.net.URLConnection.getPermission</a> (25)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/util/concurrent/Executors.html#privilegedCallable(java.util.concurrent.Callable)">java.util.concurrent.Executors.privilegedCallable</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/util/concurrent/Executors.html#privilegedCallableUsingCurrentClassLoader(java.util.concurrent.Callable)">java.util.concurrent.Executors.privilegedCallableUsingCurrentClassLoader</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/util/concurrent/Executors.html#privilegedThreadFactory()">java.util.concurrent.Executors.privilegedThreadFactory</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/util/concurrent/ThreadPoolExecutor.html#finalize()">java.util.concurrent.ThreadPoolExecutor.finalize</a> (18)</li>
+
+      
+      <li><a class="jref" href="api/java.logging/java/util/logging/LogManager.html#checkAccess()">java.util.logging.LogManager.checkAccess</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.management/javax/management/remote/JMXConnector.html#getMBeanServerConnection(javax.security.auth.Subject)">javax.management.remote.JMXConnector.getMBeanServerConnection</a> (21)</li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/net/ssl/HandshakeCompletedEvent.html#getPeerCertificateChain()">javax.net.ssl.HandshakeCompletedEvent.getPeerCertificateChain</a> (13) </li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/net/ssl/SSLSession.html#getPeerCertificateChain()">javax.net.ssl.SSLSession.getPeerCertificateChain</a> (13) </li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/auth/Subject.html#doAs(javax.security.auth.Subject,java.security.PrivilegedAction)">javax.security.auth.Subject.doAs</a>(Subject,PrivilegedAction) (18)</li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/auth/Subject.html#doAs(javax.security.auth.Subject,java.security.PrivilegedExceptionAction)">javax.security.auth.Subject.doAs</a>(Subject,PrivilegedExceptionAction) (18)</li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/auth/Subject.html#doAsPrivileged(javax.security.auth.Subject,java.security.PrivilegedAction,java.security.AccessControlContext)">javax.security.auth.Subject.doAsPrivileged</a><br />
+          &#160;&#160;&#160;&#160;(Subject,PrivilegedAction,AccessControlContext) (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/auth/Subject.html#doAsPrivileged(javax.security.auth.Subject,java.security.PrivilegedExceptionAction,java.security.AccessControlContext)">javax.security.auth.Subject.doAsPrivileged</a><br />
+          &#160;&#160;&#160;&#160;(Subject,PrivilegedExceptionAction,AccessControlContext)
+          (17)</li>
+
+      
+      <li><a class="jref" href="api/java.base/javax/security/auth/Subject.html#getSubject(java.security.AccessControlContext)">javax.security.auth.Subject.getSubject</a> (17)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/javax/swing/JInternalFrame.html#getWarningString()">javax.swing.JInternalFrame.getWarningString</a> (24)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/javax/swing/plaf/basic/BasicDirectoryModel.html#intervalAdded(javax.swing.event.ListDataEvent)">javax.swing.plaf.basic.BasicDirectoryModel.intervalAdded</a> (19)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/javax/swing/plaf/basic/BasicDirectoryModel.html#intervalRemoved(javax.swing.event.ListDataEvent)">javax.swing.plaf.basic.BasicDirectoryModel.intervalRemoved</a> (19)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/javax/swing/plaf/basic/BasicDirectoryModel.html#lt(java.io.File,java.io.File)">javax.swing.plaf.basic.BasicDirectoryModel.lt</a> (19)</li>
+
+      
+      <li><a class="jref" href="api/java.desktop/javax/swing/plaf/basic/BasicToolBarUI.html#createFloatingFrame(javax.swing.JToolBar)">javax.swing.plaf.basic.BasicToolBarUI.createFloatingFrame</a> (19)</li>
+
+    </ul>
+
+    
+    <p class="subsection" id="Constructors-"><span class="title">Constructors&#160;</span></p>
+    <ul class="deprecate">
+
+      
+      <li><a class="jref" href="api/java.base/java/net/Socket.html#&lt;init&gt;(java.net.InetAddress,int,boolean)">java.net.Socket.&lt;init&gt;</a>(InetAddress,int,Boolean) (23)
+      </li>
+
+      
+      <li><a class="jref" href="api/java.base/java/net/Socket.html#&lt;init&gt;(java.lang.String,int,boolean)">java.net.Socket.&lt;init&gt;</a>(String,int,Boolean) (23)
+      </li>
+
+      
+      <li><a class="jref" href="api/java.management/javax/management/relation/RoleStatus.html#&lt;init&gt;()">javax.management.relation.RoleStatus.&lt;init&gt;</a>() (16)
+      </li>
+
+    </ul>
+
+    
+
+
+
+
+
+
+
+
+    <p> The following APIs are proposed for removal from the Java&#160;SE Platform
+    by this Platform Specification.  They are annotated as
+    <code>@Deprecated</code> with <code>forRemoval=true</code>, following the
+    convention established by
+    <a href="https://openjdk.org/jeps/277">Enhanced Deprecation</a>.
+    This makes them eligible for removal in a future release. </p>
+
+   
+
+      
+
+    
+    <p class="subsection" id="Classes--"><span class="title">Classes&#160;&#160;</span></p>
+    <ul class="deprecate">
+
+      
+      <li><a class="jref" href="api/java.base/java/net/SocketPermission.html">java.net.SocketPermission</a> (26)</li>
+
+      
+      <li><a class="jref" href="api/java.sql/java/sql/SQLPermission.html">java.sql.SQLPermission</a> (26)</li>
+
+    </ul>
+
+    
+
+
+      
+
+    
+    <p class="subsection" id="Methods--"><span class="title">Methods&#160;&#160;</span></p>
+    <ul class="deprecate">
+
+      
+      <li><a class="jref" href="api/java.base/java/lang/classfile/Signature.ClassTypeSig.html#of(java.lang.classfile.Signature.ClassTypeSig,java.lang.constant.ClassDesc,java.lang.classfile.Signature.TypeArg...)">java.lang.classfile.Signature.ClassTypeSig.of</a> (26)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/net/ServerSocket.html#setPerformancePreferences(int,int,int)">java.net.ServerSocket.setPerformancePreferences</a> (26)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/net/Socket.html#setPerformancePreferences(int,int,int)">java.net.Socket.setPerformancePreferences</a> (26)</li>
+
+      
+      <li><a class="jref" href="api/java.base/java/net/SocketImpl.html#setPerformancePreferences(int,int,int)">java.net.SocketImpl.setPerformancePreferences</a> (26)</li>
+
+    </ul>
+
+    
+
+      
+
+    
+
+      
+
+
+
+
+
+    
+
+      
+
+      
+
+
+    <p>
+    Additional details about deprecations, including potential
+    alternatives, may be found in the
+    <a href="api/deprecated-list.html">Deprecated API</a> section of the
+    <a href="api/index.html">API Specification</a>.  Migration away from
+    deprecated APIs is strongly encouraged. </p>
+
+  </div></div>
+
+</body></html>

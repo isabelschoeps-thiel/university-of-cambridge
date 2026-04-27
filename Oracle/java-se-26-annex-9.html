@@ -1,0 +1,245 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/xhtml1-strict.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=ascii" /><title>JSR 401: Java&#160;SE&#160;26: Annex 9</title><meta name="viewport" content="width=device-width, initial-scale=.6" /><link rel="stylesheet" type="text/css" href=".fonts/dejavu.css" /><style type="text/css">
+
+      HTML, BODY, DIV, SPAN, APPLET, OBJECT, IFRAME, H1, H2, H3, H4, H5, H6, P,
+      BLOCKQUOTE, PRE, A, ABBR, ACRONYM, ADDRESS, BIG, CITE, CODE, DEL, DFN, EM,
+      IMG, INS, KBD, Q, S, SAMP, SMALL, STRIKE, STRONG, SUB, SUP, TT, VAR, B, U,
+      I, CENTER, DL, DT, DD, OL, UL, LI, FIELDSET, FORM, LABEL, LEGEND, TABLE,
+      CAPTION, TBODY, TFOOT, THEAD, TR, TH, TD, ARTICLE, ASIDE, CANVAS, DETAILS,
+      EMBED, FIGURE, FIGCAPTION, FOOTER, HEADER, HGROUP, MENU, NAV, OUTPUT, RUBY,
+      SECTION, SUMMARY, TIME, MARK, AUDIO, VIDEO {
+        margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit;
+        vertical-align: baseline; }
+      ARTICLE, ASIDE, DETAILS, FIGCAPTION, FIGURE, 
+      FOOTER, HEADER, HGROUP, MENU, NAV, SECTION { display: block; }
+      BLOCKQUOTE, Q { quotes: none; }
+      BLOCKQUOTE:before, BLOCKQUOTE:after, Q:before, Q:after {
+              content: ''; content: none; }
+      TABLE { border-collapse: collapse; border-spacing: 0; }
+
+      A { text-decoration: none; }
+      A:link { color: #437291; }
+      A:visited { color: #666666; }
+      A.anchor:link, A.anchor:visited { color: black; }
+      A[href]:hover { color: #e76f00; }
+      A IMG { border-width: 0px; }
+
+      HTML { font-size: 20px; } /* baseline grid */
+      HTML > BODY { font-size: 14px; }
+      BODY {
+        background: white;
+        margin: 40px;
+        margin-bottom: 150%;
+        width: 560px;
+        line-height: 20px;
+        -webkit-text-size-adjust: 100%; /* iOS */
+        color: #222;
+      }
+
+      /*BODY { background: url("grid.png") repeat 0 05px; }*/
+
+      BODY { font-family: "DejaVu Serif", "Lucida Bright", "Bookman Old Style",
+                          Georgia, serif; }
+      CODE, TT, .jref, DIV.spec .open, TABLE.modules { 
+        font-family: "DejaVu Sans", "Lucida Sans", Helvetica, sans-serif; }
+      PRE { font-family: "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
+                          Monaco, "Courier New", monospace; }
+
+      @media only screen
+      and (min-device-width: 320px) and (max-device-width: 480px) {
+        BODY { width: 90%; }
+      }
+
+      H1, H2, H3, H4 { color: green; font-weight: bold; }
+
+      I { font-style: italic; }
+      TH { font-weight: bold; }
+
+      P { text-indent: 40px; }
+      P:first-child, UL + P, OL + P, BLOCKQUOTE + P, TABLE + P, P.subsection,
+        P.break, DIV.modules-table + P { text-indent: 0; }
+      P.break { margin-top: 10px; }
+      OL P, UL P { text-indent: 0; margin-top: 10px; }
+
+      P.subsection { margin-top: 20px; }
+      P.subsection SPAN.title { font-weight: bold; padding-right: 20px; }
+
+      UL, OL { margin: 10px 0; padding-left: 40px; }
+      LI { margin-bottom: 10px; }
+      OL LI { padding-left: .25em; }
+      UL.compact LI { margin-bottom: 0; }
+      UL.deprecate, UL.deprecate UL { padding-left: 20px; }
+      UL.deprecate LI { font-size: 12px; line-height: 16px; margin-bottom: 0;
+        font-family: "DejaVu Sans", "Lucida Sans", Helvetica, sans-serif;
+        list-style-type: none;
+      }
+      UL.blank { padding-left: 20px; }
+      UL.blank LI { list-style-type: none; }
+
+      PRE { padding: 0; margin: 10px 0 10px 20px; width: 45em; }
+      BLOCKQUOTE { margin: 10px 0; margin-left: 20px; }
+      UL LI { list-style-type: square; }
+      .todo { color: darkred; text-align: right; }
+      .error { color: red; font-weight: bold; }
+
+      .warn { color: #ee0000; font-weight: bold; }
+      DIV.doctitle { margin-top: -13px;
+        font-size: 22px; line-height: 40px; font-weight: bold; }
+      DIV.doctitle SMALL { font-size: 21px; }
+      DIV.twarn { color: #cc0000; font-weight: bold; margin-bottom: 9px; }
+      DIV.subtitle { margin-top: 2px; font-size: 18px; font-weight: bold; }
+      DIV.authors { margin-top: 10px; margin-bottom: 10px; font-size: 16px; }
+      DIV.author A { font-style: italic; }
+      DIV.version { margin-top: 10px; font-size: 12px; }
+      DIV.version, DIV.legal-notice { font-size: 12px; line-height: 15px; }
+      DIV.version SPAN.modified { color: green; font-weight: bold; }
+      DIV.head { margin-bottom: 20px; }
+
+      DIV.section > DIV.title, DIV.section DIV.number SPAN {
+        font-size: 15px; font-weight: bold;
+        ZZline-height: 40px; margin-top: 20px; margin-bottom: 10px; }
+
+      DIV.section DIV.number { float: left; width: 30px; }
+      DIV.section DIV.body { margin-left: 30px; }
+
+      DIV.subsection DIV.body { margin-left: 0px; }      
+
+      DIV.toc { margin: 20px 0; padding-left: 60px; }
+      TABLE.toc { font-size: 13px; } /* Hack to ensure 20px rows */
+      TABLE.toc TD:first-child { font-weight: bold; padding-right: 10px; }
+      TABLE.toc TH { font-weight: bold; text-align: left; }
+      TABLE.toc TD.subcontent { padding-left: 40px; font-size: 11px; }
+      TABLE.toc TR TH { padding-top: 10px; }
+      TABLE.toc TR:first-child TH { padding-top: 0; }
+
+      DIV.feature-details { margin-left: 0; }
+      DIV.feature-details DIV.group { margin-top: 20px; margin-left: 20px; }
+      DIV.feature-details DIV.group DIV.title { font-weight: bold; margin-left: -20px; }
+
+      DIV.feature { margin-top: 10px; margin-left: 20px; }
+      DIV.feature DIV.jep, DIV.feature DIV.title { font-weight: bold; }
+      DIV.feature DIV.jep { float: right; }
+      DIV.feature DIV.summary, DIV.feature DIV.refs, DIV.feature DIV.spec { margin-top: 10px; }
+      DIV.feature DIV.refs SPAN.what { font-weight: bold; }
+      DIV.spec .body { margin-left: 20px; }
+      DIV.spec .open { float: left; width: 20px; }
+
+      TABLE.features { margin: 10px 0 10px 0; }
+      TABLE.features TR.new-group TD { padding-top: 10px; }
+      TABLE.features TD:first-child { text-align: right; padding-right: 20px; }
+      TABLE.features TR:first-child TD { padding-top: 0; }
+      TABLE.features SPAN.jsrs-wrapper { padding-left: 6px; }
+      TABLE.features SPAN.jsrs { ZZfont-size: 11px; }
+      TABLE.features TD { white-space: nowrap; }
+
+      SPAN.new { color: #e76f00; font-size: smaller; }
+      SPAN.update { font-size: smaller; }
+
+      TABLE.jsr-list TD { vertical-align: baseline; }
+      TABLE.jsr-list TD.name { padding-left: 10px; }
+      TABLE.jsr-list TD.stage { padding-left: 40px; font-style: italic; white-space: nowrap; }
+      
+      DIV.modules-table { margin: 20px 0 20px 20px; }
+      TABLE.modules { font-size: 12px; line-height: 18px; }
+      TABLE.modules TH { text-align: left; }
+      TABLE.modules TH + TH { padding-left: 40px; }
+      TABLE.modules TD + TD { padding-left: 40px; }
+
+      .v2  { width: 43em; border: solid #4a4; border-width: 0 .5em 0 0; }
+      .v2 > * { padding-right: 2em; }
+      .v3  { width: 43em; border: solid #46c; border-width: 0 .5em 0 0; }
+      .v3 > * { padding-right: 2em; }
+      
+  </style><style type="text/css">
+
+      H1 { font-size: 20px; line-height: 40px; font-weight: bold;
+        margin-top: 20px; color: #222; }
+      H2 { font-size: 16px; font-weight: bold; margin-top: 20px;
+	margin-bottom: 10px; color: #222; }
+      H3 { font-size: 14px; font-style: italic; color: #222; }
+      H4 { font-size: 14px; color: #222; }
+
+      H1 + H2 { margin-top: 0; }
+      DIV + H1 { font-size: 17px; }
+
+      TABLE { border-collapse: collapse; border-spacing: 2px;
+        border-color: #222; margin-left: 60px; }
+
+      TABLE.code { border-collapse: collapse; border-spacing: 2px; }
+        border-color: #222; margin-left: 60px; }
+      CAPTION.code { font-weight: bold; caption-side: top;
+	margin-top: 20px; margin-bottom: 10px; }
+      TD.code, TH.code { padding-right: 5px; padding-left: 5px;
+	border:1px solid black; border-collapse: collapse; }
+
+      LI { margin-bottom:0px; }
+
+      PRE { width: 35em; }
+
+      h3.ctxid { padding-top:10; margin: 0; font-size: 12; color: darkblue; }
+
+      .diff-html-added { font-size: 120%; color: darkgreen;
+        background-color: #ccffcc; cursor: pointer; }
+
+      .diff-html-removed { font-size: 100%; text-decoration: line-through;
+        background-color: #fdc6c6; cursor: pointer; }
+
+      span.diff-html-added img{ border: 2px solid #ccffcc; }
+
+      span.diff-html-removed img{ border: 2px solid #fdc6c6; }
+
+    </style></head><body>
+
+  <div class="head"><div class="doctitle">JSR 401: Java&#160;SE&#160;26: Annex 9</div><div class="subtitle">Final Release Specification</div><div class="subtitle">Java Remote Method Invocation (RMI) Specification</div><div class="authors"><div class="author">Iris Clark</div><div class="version">2026/3/5 06:37 +0000 <span class="hash">[<span>ed2e2777b967</span>]</span></div><div class="legal-notice">Copyright &#169; 2026 Oracle and/or its affiliates &#183; All Rights Reserved &#183; <a href="https://www.oracle.com/java/javase/terms/license/java26speclicense.html">License</a></div></div></div>
+
+
+  <div class="section"><div class="body">
+
+    
+
+    <p> This Annex to the <a href="index.html">Java&#160;SE&#160;26 Specification</a>
+    contains the Java&#160;SE&#160;26 version of the <a href="specs/rmi/index.html">
+    Java Remote Method Invocation (RMI) Specification</a>.  The Java Remote Method Invocation (RMI) Specification underpins the
+    <a href="api/java.rmi/java/rmi/Remote.html">RMI API</a>.  </p>
+
+    
+
+
+    <p style="line-height:10px;\">&#160;</p>
+    <p style="text-indent:0;"> The Java&#160;SE&#160;26 version includes
+
+    corrections and clarifications
+
+    made to the RMI Spec since the Java&#160;SE&#160;25 version, that is,
+    since the Final Release of <a href="https://jcp.org/en/jsr/detail?id=400">JSR&#160;400</a>.
+
+
+    
+
+    These changes are flagged with colorful text, as follows:
+    </p>
+
+    <ul>
+      <li> Text with <span style="background-color: #ccffcc">light green
+      background</span> indicates new material in the Java&#160;SE&#160;26 version. </li>
+
+      <li> Text <span style="text-decoration: line-through; background-color:       #fdc6c6">struck through on a light red background</span> indicates
+      deletion from the Java&#160;SE&#160;25 version. </li>
+
+    </ul>
+
+    
+
+    <p> There are only updates for informational changes or minor corrections
+    such as typographic errors and misspellings. </p>
+
+    
+
+    <ul>
+
+     
+
+  </ul>
+
+  </div></div>
+
+</body></html>
