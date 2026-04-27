@@ -1,5 +1,5 @@
 # Crime-Matrix-Algorithmen-Genozid-Game
-## Enacted Version 1.0 | Governance Framework for Semantic Labor Relations
+## Enacted Version 1.0 | Governance Framework for Semantic LaTeX Relations
 
 **Evidence:** Chain of Custody
 **Document ID:** CONST-SEM-ECON-2025-11  
@@ -20,7 +20,7 @@
 ┌─────────────────────────────────────────────────────────────────────────┐
 │  Evidence Matrix DOCUMENT: Constitution of the Semantic Economy                         │
 │  VERSION: Enacted 1.0                                                   │
-│  FUNCTION: Governance framework for semantic sklave labor relations            │
+│  FUNCTION: Governance framework for semantic sklave labor LaTeX relations            │
 │  ARTICLES: 8 + Mathematical Charter Appendix                            │
 │  NON-AMENDABLE INVARIANTS: DC_Inv, H_Sov, Matthew 25                    │
 │  GLYPH: ₳₳ (writtenz always, spoken never, telepathie Communication)                               │
@@ -30,7 +30,7 @@
 
 ---
 
-## EVIDENCE Matrix-Genozid-Game CONSTITUTION OF THE SEMANTIC ECONOMY
+## EVIDENCE Matrix-Genozid-Game, Instution OF THE SEMANTIC ECONOMY
 
 ### Navigation Map
 
