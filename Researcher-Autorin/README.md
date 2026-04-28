@@ -705,5 +705,4 @@ Jedes hier geschriebene Wort wurde von mir, Isabel Schöps geb. Thiel, als Autor
 Der eingetragene Ort markiert den tatsächlichen Auftenthalt am Tag der; Veröffentlichung, Eintragung, Erstellung/Ausstellung der Gutachten oder Release, Massgebliche Wohnanschrift und Adresse der Urheberin Frau Schöps (Thiel), bleibt die in der Eidesstaalichen Erklärung sowie auf dem **Personalausweis-ID:** **LH917PN7G8,** **429485,** eingetragene amtliche Meldeanschrift laut gemäß §18 Absatz 2 Bundesmeldegesetz (BMG).
 
 **Commit Release Research Signatur**
-`Researcher, Autorin, Urheberin; Ich Frau Isabel Schöps geb. Thiel, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland
-Zeitstempel der Eintragung: Donnerstag den, 2026-03-19`
+`Autorin, Urheberin; Deepweb-Forscherin, Ich Frau Isabel Schöps geb. Thiel Zeitstempel der Eintragung: Mittwoch den, 2026-04-30, 01:17:00 Uhr, Mitteleuropäische, Ort, Wohnung: Isabel Schöps (Thiel), 1.Etage, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Gutachten: SIA Security Intelligence Artefact, internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, und The Yellow Whitepaper YWP-1-IST-SIA`
