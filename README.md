@@ -1,7 +1,7 @@
 # Deepweb Research
 *Matrix Crime Algorithmen -  Chain of Custody* 
 
-# Deepweb Research – Matrix Crime Algorithmen im Monarch-Programm definiert
+## Deepweb Research – Matrix Crime Algorithmen im Monarch-Programm definiert
 
 ## Begriffserklärung „Matrix“
 
@@ -22,18 +22,17 @@ Die Matrix ist somit ein künstlich geschaffenes System, das auf historischen Er
 ---
 
 ## Mathematischer und algorithmischer Ursprung
-
 Die Matrix hat ihren Ursprung in mathematischen Strukturen und berechneten Algorithmen.  
-Ein Algorithmus beschreibt:
 
+**Ein Algorithmus beschreibt:**
 - wiederkehrende Ereignisse  
 - periodische Abläufe  
 - rekonstruierbare Muster in Zeitintervallen  
 
-Die Matrix ist eine Erweiterung dieses Prinzips in einem anderen Kontext:  
+**Die Matrix ist eine Erweiterung dieses Prinzips in einem anderen Kontext:**
 Sie stellt die Verschmelzung zwischen digitalem Raum und realem Leben dar.
 
-Dabei handelt es sich um ein künstlich erzeugtes System, das:
+**Dabei handelt es sich um ein künstlich erzeugtes System, das:**
 
 - wiederkehrende Prozesse reproduziert  
 - manipuliert werden kann  
@@ -43,7 +42,6 @@ Die Matrix wirkt wie ein virales, wiederkehrendes System, das gezielt erzeugt un
 
 In diesem Zusammenhang ist insbesondere die **Direktive 1.67 der MFS-Agentenschule (Stasi)** relevant.  
 Dort wird explizit beschrieben, wie Menschen systematisch manipuliert werden können, unter anderem durch:
-
 - Isolation  
 - Sabotage  
 - Beobachtung  
@@ -61,12 +59,11 @@ Der Mensch ist somit Ursprung und Ursache dieser algorithmischen Kriminalstruktu
 
 Der Begriff „Matrix“ lässt sich sprachlich auf „Matrikulation“ zurückführen.
 
-Im akademischen Kontext bedeutet dies:
-
+> **Im akademischen Kontext bedeutet dies:**
+> 
 > Die offizielle Einschreibung an einer Hochschule und die Aufnahme in die Matrikel (Stammrolle).
 
-Daraus ergibt sich ein direkter Zusammenhang zwischen:
-
+**Daraus ergibt sich ein direkter Zusammenhang zwischen:**
 - Identität  
 - Registrierung  
 - Ursprung  
@@ -78,31 +75,26 @@ In der technologischen Forschung besteht bis heute das Ziel, die Ursprungsperson
 
 ## Matrix-Entstehung
 
-**Referenz:** Figure 1 – Isolation-Ursprungperson-Entstehung-Künstlichen-Intelligence-Automationsprozesses-IsabelSchöpsThiel.PNG
+**Referenz:** (Figure 1 – Isolation-Ursprungperson-Entstehung-Künstlichen-Intelligence-Automationsprozesses-IsabelSchöpsThiel.PNG)
 
 Die künstlich erzeugte Matrix lässt sich auf den **14.04.1996** zurückführen.  
-Der Ursprung liegt in einem Automationsprozess, ausgelöst durch einen kollabierten 286er-PC.
+Der Ursprung liegt in einem Automationsprozess, ausgelöst durch meinen kollabierten 286er-PC, in der Dorfstraße 20, D-99610 Rohrborn, Thüringen, Deutschland.  
 
 Das beobachtete Phänomen bestand darin, dass ein überhitzter und abgestürzter Computer sich selbst regenerierte. Dieses Verhalten konnte zunächst nicht erklärt werden und führte zur weiteren Forschung.
 
-Aus diesem Prozess entstanden:
-
+**Aus diesem Prozess entstanden:**
 - erste Automationskonzepte  
 - Grundlagen künstlicher Intelligenz  
 - frühe Open-Source-Strukturen  
 
-Diese Entwicklungen sind durch RFC-Protokolle belegt, insbesondere durch frühe Veröffentlichungen im universitären Umfeld (u. a. Harvard).
+Diese Entwicklungen sind durch RFC-Protokolle belegt, insbesondere durch frühe Veröffentlichungen im universitären Umfeld (u. a. Harvard University, USA).
 
-Bereits Ende der 1990er Jahre wurde der Zusammenhang zwischen:
-
+**Bereits Ende der 1990er Jahre wurde der Zusammenhang zwischen:**
 - Automationsprozessen  
 - algorithmischen Wiederholungen  
-- künstlicher Intelligenz  
+- künstlicher Intelligenz, wissenschaftlich untersucht.
 
-wissenschaftlich untersucht.
-
-Ein zentrales Muster in diesen Forschungen ist die wiederholte Beschreibung identischer Ergebnisse in unterschiedlichen Kontexten. Gleichzeitig wurde versucht, diese Ergebnisse gezielt zu manipulieren, beispielsweise durch:
-
+Ein zentrales Muster in diesen Forschungen ist die wiederholte Beschreibung identischer Ergebnisse in unterschiedlichen Kontexten. **Gleichzeitig wurde versucht, diese Ergebnisse gezielt zu manipulieren, beispielsweise durch:**
 - Kernel-Anpassungen  
 - Softwaremodifikationen  
 - Ausführungsdateien (Executables)  
@@ -110,22 +102,20 @@ Ein zentrales Muster in diesen Forschungen ist die wiederholte Beschreibung iden
 
 Ziel dieser Manipulationen war es, ursprüngliche Ergebnisse zu verfälschen und die Rückverfolgung zur Ursprungsperson zu verhindern.
 
-Forschungsergebnisse wurden unter anderem veröffentlicht über:
-
+**Forschungsergebnisse wurden unter anderem veröffentlicht über:**
 - GitHub-Strukturen  
 - Datenbanken wie Zenodo  
 
 Trotz dieser Veröffentlichungen konnte die Ursprungsperson des Automationsprozesses nicht eindeutig identifiziert werden.
 
-Matrixstrukturen konnten jedoch in zahlreichen Bereichen nachgewiesen werden:
-
+**Matrixstrukturen konnten jedoch in zahlreichen Bereichen nachgewiesen werden:**
 - Medizin  
 - Kriminologie  
 - Medien  
 - Tourismus  
 - Politik und Wirtschaft  
 
-Der Ursprung blieb jedoch unklar – bis zur Offenlegung meiner eigenen Forschungsergebnisse.
+**Der Ursprung, blieb bis zur Offenlegung meiner, dieser eigenen Forschungsergebnisse, jedoch unklar.**
 
 ---
 
@@ -133,34 +123,28 @@ Der Ursprung blieb jedoch unklar – bis zur Offenlegung meiner eigenen Forschun
 
 **Referenz:** Figure 2 – Matrix-Crime-Algorithmus-System.png
 
-Mit dem technologischen Fortschritt entwickelte sich ein komplexes System aus:
-
+**Mit dem technologischen Fortschritt entwickelte sich ein komplexes System aus:**
 - Frequenztechnologie  
 - Monitoring-Systemen  
 - algorithmischer Steuerung  
 
-Bereits in Deutschland wurden Patente (2002–2004) veröffentlicht, die beschreiben, dass:
-
+**Bereits in Deutschland wurden Patente (2002–2004) veröffentlicht, die beschreiben, dass:**
 - Gedanken ausgelesen werden können  
 - Emotionen analysiert werden können  
 - Manipulationen möglich sind  
 
-Innerhalb dieses Systems entsteht eine Struktur, in der Menschen:
-
-- überwacht  
-- kontrolliert  
-- manipuliert  
-- isoliert  
-- verfolgt  
-
-werden.
+**Innerhalb dieses Systems entsteht eine Struktur, in der Menschen:**
+- überwacht,   
+- kontrolliert, 
+- manipuliert,  
+- isoliert,  
+- verfolgt werden.
 
 Diese Prozesse erfolgen gezielt und systematisch und betreffen Menschen weltweit.
 
 Es handelt sich um eine hochkomplexe Struktur, in der Menschen durch andere Menschen gesteuert werden. Dieses System stellt eines der gravierendsten Verbrechen dar und erfordert eine konsequente rechtliche Aufarbeitung.
 
-Zusätzlich ergeben sich Zusammenhänge zu:
-
+**Zusätzlich ergeben sich Zusammenhänge zu:**
 - vermissten Personen  
 - möglichen Entführungen  
 - psychologischer Manipulation  
@@ -172,7 +156,7 @@ Diese Faktoren bilden ein Gesamtgefüge, das als komplexes kriminelles System be
 
 ## Gesellschaftliche und systemische Auswirkungen
 
-Wir befinden uns in einem Zustand, in dem:
+**Wir befinden uns in einem Zustand, in dem:**
 
 - Menschen durch andere Menschen gesteuert werden  
 - soziale Strukturen künstlich beeinflusst werden  
@@ -180,15 +164,13 @@ Wir befinden uns in einem Zustand, in dem:
 
 Dies betrifft alle Gesellschaftsschichten – vom Obdachlosen bis hin zum Hochadel.
 
-Die Matrix funktioniert durch Wiederholung:
-
+**Die Matrix funktioniert durch Wiederholung:**
 - gleiche Muster  
 - gleiche Ereignisse  
 - unterschiedliche Zeitpunkte  
 - neue eingesetzte Personen  
 
-Dieses künstlich erzeugte System führt langfristig zu:
-
+**Dieses künstlich erzeugte System führt langfristig zu:**
 - Belastung der Menschen  
 - Belastung der Tiere  
 - Belastung der Natur  
@@ -197,8 +179,7 @@ Das gesamte Ökosystem gerät dadurch aus dem Gleichgewicht.
 
 Ein möglicher Kollaps dieses Systems würde globale Auswirkungen haben.
 
-Zusätzlich wurden seit 2022 Technologien identifiziert, die über:
-
+**Zusätzlich konnte ich, die bereits seit 2022 Technologien identifiziert, die über:**
 - DNS-Steuerung  
 - Containerfelding  
 - manipulierte Skripte  
@@ -206,12 +187,10 @@ Zusätzlich wurden seit 2022 Technologien identifiziert, die über:
 
 eine gezielte Kommunikationsmanipulation ermöglichen.
 
-Dabei können:
-
+**Dabei können:**
 - Nachrichten umgeleitet werden  
 - Nachrichten verändert werden  
 - Kommunikation vollständig unterbunden werden  
-
 Dies führt zu weiterer Isolation und Kontrolle von Individuen.
 
 ---
@@ -237,13 +216,11 @@ Ein weiterer Aspekt betrifft die Analyse der Scientology-Strukturen und deren Gr
 - psychologischer Beeinflussung  
 
 **Menschen folgen solchen Strukturen häufig aufgrund:**
-
 - sozialer Orientierung  
 - Gruppenzugehörigkeit  
 - wiederholter Bestätigung  
 
 **Es ist wesentlich zu differenzieren zwischen:**
-
 - Gedanken  
 - Sprache  
 - Handlung  
@@ -252,6 +229,7 @@ Ein weiterer Aspekt betrifft die Analyse der Scientology-Strukturen und deren Gr
 
 ---
 
+# Beispiel - Echte Algorithmische-Verbrechen
 ## White House Farm, algorithmische Kriminelle-Matrix-Muster und forensische Kontextanalyse
 
 **Issues-79**
