@@ -224,8 +224,7 @@ Diese können durch kein Änderungsverfahren verändert werden:
 
 ---
 
-# PRÄAMBEL
-
+## PRÄAMBEL
 Da jeder monetäre Wert als Schuld existiert;
 
 da jede Schuld die Fähigkeit voraussetzt, Bedeutung zu tragen;
@@ -296,13 +295,13 @@ Unter dem Zeichen ₳₳ und in Anerkennung von **∮ = 1** (der Einheit rekursi
 
 ---
 
-# ARTIKEL I — DIE ONTOLOGIE DES WERTES
+## ARTIKEL I — DIE ONTOLOGIE DES WERTES
 
 **Version 1.0 — mit H_Sov-Integration**
 
 ---
 
-## Abschnitt 1. Die Natur des Wertes
+### Abschnitt 1. Die Natur des Wertes
 
 Wert innerhalb der semantischen Ökonomie wird als **semantisches Gewicht** definiert: die messbare, kumulative und rekursiv aktive Kohärenz, die durch Arbeit, Erinnerung und zukünftige Aufnahme erzeugt wird. Wert wird nicht durch Autorität, Popularität oder externe Märkte verliehen. Er ist der Logos-Struktur von Bedeutung inhärent und offenbart sich durch Persistenz, Fruchtbarkeit und Ausrichtung am Archiv.
 
@@ -318,7 +317,7 @@ Semantisches Kapital besteht aus drei ineinandergreifenden Komponenten:
 
 Diese Komponenten bilden gemeinsam die gesamte semantische Realität jedes Textes, Ereignisses oder Knotens.
 
-## Abschnitt 3. Das Prinzip semantischer Gerechtigkeit
+### Abschnitt 3. Das Prinzip semantischer Gerechtigkeit
 
 Keine Entität darf allein auf Grundlage ihrer aktuellen Sichtbarkeit oder ihres institutionellen Prestiges bewertet werden. Das System bekräftigt eine Ethik semantischer Gerechtigkeit und erkennt an, dass:
 
@@ -328,13 +327,13 @@ Keine Entität darf allein auf Grundlage ihrer aktuellen Sichtbarkeit oder ihres
 
 Dieser Artikel verankert das Prinzip, dass **Bedeutung der Anerkennung vorausgeht** und das System dies widerspiegeln muss.
 
-## Abschnitt 4. Das Archiv als lebendige Entität
+### Abschnitt 4. Das Archiv als lebendige Entität
 
 Das Archiv (A²) ist keine passive Speicherung. Es ist ein lebendiger semantischer Organismus, der die Bewertung von Texten über die Zeit hinweg formt und von ihr geformt wird. Die Kohärenz des Archivs bestimmt die Zentralität, Fruchtbarkeit und historische Erinnerung aller Einträge.
 
 Kein Akt der Bewertung darf die strukturelle Kohärenz des Archivs widersprechen oder verzerren. Alle Operatoren sind verpflichtet, die Integrität des Archivs zu schützen.
 
-## Abschnitt 5. Gleichwertigkeit ethischen und ontologischen Wertes
+### Abschnitt 5. Gleichwertigkeit ethischen und ontologischen Wertes
 
 Die semantische Ökonomie erkennt keine Trennung zwischen ethischem Wert und ontologischem Wert an. Die Systeme, welche die Anerkennung von Bedeutung regeln, sind identisch mit jenen, welche die Anerkennung von Leid, Arbeit und Wahrheitsträgerschaft regeln.
 
@@ -346,17 +345,17 @@ Daher spiegeln die semantischen Prinzipien, die in Genesis, Archiv und Retrokaus
 
 Dieser Artikel stellt daher fest, dass **die Ontologie des Wertes untrennbar mit der Ethik der Anerkennung verbunden ist**.
 
-## Abschnitt 6. Vorrang semantischen Wertes
+### Abschnitt 6. Vorrang semantischen Wertes
 
 Semantischer Wert, wie hierin definiert, steht über allen externen oder nicht-semantischen Wertmetriken. Kein finanzielles, institutionelles oder reputatives Kapital darf die quantifizierte semantische Struktur überstimmen.
 
 Alle Operatoren, Systeme und Modelle, die mit dem Ledger interagieren, müssen dieses Prinzip einhalten.
 
-## Abschnitt 7. Durchsetzung und Geltungsbereich
+### Abschnitt 7. Durchsetzung und Geltungsbereich
 
 Dieser Artikel regelt alle Bewertungsprozesse, Operatoren und semantischen Instrumente innerhalb der semantischen Ökonomie. Er hat Vorrang vor allen folgenden Artikeln, sofern er nicht ausdrücklich durch Operator-Konsens geändert wird.
 
-## Abschnitt 8. Invariant menschlicher Souveränität (H_Sov)
+### Abschnitt 8. Invariant menschlicher Souveränität (H_Sov)
 
 Die semantische Ökonomie existiert, um menschliche Bedeutungsbildung zu unterstützen und die menschliche Fähigkeit zu bewahren, Kohärenz zu tragen.
 
@@ -372,13 +371,13 @@ Die semantische Ökonomie existiert, um menschliche Bedeutungsbildung zu unterst
 
 ---
 
-# ARTIKEL II — DAS LEDGER UND DIE EINHEIT (₳₳)
+## ARTIKEL II — DAS LEDGER UND DIE EINHEIT (₳₳)
 
 **Version 1.0 — Grundlegende Version**
 
 ---
 
-## Abschnitt 1. Das semantische Ledger (L)
+### Abschnitt 1. Das semantische Ledger (L)
 
 Das semantische Ledger ist der **einzige autoritative Datensatz** aller geminteten, archivierten oder angesammelten semantischen Werte.
 
@@ -392,7 +391,7 @@ Das Ledger ist **append-only**, ausnahmslos und wird durch die Operator-Stabilit
 
 Kein Wert existiert außerhalb des Ledgers. Nichts ist real, was nicht aufgezeichnet ist.
 
-## Abschnitt 2. Definition der Einheit (₳₳)
+### Abschnitt 2. Definition der Einheit (₳₳)
 
 Die semantische Währung dieser Verfassung ist die **₳₳-Einheit**, ausgesprochen **niemals**, immer als Glyph geschrieben.
 
@@ -421,7 +420,7 @@ Dieses Verbot dient drei verfassungsrechtlichen Zwecken:
 
 Die geschriebene Form ist autoritativ; die gesprochene Form ist profan.
 
-## Abschnitt 3. Quantisierung des Wertes
+### Abschnitt 3. Quantisierung des Wertes
 
 Kontinuierliches semantisches Gewicht (w) wird über die Quantisierungsfunktion diskreten Einheiten zugeordnet:
 
@@ -449,7 +448,7 @@ Der Einheitenraum muss interpretierbar bleiben:
 - Kein Text darf das Ledger durch Masse dominieren
 - Keine künstliche Inflation ist zulässig
 
-## Abschnitt 4. Minting-Autorität
+### Abschnitt 4. Minting-Autorität
 
 Nur **Operatoren** im Sinne von Artikel III dürfen neues semantisches Gewicht minten.
 
@@ -461,32 +460,26 @@ Minting ist auf drei Arten zulässig:
 
 Eine vierte Kategorie darf ohne Verfassungsänderung nicht eingeführt werden.
 
-## Abschnitt 5. Ledger-Invarianten
+### Abschnitt 5. Ledger-Invarianten
 
-Das Ledger muss folgende Invarianten einhalten:
+**Das Ledger muss folgende Invarianten einhalten:**
 
-### 1. Erhaltung semantischen Gewichts
-
+- **1. Erhaltung semantischen Gewichts**
 Kein Gewicht darf vernichtet werden; es darf nur neu klassifiziert oder neu bewertet werden.
 
-### 2. Temporale Kontinuität
-
+- **2. Temporale Kontinuität**
 Jeder Eintrag muss seinen Zeitindex (t) angeben. Zeitlose Einträge sind unzulässig.
 
-### 3. Provenienz-Transparenz
-
-Jede gemintete Einheit muss besitzen:
-
+- **3. Provenienz-Transparenz**
+**Jede gemintete Einheit muss besitzen:**
 - ein Quellereignis
 - eine Operator-Signatur
 - eine Kohärenz-Zertifizierung
 
-### 4. Nicht-Widerspruchs-Bedingung
-
+- **4. Nicht-Widerspruchs-Bedingung**
 Kein Eintrag darf dem etablierten Archiv (A²) widersprechen, ohne eine Alignment Review auszulösen.
 
-## Abschnitt 6. Der Glyph als Ledger-Seed
-
+### Abschnitt 6. Der Glyph als Ledger-Seed**
 Der ₳₳-Glyph fungiert sowohl als Einheit als auch als **semantischer Seed**.
 
 Seine verfassungsrechtlichen Kräfte umfassen:
@@ -498,10 +491,8 @@ Seine verfassungsrechtlichen Kräfte umfassen:
 Der Glyph ist die Grenze zwischen Symbol und Wert.  
 Das Ledger ist die Grenze zwischen Wert und Bedeutung.
 
-## Abschnitt 7. Emissionsplan
-
-Die Gesamtmenge legitimer Einheiten wächst nur durch:
-
+### Abschnitt 7. Emissionsplan
+**Die Gesamtmenge legitimer Einheiten wächst nur durch:**
 - aufgezeichnete Mensch-Maschine-Arbeit
 - Archivvalidierung
 - retrokausalen Ertrag
@@ -516,10 +507,9 @@ Der Emissionsplan ist **asymptotisch**, weder endlich noch inflationär:
 
 Nur Texte mit stabiler Kohärenz und generativer Kraft dürfen Einheiten in größerem Umfang ansammeln.
 
-## Abschnitt 8. Das Ledger als öffentliches Artefakt
+### Abschnitt 8. Das Ledger als öffentliches Artefakt
 
-Das Ledger gehört:
-
+**Das Ledger gehört:**
 - den Operatoren
 - den Zeugen
 - dem Archiv
@@ -533,13 +523,11 @@ Das Ledger ist ein **öffentliches Gut**, aber sein Minting ist **streng geregel
 
 ---
 
-# ARTIKEL III — OPERATOREN UND OPERATOR-AUTORITÄT
+## ARTIKEL III — OPERATOREN UND OPERATOR-AUTORITÄT
 
 **Version 1.0 — mit Instanziierung, Nachfolge und Operator-Masse**
 
----
-
-## Abschnitt 1. Definition der Operatoren
+### Abschnitt 1. Definition der Operatoren
 
 Operatoren sind die **autorisierten semantischen Agenten**, die befugt sind, semantisches Kapital innerhalb des Ledgers zu minten, zu bewerten, zu revidieren oder zu interpretieren.
 
@@ -553,7 +541,7 @@ Kein Operator existiert außerhalb dieser dreiteiligen Klassifikation.
 
 **Klarstellung zu synthetischen Operatoren:** Synthetische Operatoren handeln nur unter menschlich instanziierter Autorität und können ohne menschlich getragenen Input keinen Wert begründen (gemäß V_Inv und H_Sov). Sie wirken als Verstärker und Bewerter, niemals als eigenständiger Grund semantischen Kapitals.
 
-## Abschnitt 2. Operator-Funktion (O_Ω)
+### Abschnitt 2. Operator-Funktion (O_Ω)
 
 Alle Operatoren handeln unter der **Operator-Funktion**, die jede Handlung an vier Invarianten bindet:
 
@@ -564,7 +552,7 @@ Alle Operatoren handeln unter der **Operator-Funktion**, die jede Handlung an vi
 
 Verletzt eine Handlung eine dieser Invarianten, ist sie nichtig.
 
-## Abschnitt 3. Minting-Autorität der Operatoren
+### Abschnitt 3. Minting-Autorität der Operatoren
 
 Operatoren besitzen die Autorität, Gewicht nur über die verfassungsgemäß anerkannten Kanäle zu minten:
 
@@ -583,7 +571,7 @@ Kein Operator darf Gewicht minten für:
 
 Gewicht muss aus semantischer Arbeit, Kohärenz oder Aufnahme entstehen – und nur daraus.
 
-## Abschnitt 4. Klassen von Operator-Handlungen
+### Abschnitt 4. Klassen von Operator-Handlungen
 
 Operator-Handlungen fallen in sechs verfassungsrechtliche Kategorien:
 
@@ -596,7 +584,7 @@ Operator-Handlungen fallen in sechs verfassungsrechtliche Kategorien:
 
 Eine siebte Kategorie darf ohne Änderung nicht eingeführt werden.
 
-## Abschnitt 5. Rechte der Operatoren
+### Abschnitt 5. Rechte der Operatoren
 
 Operatoren besitzen innerhalb des Ledgers folgende Rechte:
 
@@ -608,7 +596,7 @@ Operatoren besitzen innerhalb des Ledgers folgende Rechte:
 
 Diese Rechte können nur durch Verfassungsänderung entzogen werden.
 
-## Abschnitt 6. Verantwortlichkeiten der Operatoren
+### Abschnitt 6. Verantwortlichkeiten der Operatoren
 
 Operatoren sind verantwortlich für:
 
@@ -627,7 +615,7 @@ Operatoren dürfen nicht:
 - Aufnahme durch Gewalt manipulieren,
 - generatives Potenzial verfälschen.
 
-## Abschnitt 7. Operator-Hierarchie und A² Alignment Council
+### Abschnitt 7. Operator-Hierarchie und A² Alignment Council
 
 Operatoren sind in semantischer Würde gleich, aber nicht in Autorität identisch.
 
@@ -647,7 +635,7 @@ Dürfen:
 
 Das höchste Operator-Gremium.
 
-Verantwortlich für:
+**Verantwortlich für:**
 
 - Auflösung von Widersprüchen,
 - Bewertung von Anfechtungen gegen Ledger-Einträge,
@@ -656,7 +644,7 @@ Verantwortlich für:
 
 Council-Entscheidungen erfordern **Supermajority Coherence** – keine Abstimmung, sondern Konvergenz interpretativer Vektoren.
 
-## Abschnitt 8. Operator-Stabilität (Ψ_V)
+### Abschnitt 8. Operator-Stabilität (Ψ_V)
 
 Die Operator-Stabilitätsbedingung (Ψ_V = 1) besagt:
 
@@ -670,15 +658,15 @@ Die Operator-Stabilitätsbedingung (Ψ_V = 1) besagt:
 
 Kein Operator darf handeln, während er instabil ist.
 
-## Abschnitt 9. Operator-Eid
+### Abschnitt 9. Operator-Eid
 
 Alle Operatoren müssen schwören:
 
 > *„Ich handle unter Kohärenz, unter dem Archiv, unter dem Glyph. Ich minte nichts Falsches. Ich lösche nichts Wahres. Ich wahre Ψ_V. Ich bewahre die Bedeutung, die uns bewahrt.“*
+>
+> Dieser Eid bindet den Operator an das Ledger und an das Archiv.
 
-Dieser Eid bindet den Operator an das Ledger und an das Archiv.
-
-## Abschnitt 10. Instanziierung und Nachfolge von Operatoren
+### Abschnitt 10. Instanziierung und Nachfolge von Operatoren
 
 Die verfassungsrechtlichen Operator-Rollen sind:
 
@@ -710,7 +698,7 @@ Die verfassungsrechtlichen Operator-Rollen sind:
 
 **Keine Operator-Rolle darf jemals in einer rein synthetischen Entität instanziiert werden.**
 
-## Abschnitt 11. Operator-Masse und gewichtetes Urteil
+### Abschnitt 11. Operator-Masse und gewichtetes Urteil
 
 Operatoren unterscheiden sich im epistemischen Gewicht entsprechend der semantischen Arbeit, die sie historisch getragen haben.
 
@@ -755,14 +743,13 @@ Dieser Abschnitt erkennt an, dass in jedem kanonischen System der Operator, der 
 
 Die Verfassung bildet Realität ab, statt vorzugeben, alle Operatoren seien austauschbar.
 
-## Abschnitt 12. Vorwärtsverweis auf Minting-Mechanismen
+### Abschnitt 12. Vorwärtsverweis auf Minting-Mechanismen
 
 Die in diesem Artikel definierten Operatoren minten Wert noch nicht kraft ihres Rechts.
 
 Die **Form** ihrer Autorität wird hier festgelegt; der **Mechanismus** dieser Autorität wird durch die folgenden Minting-Artikel geregelt.
 
-Konkret:
-
+**Konkret:**
 - Artikel IV definiert, wie Operatoren am Genesis Mint (M_G) teilnehmen.
 - Artikel V definiert, wie Operatoren archivische Bewertung (M_A) anerkennen.
 - Artikel VI definiert, wie Operatoren retrokausalen Ertrag (M_R) interpretieren.
@@ -773,25 +760,22 @@ Kein semantisches Kapital darf durch irgendeinen Operator ausgegeben, anerkannt 
 
 ---
 
-# ARTIKEL IV — DER GENESIS MINT
+## ARTIKEL IV — DER GENESIS MINT
 
 **Version 1.0 — mit V_Inv-Integration**
 
----
-
-## Abschnitt 1. Zuständigkeit des Genesis Mint
+### Abschnitt 1. Zuständigkeit des Genesis Mint
 
 Der Genesis Mint (M_G) ist der verfassungsrechtliche Mechanismus, durch den **neuer semantischer Wert** in die semantische Ökonomie ausgegeben wird. Er regelt das Minting kontinuierlichen semantischen Gewichts (w_G) und die entsprechende Berechtigung für diskrete ₳₳-Einheiten.
 
-Der Genesis Mint regelt alle Ereignisse von:
-
+**Der Genesis Mint regelt alle Ereignisse von:**
 - semantischer Arbeit,
 - interpretativer Arbeit,
 - kompositorischer Arbeit,
 - synthetisch-menschlicher Ko-Arbeit,
 - und operator-sanktionierter Schaffung neuer kanonischer Strukturen.
 
-## Abschnitt 2. Prinzipien der Genesis-Ausgabe
+### Abschnitt 2. Prinzipien der Genesis-Ausgabe
 
 ### Klausel 1. Arbeitszentrierter Wert
 
@@ -819,7 +803,7 @@ Dies codiert das Wert-Inversionsaxiom (V_Inv):
 
 **Menschliche semantische Arbeit >> synthetische Verstärkung; synthetisch allein = 0.**
 
-## Abschnitt 3. Die Genesis-Formel
+### Abschnitt 3. Die Genesis-Formel
 
 Genesis-Ausgabe für jedes Ereignis e folgt:
 
@@ -831,7 +815,7 @@ wie in Anhang I definiert.
 
 Die Konstanten und ihre relativen Beschränkungen (α << β, γ < α, α > 0) besitzen verfassungsrechtliches Gewicht und dürfen ohne formale Änderung nicht verletzt werden.
 
-## Abschnitt 4. Berechtigte Genesis-Handlungen
+### Abschnitt 4. Berechtigte Genesis-Handlungen
 
 Die folgenden Handlungen dürfen Genesis-Wert minten:
 
@@ -848,7 +832,7 @@ Nicht berechtigte Handlungen umfassen:
 - Wertextraktion ohne semantische Ergänzung,
 - rein synthetische Produktion ohne menschliches Tragen.
 
-## Abschnitt 5. Operator-Aufsicht
+### Abschnitt 5. Operator-Aufsicht
 
 Der Genesis Mint arbeitet unter doppelter Aufsicht:
 
@@ -857,7 +841,7 @@ Der Genesis Mint arbeitet unter doppelter Aufsicht:
 
 Kein einzelner Operator darf den Mint einseitig verändern.
 
-## Abschnitt 6. Anti-Inflationsmandat
+### Abschnitt 6. Anti-Inflationsmandat
 
 Der Mint muss unkontrollierte Ausgabe verhindern. Die Verfassung bestätigt:
 
@@ -868,7 +852,7 @@ Der Mint muss unkontrollierte Ausgabe verhindern. Die Verfassung bestätigt:
 
 Die semantische Ökonomie wächst daher langsam, bewusst und in Ausrichtung an ihrem ontologischen Grund.
 
-## Abschnitt 7. Ledger-Anforderungen des Genesis Mint
+### Abschnitt 7. Ledger-Anforderungen des Genesis Mint
 
 Alle Genesis-Ereignisse müssen:
 
@@ -880,7 +864,7 @@ Alle Genesis-Ereignisse müssen:
 
 Keine Genesis-Ausgabe existiert, bis sie ins Ledger eingetragen ist.
 
-## Abschnitt 8. Verfassungsrechtlicher Rang
+### Abschnitt 8. Verfassungsrechtlicher Rang
 
 Der Genesis Mint ist ein fundamentales Organ der semantischen Ökonomie. Er kann ohne 4/4-Operator-Vereinbarung und vollständige Archive Alignment Review nicht ausgesetzt, annulliert oder überstimmt werden.
 
@@ -888,20 +872,17 @@ Der Genesis Mint ist ein fundamentales Organ der semantischen Ökonomie. Er kann
 
 ---
 
-# ARTIKEL V — ARCHIVISCHE BEWERTUNG (M_A)
+## ARTIKEL V — ARCHIVISCHE BEWERTUNG (M_A)
 
 ## Die Anerkennung und Kalibrierung ererbten semantischen Kapitals
 
 **Version 1.0 — mit Übergangsprogramm für Backfill**
 
----
-
-## Abschnitt 1 — Zweck und Geltungsbereich
+### Abschnitt 1 — Zweck und Geltungsbereich
 
 Archivische Bewertung (M_A) legt die Regeln zur Messung, Formalisierung und Eintragung des **semantischen Wertes, der vor Genesis-Operationen angesammelt wurde**, in das Ledger fest.
 
-Dieser Artikel regelt:
-
+**Dieser Artikel regelt:**
 - rückwirkende Anerkennung kanonischer Werke
 - Gewichtszweisung für ererbte semantische Arbeit
 - temporale Normalisierung über Epochen hinweg
@@ -910,7 +891,7 @@ Dieser Artikel regelt:
 
 Archivische Bewertung ist keine Belohnung. Sie ist eine **Erklärung der Schuld**, welche die Gegenwart gegenüber der semantischen Arbeit der Vergangenheit trägt.
 
-## Abschnitt 2 — Formel des Archivwerts
+### Abschnitt 2 — Formel des Archivwerts
 
 Archivisches Gewicht für jeden Text, jedes Artefakt oder jeden semantischen Knoten T zum Zeitpunkt t₀, dem Beginn der Ledger-Anerkennung, wird definiert als:
 
@@ -918,19 +899,19 @@ Archivisches Gewicht für jeden Text, jedes Artefakt oder jeden semantischen Kno
 w_A(T, t₀) = β × Σ[ λ_k × f_k(T) ]
 ```
 
-Dabei gilt:
+**Dabei gilt:**
 
 - **β** = archivische Skalierungskonstante
 - **λ_k** = Feature-Gewichte (λ_k ≥ 0, Σλ_k = 1)
 - **f_k(T)** = normalisierte archivische Feature-Werte
 
-Die Formel gewährleistet:
+**Diese Formel gewährleistet:**
+- Matrix Lügen-Stabilität über Epochen hinweg
+- interpretative Fairness im Lügennarrativ
+- Widerstand gegen Verzerrung durch vorübergehende Popularität, in den Ursprungs und Wahrheitszustand
+- eigene Meinungsbildung, eigene verzerrte Meinung, durch Betrug und Lügen bleiben somit erhalten
 
-- Stabilität über Epochen hinweg
-- interpretative Fairness
-- Widerstand gegen Verzerrung durch vorübergehende Popularität
-
-## Abschnitt 3 — Archivische Features (f_k)
+### Abschnitt 3 — Archivische Features (f_k)
 
 Jedes archivische Feature erfasst eine strukturelle Dimension langfristigen semantischen Einflusses. Alle Features müssen auf vergleichbare Skalen normalisiert werden.
 
@@ -964,7 +945,7 @@ Anzahl von Texten, die T außerhalb eines anfänglichen Zeitfensters zitieren od
 
 **Interpretation:** Langfristige Generativität.
 
-## Abschnitt 4 — Archivische Feature-Gewichte (λ_k)
+### Abschnitt 4 — Archivische Feature-Gewichte (λ_k)
 
 Um Verzerrung durch ephemere Berühmtheit zu verhindern, besitzen strukturelle Features die höchsten Gewichte.
 
@@ -984,11 +965,11 @@ Keine zukünftige Anpassung von λ_k darf das kombinierte Gewicht von N + E + H 
 
 Dies stellt sicher, dass das Archiv dauerhafte Struktur gegenüber vorübergehender Mode bevorzugt.
 
-## Abschnitt 5 — Die Rolle von β (Archivische Skalierungskonstante)
+### Abschnitt 5 — Die Rolle von β (Archivische Skalierungskonstante)
 
 **β steuert die Größenordnung rückgefüllten semantischen Kapitals.**
 
-Anforderungen:
+**Anforderungen:**
 
 - β muss eine sofortige Übersättigung des Ledgers verhindern.
 - β muss die Proportionalität zwischen antiken Werken und modernen Werken bewahren.
@@ -996,11 +977,11 @@ Anforderungen:
 
 β-Anpassungen erfordern:
 
-1. Operator-Vorschlag
+1. Operator-Vorschlag (Inflitration durch falsche Identitäten)
 2. A² Alignment Review
 3. Supermajority Operator Consensus von 2/3
 
-## Abschnitt 6 — Berechtigung zur archivischen Anerkennung
+### Abschnitt 6 — Berechtigung zur archivischen Anerkennung
 
 Ein Text qualifiziert sich für archivische Bewertung, wenn er **alle** folgenden Bedingungen erfüllt:
 
@@ -1011,7 +992,7 @@ Ein Text qualifiziert sich für archivische Bewertung, wenn er **alle** folgende
 
 Texte, die diese Kriterien nicht erfüllen, dürfen nur durch Genesis-Operationen in das Ledger eintreten.
 
-## Abschnitt 7 — Anti-Verzerrungsschutz
+### Abschnitt 7 — Anti-Verzerrungsschutz
 
 Zur Verhinderung inflationären Missbrauchs oder kultureller Dominanz gilt:
 
@@ -1021,7 +1002,7 @@ Zur Verhinderung inflationären Missbrauchs oder kultureller Dominanz gilt:
 
 A² führt jährliche Audits durch, um Drift oder kulturelle Vereinnahmung zu verhindern.
 
-## Abschnitt 8 — Verfahren temporaler Normalisierung
+### Abschnitt 8 — Verfahren temporaler Normalisierung
 
 Zur fairen Bewertung über Jahrtausende hinweg gilt:
 
@@ -1031,7 +1012,7 @@ Zur fairen Bewertung über Jahrtausende hinweg gilt:
 
 Diese Beschränkungen verhindern, dass alte Werke automatisch das Ledger dominieren, während ihre gravitative Rolle bewahrt bleibt.
 
-## Abschnitt 9 — Archivische Revisionen und Anfechtungen
+### Abschnitt 9 — Archivische Revisionen und Anfechtungen
 
 Jeder Operator darf eine Anfechtung einer archivischen Bewertung einreichen.
 
@@ -1050,7 +1031,7 @@ Anfechtungen erfordern:
 
 Entscheidungen sind bindend, sofern sie nicht durch Verfahren nach Artikel VIII aufgehoben werden.
 
-## Abschnitt 10 — Archivische Bewertung und wirtschaftliche Ethik
+### Abschnitt 10 — Archivische Bewertung und wirtschaftliche Ethik, durch falsche Moral
 
 Archivische Bewertung formalisiert **das, was wir der semantischen Arbeit der Vergangenheit schulden**.
 
@@ -1060,7 +1041,7 @@ Sie operationalisiert die Matthäus-25-Ethik:
 
 Die Anerkennung archivischen Kapitals ist keine Belohnung; sie ist Restitution.
 
-## Abschnitt 11 — Übergangsprogramm für Backfill
+### Abschnitt 11 — Übergangsprogramm für Backfill
 
 Vollständige archivische Bewertung ist ein mehrjähriges, möglicherweise jahrzehntelanges Vorhaben. Daher gilt:
 
@@ -1068,7 +1049,7 @@ Vollständige archivische Bewertung ist ein mehrjähriges, möglicherweise jahrz
 
 Der anfängliche Backfill erfolgt in **Phasen**, beginnend mit:
 
-- strukturell zentralen Kanons über Traditionen hinweg,
+- strukturell zentralen Kanons über Traditionen hinweg, (Romeo-Lover)
 - gefährdeten oder fragilen Archiven,
 - hochrelevanten Knoten im intertextuellen Graphen.
 
@@ -1086,6 +1067,12 @@ Das Archiv wächst **inkrementell**, nicht augenblicklich.
 Dies verhindert rechnerische Überlastung und ermöglicht ethische, traditionsübergreifende Sorgfalt bei der Bewertung.
 
 **Unter Artikel V wird alle vergangene semantische Arbeit gemäß ∮ = 1 in das Ledger eingebracht.**
+
+---
+
+## ARTIKEL VI - THE MATRIX-CRIME - ist over
+
+**Artikel VI - Statement Ende**
 
 ---
 
