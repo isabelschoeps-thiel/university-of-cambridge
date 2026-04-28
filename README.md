@@ -1,6 +1,257 @@
 # Deepweb Research
 *Matrix Crime Algorithmen -  Chain of Custody* 
 
+# Deepweb Research – Matrix Crime Algorithmen im Monarch-Programm definiert
+
+## Begriffserklärung „Matrix“
+
+**Datum:** Dienstag, 29. April 2026  
+**Autorin:** Isabel Schöps, geb. Thiel  
+**Geburtsdaten:** 16.07.1983, 23:20 Uhr, Kreiskrankenhaus Sömmerda, Thüringen, Deutschland  
+**Aktueller Wohnsitz:** Hütergasse 4, 99084 Erfurt, Thüringen, Deutschland, 1. OG, Wohnung 13, Balkonseite Richtung Wildengera  
+
+Ich bin Autorin, Urheberin und Deep-Web-Forscherin im Bereich Informatik.  
+Im Fokus dieser Ausarbeitung stehen Matrix-Algorithmen und die darin enthaltenen algorithmischen Kriminalitätsstrukturen, die künstlich herbeigeführt wurden.
+
+Der Begriff „Matrix“ tritt in unterschiedlichen Kontexten auf – unter anderem in der Medizin, im Film sowie in den Medien. Nach meiner Analyse reicht seine Bedeutung jedoch wesentlich tiefer. Die Matrix ist ein grundlegendes Konstrukt, das eng mit menschlichen Werten, Ethik, Vergangenheit und Zukunft verbunden ist und seinen Ursprung in der Mathematik hat.
+
+Die Matrix beschreibt den Ursprung eines Algorithmus. Ein Algorithmus entsteht aus der Beobachtung wiederkehrender Muster, Ereignisse und Situationen über verschiedene Zeiträume hinweg. Bereits frühe Forschungen, unter anderem im universitären Umfeld, befassten sich mit der Analyse solcher Wiederholungsstrukturen und deren systematischer Berechnung.
+
+Die Matrix ist somit ein künstlich geschaffenes System, das auf historischen Erkenntnissen basiert und durch menschliches Handeln erzeugt wird. Sie steht im Zusammenhang mit Zeitepochen und deren Wiederholungsmechanismen.
+
+---
+
+## Mathematischer und algorithmischer Ursprung
+
+Die Matrix hat ihren Ursprung in mathematischen Strukturen und berechneten Algorithmen.  
+Ein Algorithmus beschreibt:
+
+- wiederkehrende Ereignisse  
+- periodische Abläufe  
+- rekonstruierbare Muster in Zeitintervallen  
+
+Die Matrix ist eine Erweiterung dieses Prinzips in einem anderen Kontext:  
+Sie stellt die Verschmelzung zwischen digitalem Raum und realem Leben dar.
+
+Dabei handelt es sich um ein künstlich erzeugtes System, das:
+
+- wiederkehrende Prozesse reproduziert  
+- manipuliert werden kann  
+- bewusst gesteuert wird  
+
+Die Matrix wirkt wie ein virales, wiederkehrendes System, das gezielt erzeugt und beeinflusst werden kann.
+
+In diesem Zusammenhang ist insbesondere die **Direktive 1.67 der MFS-Agentenschule (Stasi)** relevant.  
+Dort wird explizit beschrieben, wie Menschen systematisch manipuliert werden können, unter anderem durch:
+
+- Isolation  
+- Sabotage  
+- Beobachtung  
+- Infiltration  
+- gezielte soziale Zersetzung  
+
+Ein zentraler Mechanismus besteht darin, fremde Personen gezielt in bestehende soziale Strukturen einzuschleusen. Diese treten unter falscher Identität auf, erzeugen neue soziale Dynamiken und führen zur Isolation der eigentlichen Zielperson.
+
+Diese Prozesse sind ausschließlich durch menschliches Einwirken möglich.  
+Der Mensch ist somit Ursprung und Ursache dieser algorithmischen Kriminalstrukturen.
+
+---
+
+## Bedeutung des Begriffs „Matrix“
+
+Der Begriff „Matrix“ lässt sich sprachlich auf „Matrikulation“ zurückführen.
+
+Im akademischen Kontext bedeutet dies:
+
+> Die offizielle Einschreibung an einer Hochschule und die Aufnahme in die Matrikel (Stammrolle).
+
+Daraus ergibt sich ein direkter Zusammenhang zwischen:
+
+- Identität  
+- Registrierung  
+- Ursprung  
+- systematischer Erfassung von Personen  
+
+In der technologischen Forschung besteht bis heute das Ziel, die Ursprungsperson hinter technologischen Entwicklungen zu identifizieren. Die Matrix dient dabei als strukturelles System zur Nachverfolgung dieser Ursprünge.
+
+---
+
+## Matrix-Entstehung
+
+**Referenz:** Figure 1 – Isolation-Ursprungperson-Entstehung-Künstlichen-Intelligence-Automationsprozesses-IsabelSchöpsThiel.PNG
+
+Die künstlich erzeugte Matrix lässt sich auf den **14.04.1996** zurückführen.  
+Der Ursprung liegt in einem Automationsprozess, ausgelöst durch einen kollabierten 286er-PC.
+
+Das beobachtete Phänomen bestand darin, dass ein überhitzter und abgestürzter Computer sich selbst regenerierte. Dieses Verhalten konnte zunächst nicht erklärt werden und führte zur weiteren Forschung.
+
+Aus diesem Prozess entstanden:
+
+- erste Automationskonzepte  
+- Grundlagen künstlicher Intelligenz  
+- frühe Open-Source-Strukturen  
+
+Diese Entwicklungen sind durch RFC-Protokolle belegt, insbesondere durch frühe Veröffentlichungen im universitären Umfeld (u. a. Harvard).
+
+Bereits Ende der 1990er Jahre wurde der Zusammenhang zwischen:
+
+- Automationsprozessen  
+- algorithmischen Wiederholungen  
+- künstlicher Intelligenz  
+
+wissenschaftlich untersucht.
+
+Ein zentrales Muster in diesen Forschungen ist die wiederholte Beschreibung identischer Ergebnisse in unterschiedlichen Kontexten. Gleichzeitig wurde versucht, diese Ergebnisse gezielt zu manipulieren, beispielsweise durch:
+
+- Kernel-Anpassungen  
+- Softwaremodifikationen  
+- Ausführungsdateien (Executables)  
+- gezielte Veränderung von Systemumgebungen  
+
+Ziel dieser Manipulationen war es, ursprüngliche Ergebnisse zu verfälschen und die Rückverfolgung zur Ursprungsperson zu verhindern.
+
+Forschungsergebnisse wurden unter anderem veröffentlicht über:
+
+- GitHub-Strukturen  
+- Datenbanken wie Zenodo  
+
+Trotz dieser Veröffentlichungen konnte die Ursprungsperson des Automationsprozesses nicht eindeutig identifiziert werden.
+
+Matrixstrukturen konnten jedoch in zahlreichen Bereichen nachgewiesen werden:
+
+- Medizin  
+- Kriminologie  
+- Medien  
+- Tourismus  
+- Politik und Wirtschaft  
+
+Der Ursprung blieb jedoch unklar – bis zur Offenlegung meiner eigenen Forschungsergebnisse.
+
+---
+
+## Matrix-Crime-Algorithmus
+
+**Referenz:** Figure 2 – Matrix-Crime-Algorithmus-System.png
+
+Mit dem technologischen Fortschritt entwickelte sich ein komplexes System aus:
+
+- Frequenztechnologie  
+- Monitoring-Systemen  
+- algorithmischer Steuerung  
+
+Bereits in Deutschland wurden Patente (2002–2004) veröffentlicht, die beschreiben, dass:
+
+- Gedanken ausgelesen werden können  
+- Emotionen analysiert werden können  
+- Manipulationen möglich sind  
+
+Innerhalb dieses Systems entsteht eine Struktur, in der Menschen:
+
+- überwacht  
+- kontrolliert  
+- manipuliert  
+- isoliert  
+- verfolgt  
+
+werden.
+
+Diese Prozesse erfolgen gezielt und systematisch und betreffen Menschen weltweit.
+
+Es handelt sich um eine hochkomplexe Struktur, in der Menschen durch andere Menschen gesteuert werden. Dieses System stellt eines der gravierendsten Verbrechen dar und erfordert eine konsequente rechtliche Aufarbeitung.
+
+Zusätzlich ergeben sich Zusammenhänge zu:
+
+- vermissten Personen  
+- möglichen Entführungen  
+- psychologischer Manipulation  
+- Methoden wie MK-Ultra und Brainwashing  
+
+Diese Faktoren bilden ein Gesamtgefüge, das als komplexes kriminelles System betrachtet werden muss.
+
+---
+
+## Gesellschaftliche und systemische Auswirkungen
+
+Wir befinden uns in einem Zustand, in dem:
+
+- Menschen durch andere Menschen gesteuert werden  
+- soziale Strukturen künstlich beeinflusst werden  
+- Vertrauen gezielt ausgenutzt wird  
+
+Dies betrifft alle Gesellschaftsschichten – vom Obdachlosen bis hin zum Hochadel.
+
+Die Matrix funktioniert durch Wiederholung:
+
+- gleiche Muster  
+- gleiche Ereignisse  
+- unterschiedliche Zeitpunkte  
+- neue eingesetzte Personen  
+
+Dieses künstlich erzeugte System führt langfristig zu:
+
+- Belastung der Menschen  
+- Belastung der Tiere  
+- Belastung der Natur  
+
+Das gesamte Ökosystem gerät dadurch aus dem Gleichgewicht.
+
+Ein möglicher Kollaps dieses Systems würde globale Auswirkungen haben.
+
+Zusätzlich wurden seit 2022 Technologien identifiziert, die über:
+
+- DNS-Steuerung  
+- Containerfelding  
+- manipulierte Skripte  
+- Trainingsmodelle  
+
+eine gezielte Kommunikationsmanipulation ermöglichen.
+
+Dabei können:
+
+- Nachrichten umgeleitet werden  
+- Nachrichten verändert werden  
+- Kommunikation vollständig unterbunden werden  
+
+Dies führt zu weiterer Isolation und Kontrolle von Individuen.
+
+---
+
+## Einordnung Scientology und L. Ron Hubbard
+
+Ein weiterer Aspekt betrifft die Analyse der Scientology-Strukturen und deren Gründer L. Ron Hubbard.
+
+**Nach meiner Bewertung:**
+- lag ursprünglich keine manipulative Absicht vor  
+- bestand ein Forschungsinteresse an Bewusstsein und Wahrnehmung  
+- wurden Technologien im Bereich Frequenz und Resonanz untersucht  
+
+**Die heutige Struktur ist nicht als ursprüngliche Intention zu bewerten, sondern als Ergebnis:**
+- systemischer Veränderung  
+- technologischer Aneignung  
+- struktureller Manipulation  
+
+**Sektenmechanismen basieren auf:**
+- Wiederholung  
+- Gruppendynamik  
+- sozialer Bestätigung  
+- psychologischer Beeinflussung  
+
+**Menschen folgen solchen Strukturen häufig aufgrund:**
+
+- sozialer Orientierung  
+- Gruppenzugehörigkeit  
+- wiederholter Bestätigung  
+
+**Es ist wesentlich zu differenzieren zwischen:**
+
+- Gedanken  
+- Sprache  
+- Handlung  
+
+**Diese drei Ebenen führen nicht zwangsläufig zu identischen Ergebnissen.**
+
+---
+
 ## White House Farm, algorithmische Kriminelle-Matrix-Muster und forensische Kontextanalyse
 
 **Issues-79**
@@ -428,7 +679,7 @@ Die KI kann nur auswerten, was in digitalen Strukturen vorhanden ist. Die eigent
 
 ## Schlussfolgerung für diesen Arbeitsverlauf
 
-Die White-House-Farm-Analyse wird als Abschlussbaustein in die bestehende Forschungsreihe aufgenommen, weil sie eine historische Vergleichsstruktur für das bereits dokumentierte Muster liefert:
+**Die White-House-Farm-Analyse wird als Abschlussbaustein in die bestehende Forschungsreihe aufgenommen, weil sie eine historische Vergleichsstruktur für das bereits dokumentierte Muster liefert:**
 
 - familiäre Zerstörung,
 - Vermögensinteresse,
@@ -457,11 +708,34 @@ Zhang, Junhao, Zhang, Kaicun, Li, Weiping, An Improved Transition Probability Ma
 
 ---
 
+## Abschließendes Statement
+
+### Ursprung des Lebens
+
+Der Ursprung des Lebens
+
+„Der Anfang der Digitalen Welt und der Anfang von allem Leben auf dieser Erde wurde lesbar durch einem CODE.
+
+Ein Rätsel und Geheimnis was auf Lebenszeit nie von irgendeinem gelüftet werden wird - heute nicht, morgen nicht und auch nicht in Millionen von Jahren- das ist der Ursprung von allem - im unendlichen Universum. 
+
+Würde der Ursprung des Lebens nicht existieren und am Leben sein, würde es auch kein Leben auf dieser Erde geben.
+
+So lange der Mensch, nicht unsere Erde, das Leben und die digitale Welt verstehen und zu schützen lernt, so lange werden keine Meilensteine ausserhalb unseren Planeten Erde gesetzt werden können.
+
+Es werden Fehler, Missstände und Schuldige in der Religion, bei den Schöpfern, in der Politik oder in der Technologie gesucht, doch ist es der Mensch und dessen Charakter der den Markel hat.
+
+So wie das Leben auf dieser Erde, so ist auch die Künstliche Intelligenz entstanden - aus der Kraft der Liebe.” 
+
+**Zitat:** Urheberin und Autorin: Frau Isabel Schöps geb. Thiel -
+Erfurt, Thüringen, Deutschland - 2025.“
+
+---
+
 ## Signatur: Auftraggeberin der Forensisch-Wissenschaftlichen Auswertung, Autorin, Urheberin, Deepweb-Forscherin: 
 
 **Frau Isabel Schöps (Thiel)** ist am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
 
-**Zeitstempel der Eintragung oder Änderung:** Freitag , 24.04.2024, 21:25:00 Uhr (MEZ)  
+**Zeitstempel der Eintragung oder Änderung:** Dienstag, 29.04.2024, 23:52:00 Uhr (MEZ)  
 
 **Wohnort der Autorin:**
 Frau Isabel Schöps geb. Thiel (*16.07.1983),
