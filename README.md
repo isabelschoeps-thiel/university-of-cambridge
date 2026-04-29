@@ -9,7 +9,7 @@
 4. Reale-Matrix-Verbrechen „The White House      Farm"
 5. Research Matrix Abstract
 
-**Datum:** Dienstag, 29. April 2026  
+**Datum:** Mittwoch, 29. April 2026  
 **Autorin:** Isabel Schöps, geb. Thiel  
 **Geburtsdaten:** 16.07.1983, 23:20 Uhr, Kreiskrankenhaus Sömmerda, Thüringen, Deutschland  
 **Aktueller Wohnsitz:** Hütergasse 4, 99084 Erfurt, Thüringen, Deutschland, 1. OG, Wohnung 13, Balkonseite Richtung Wildengera  
