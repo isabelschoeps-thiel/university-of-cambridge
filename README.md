@@ -3,7 +3,11 @@
 
 ## Deepweb Research – Matrix Crime Algorithmen im Monarch-Programm definiert
 
-## Begriffserklärung „Matrix“
+1. Begriffserklärung „Matrix“
+2. Matrix Crime Algorithmen Formel
+   *alles was man algorithmisch-rechnerisch      Vorhersagen kann, kann man ebenso             zurückrechnen, Mathematik +/-*
+4. Reale-Matrix-Verbrechen „The White House      Farm"
+5. Research Matrix Abstract
 
 **Datum:** Dienstag, 29. April 2026  
 **Autorin:** Isabel Schöps, geb. Thiel  
