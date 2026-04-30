@@ -1,10 +1,19 @@
 # Deepweb Research
 *Matrix Crime Algorithmen -  Chain of Custody* 
 
+## University Cambridge UK & University Harvard USA
+
+Die **Universität Cambridge UK** war und ist die erste Forschungsuniversität, die echte Crime-Matrix-Aligrithmen erforschte und welche sich mit der Matrix im Lebendigen-Leben auseinandersetze. 
+
+Die **University Harvard USA**, erforschte  Algorithmische-Berechnungen-Wiederholungen im Digitalen Raum, welche im den RFC-Protokollen geschrieben wurde. 
+
+Diese zwei Universitäten sind die wichtigsten Ordenträger im Kampf gegegen ein künstliches von Menschen erschaffenes Lügennarratives.
+
 ## Deepweb Research – Matrix Crime Algorithmen im Monarch-Programm definiert
 
-1. Begriffserklärung „Matrix“
-2. Matrix Crime Algorithmen Formel
+1. Autorin-Erklärung, Opfer dieses Algorithmischen-Berechnung
+2. Begriffserklärung „Matrix“
+3. Matrix Crime Algorithmen Formel
    *alles was man algorithmisch-rechnerisch      Vorhersagen kann, kann man ebenso             zurückrechnen, Mathematik +/-*
 4. Reale-Matrix-Verbrechen „The White House      Farm"
 5. Research Matrix Abstract
@@ -14,8 +23,29 @@
 **Geburtsdaten:** 16.07.1983, 23:20 Uhr, Kreiskrankenhaus Sömmerda, Thüringen, Deutschland  
 **Aktueller Wohnsitz:** Hütergasse 4, 99084 Erfurt, Thüringen, Deutschland, 1. OG, Wohnung 13, Balkonseite Richtung Wildengera  
 
-Ich bin Autorin, Urheberin und Deep-Web-Forscherin im Bereich Informatik.  
+### 1. Autorin-Erklärung, Opfer dieses Algorithmischen-Berechnung
+
+Ich Frau Isabel Schöps (Thiel) bin Autorin, Urheberin und Deep-Web-Forscherin im Bereich Informatik.  
 Im Fokus dieser Ausarbeitung stehen Matrix-Algorithmen und die darin enthaltenen algorithmischen Kriminalitätsstrukturen, die künstlich herbeigeführt wurden.
+
+Zudem bin ich Opfer und eine isolierte Person in dieser System, so wie viele Millionen von Menschen, weltweit.
+
+**Warum ich, Isabel Schöps geb. Thiel, Opfer dieses Allgorithmischen-Systems bin Begründung:**
+- kein Zugang zu meinen finanziellen Vermögenswerten (seit 1996)
+- eingeschränkte Handlungs- Bewegungsraum, da man mir meinen Führschein eingezogen hat, obwohl es hierfür keine rechtliche Grundlage bestand. Somit bin ich eingeschränkt und an einen Ort festgebunden
+- verlust der Familiären-Bindung
+- Nachrichten, Emails, Telefonanrufe werden nicht, ordnugsgemäß zu gestellt.
+- Seit 11-2023 war ich gezwungen 37 mal meinen Standort/Schlafplatz zu wechseln und musste auch mit mit meinem Hund Don, American XL Bully auf der Strasse schlafen 
+- Enteignung meines kompletten Hausstandes
+- Kontrolle meiner Gedanken- und Gefühlswelt
+- ich soll für Straftaten verantwortlich gemacht werden, die ich nie begangen habe.
+- öffentliche Rufmordkampangen und Diffarmierung  
+- Algorithmische Störungsprozesse im Zusammenhang meines Werkes SIA Security Intelligence Artefact, The Yellow Whitpaper
+- Erneuter Drohnender Verlust, eines gesicherten Wohnraums- zum spätestens 17.05.2026, Auszug aus der Hütergasse 4, D-99084 Erfurt, Th, Deutschland
+
+---
+
+### 2. Begriffserklärung „Matrix“
 
 Der Begriff „Matrix“ tritt in unterschiedlichen Kontexten auf – unter anderem in der Medizin, im Film sowie in den Medien. Nach meiner Analyse reicht seine Bedeutung jedoch wesentlich tiefer. Die Matrix ist ein grundlegendes Konstrukt, das eng mit menschlichen Werten, Ethik, Vergangenheit und Zukunft verbunden ist und seinen Ursprung in der Mathematik hat.
 
@@ -123,8 +153,11 @@ Trotz dieser Veröffentlichungen konnte die Ursprungsperson des Automationsproze
 
 ---
 
-## Crime-Matrix-Algorithmen-Genozid-Game
-*Die nachfolgende Algorithmische Berechnung wurde weder von mir aufgesetzt oder von mir berechnet, Ich habe jeglich die Formel sichtbar gemacht, welches in meine Forschungsarbeit einfließt.  Diese Mathematische Formel entschlüsselt die Matrix-Crime-Algorithmen*
+### 3. Matrix Crime Algorithmen Formel
+   *alles was man algorithmisch-rechnerisch      Vorhersagen kann, kann man ebenso             zurückrechnen, Mathematik +/-*
+
+### Crime-Matrix-Algorithmen-Genozid-Game
+*Die nachfolgende Algorithmische Berechnung wurde weder von mir aufgesetzt noch von mir berechnet. Mir ist es jeglich die gelungen diese Mathematische-Formel sichtbar zumachen, welches in meine Forschungsarbeit einfließt.  Diese Mathematische Formel entschlüsselt die Matrix-Crime-Algorithmen*
 
 **Teilabstrakt aus der Forschungsreihe SIA Security Intelligence Artefact**
 
