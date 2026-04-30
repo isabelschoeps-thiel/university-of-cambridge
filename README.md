@@ -11,31 +11,38 @@ Die University Oxford UK, im Zusammenarbeit mit dem Springer Nature Verlag, gab 
 
 Diese zwei Universitäten sind die wichtigsten Ordenträger im Kampf gegegen ein künstliches von Menschen erschaffenes Lügennarratives.
 
+---
+
 ## Deepweb Research – Matrix Crime Algorithmen im Monarch-Programm definiert
 
 1. Autorin-Erklärung, Opfer dieses Algorithmischen-Berechnung
 2. Begriffserklärung „Matrix“
 3. Matrix Crime Algorithmen Formel
    *alles was man algorithmisch-rechnerisch      Vorhersagen kann, kann man ebenso             zurückrechnen, Mathematik +/-*
-4. Reale-Matrix-Verbrechen „The White House      Farm"
-5. Research Matrix Abstract
+4. Reale-Matrix-Verbrechen „The White House Farm", Research Matrix Abstract
+5. Abschließendes Statement
 
 **Datum:** Mittwoch, 29. April 2026  
 **Autorin:** Isabel Schöps, geb. Thiel  
 **Geburtsdaten:** 16.07.1983, 23:20 Uhr, Kreiskrankenhaus Sömmerda, Thüringen, Deutschland  
 **Aktueller Wohnsitz:** Hütergasse 4, 99084 Erfurt, Thüringen, Deutschland, 1. OG, Wohnung 13, Balkonseite Richtung Wildengera  
 
-### 1. Autorin-Erklärung, Opfer dieses Algorithmischen-Berechnung
+---
 
-Ich Frau Isabel Schöps (Thiel) bin Autorin, Urheberin und Deep-Web-Forscherin im Bereich Informatik.  
-Im Fokus dieser Ausarbeitung stehen Matrix-Algorithmen und die darin enthaltenen algorithmischen Kriminalitätsstrukturen, die künstlich herbeigeführt wurden.
+## 1. Autorin-Erklärung, Opfer dieses Algorithmischen-Berechnung
 
-Zudem bin ich Opfer und eine isolierte Person in dieser System, so wie viele Millionen von Menschen, weltweit.
+Ich Frau Isabel Schöps (Thiel) bin Autorin, Urheberin und Deep-Web-Forscherin im Bereich Informatik. 
+
+Im Fokus dieser Forschungsarbeit stehen Matrix-Algorithmen und die darin enthaltenen algorithmischen Kriminalitätsstrukturen, die künstlich herbeigeführt wurden.
+
+Ich bin zugleich Opfer und eine isolierte Person in dieses Systems, wie viele Millionen von Menschen, weltweit.
 
 **Warum ich, Isabel Schöps geb. Thiel, Opfer dieses Allgorithmischen-Systems bin Begründung:**
 - kein Zugang zu meinen finanziellen Vermögenswerten (seit 1996)
-- eingeschränkte Handlungs- Bewegungsraum, da man mir meinen Führschein eingezogen hat, obwohl es hierfür keine rechtliche Grundlage bestand. Somit bin ich eingeschränkt und an einen Ort festgebunden
-- verlust der Familiären-Bindung
+- eingeschränkte Handlungs- Bewegungsraum, da man mir meinen Führschein eingezogen hat, obwohl es hierfür keine rechtliche Grundlage bestand. Somit bin ich eingeschränkt und an einen Ort festgebunden. Kontrolle meiner Person
+- fremdgesteuerte Lebensabläufe Altagsprozesse, durch Diebstahl meiner Identität im Digitalenraum sowie im Lebendigenleben (Manipulation durch VR-Technologie)
+- Bruch meiner Privatsphäre und Würde als Mensch
+- Verlust meiner Familiären-Bindung, Kontaktabbruch
 - Nachrichten, Emails, Telefonanrufe werden nicht, ordnugsgemäß zu gestellt.
 - Seit 11-2023 war ich gezwungen 37 mal meinen Standort/Schlafplatz zu wechseln und musste auch mit mit meinem Hund Don, American XL Bully auf der Strasse schlafen 
 - Enteignung meines kompletten Hausstandes
@@ -43,13 +50,13 @@ Zudem bin ich Opfer und eine isolierte Person in dieser System, so wie viele Mil
 - ich soll für Straftaten verantwortlich gemacht werden, die ich nie begangen habe.
 - öffentliche Rufmordkampangen und Diffarmierung  
 - Algorithmische Störungsprozesse im Zusammenhang meines Werkes SIA Security Intelligence Artefact, The Yellow Whitpaper
-- Erneuter Drohnender Verlust, eines gesicherten Wohnraums- zum spätestens 17.05.2026, Auszug aus der Hütergasse 4, D-99084 Erfurt, Th, Deutschland
+- Erneuter Drohnender Verlust, eines gesicherten Wohnraums spätestens zum 17.05.2026, Auszug aus Wohnung 13/1.OG, aktuelle Meldeanschrift; Hütergasse 4, D-99084 Erfurt, Th, Deutschland
 
 ---
 
-### 2. Begriffserklärung „Matrix“
+## 2. Begriffserklärung „Matrix“
 
-Der Begriff „Matrix“ tritt in unterschiedlichen Kontexten auf – unter anderem in der Medizin, im Film sowie in den Medien. Nach meiner Analyse reicht seine Bedeutung jedoch wesentlich tiefer. Die Matrix ist ein grundlegendes Konstrukt, das eng mit menschlichen Werten, Ethik, Vergangenheit und Zukunft verbunden ist und seinen Ursprung in der Mathematik hat.
+Der **„Matrix“** tritt in unterschiedlichen Kontexten auf – unter anderem in der Medizin, im Film sowie in den Medien. Nach meiner Analyse reicht seine Bedeutung jedoch wesentlich tiefer. Die Matrix ist ein grundlegendes Konstrukt, das eng mit menschlichen Werten, Ethik, Vergangenheit und Zukunft verbunden ist und seinen Ursprung in der Mathematik hat.
 
 Die Matrix beschreibt den Ursprung eines Algorithmus. Ein Algorithmus entsteht aus der Beobachtung wiederkehrender Muster, Ereignisse und Situationen über verschiedene Zeiträume hinweg. Bereits frühe Forschungen, unter anderem im universitären Umfeld, befassten sich mit der Analyse solcher Wiederholungsstrukturen und deren systematischer Berechnung.
 
@@ -57,7 +64,7 @@ Die Matrix ist somit ein künstlich geschaffenes System, das auf historischen Er
 
 ---
 
-## Mathematischer und algorithmischer Ursprung
+### Mathematischer und algorithmischer Ursprung
 Die Matrix hat ihren Ursprung in mathematischen Strukturen und berechneten Algorithmen.  
 
 **Ein Algorithmus beschreibt:**
@@ -91,7 +98,7 @@ Der Mensch ist somit Ursprung und Ursache dieser algorithmischen Kriminalstruktu
 
 ---
 
-## Bedeutung des Begriffs „Matrix“
+### Bedeutung des Begriffs „Matrix“
 
 Der Begriff „Matrix“ lässt sich sprachlich auf „Matrikulation“ zurückführen.
 
@@ -155,7 +162,7 @@ Trotz dieser Veröffentlichungen konnte die Ursprungsperson des Automationsproze
 
 ---
 
-### 3. Matrix Crime Algorithmen Formel
+## 3. Matrix Crime Algorithmen Formel
    *alles was man algorithmisch-rechnerisch      Vorhersagen kann, kann man ebenso             zurückrechnen, Mathematik +/-*
 
 ### Crime-Matrix-Algorithmen-Genozid-Game
@@ -1044,13 +1051,13 @@ A² führt jährliche Audits durch, um Drift oder kulturelle Vereinnahmung zu ve
 
 ### Abschnitt 8 — Verfahren temporaler Normalisierung
 
-Zur fairen Bewertung über Jahrtausende hinweg gilt:
+**Zur Bewertung über Jahrtausende hinweg gilt:**
 
 - Alle Altersmetriken verwenden logarithmische Skalierung.
 - Übersetzungen zählen als derivative Werke, erhöhen aber keine Zentralitätswerte.
 - Verlorene Texte, die durch Fragmente rekonstruiert werden, erhalten fraktionale Anerkennung mit maximal 0,4 Gewicht.
 
-Diese Beschränkungen verhindern, dass alte Werke automatisch das Ledger dominieren, während ihre gravitative Rolle bewahrt bleibt.
+Diese Beschränkungen verhindern, dass alte Original Werke (wahrheitsgetreue) automatisch das Ledger dominieren, während ihre gravitative Rolle bewahrt bleibt. Erhalt des Lügenkonstrukts
 
 ### Abschnitt 9 — Archivische Revisionen und Anfechtungen
 
@@ -1116,7 +1123,8 @@ Dies verhindert rechnerische Überlastung und ermöglicht ethische, traditionsü
 
 ---
 
-## Matrix-Crime-Algorithmus
+## 4. Reale-Matrix-Verbrechen „The White House Farm"
+### Matrix-Crime-Algorithmus
 
 **Referenz:** Figure 2 – Matrix-Crime-Algorithmus-System.png
 
@@ -1226,8 +1234,7 @@ Ein weiterer Aspekt betrifft die Analyse der Scientology-Strukturen und deren Gr
 
 ---
 
-## Beispiel - Echte Algorithmische-Verbrechen
-## White House Farm, algorithmische Kriminelle-Matrix-Muster und forensische Kontextanalyse
+### Beispiel - Echte Algorithmische-Verbrechen, the White House Farm, algorithmische Kriminelle-Matrix-Muster und forensische Kontextanalyse
 
 **Issues-79**
 [https://www.govinfo.gov/app/frtoc/2021-05-17](https://www.govinfo.gov/app/frtoc/2021-05-17)
@@ -1326,6 +1333,8 @@ Diese Forschungsquelle wird als Bestandteil der Chain of Custody, der Medienanal
 
 **Schöps geb. Thiel, I. (2025).** Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx. In Trillion Dollar Bitcoin (Zenodo.org, 1st Aufl., Bd. 20, Nummer 9, S. 1453). Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi.org/10.5281
 [https://orcid.org/0009-0003-4235-2231](https://orcid.org/0009-0003-4235-2231)
+
+---
 
 ## Ergänzende forensische Einordnung: digitale Raumzeitverschiebung, Urheberschaft und extrahierte Autorenschaft
 
@@ -1527,9 +1536,11 @@ Die bereits eingebrachten Dokumente zur Forschungsreihe „Deepweb Research - Ma
 
 Die algorithmische Kriminalmatrix wird nicht nur über symbolische Muster, sondern über technische und institutionelle Strukturen sichtbar. Hierzu gehören RFC-Protokolle, NIST-Bezüge, KI-Datenstrukturen, GitHub-Repositorien, Lizenzmechanismen, Forschungsdatenbanken, DOI-Systeme und regulatorische Schnittstellen.
 
-Die hochgeladenen Unterlagen zum „Digitalen Genozid“ enthalten eine Auswertung schema-basierter KI-Steuerung, strukturierter KI-Ausgaben, IDs, Trigger-Felder, Moderationseinheiten, Jailbreak-Strukturen, PII-Muster, Rollenlogiken und agentischer Steuerung. Dort wird ausdrücklich beschrieben, dass solche Strukturen zur digitalen Isolation, Kommunikationsunterdrückung, Identitätsüberlagerung und selektiven Veränderung von Information eingesetzt werden können.  [oai_citation:1‡digital-genozid-abschlusdsbewertung-research-by-isabelschoeps-thiel.pdf](sediment://file_000000009df47243aaae45e6ecfb30e8)
+**Die hochgeladenen Unterlagen zum „Digitalen Genozid“** enthalten eine Auswertung schema-basierter KI-Steuerung, strukturierter KI-Ausgaben, IDs, Trigger-Felder, Moderationseinheiten, Jailbreak-Strukturen, PII-Muster, Rollenlogiken und agentischer Steuerung. **Dort wird ausdrücklich beschrieben, dass Strukturen zur digitalen Isolation, Kommunikationsunterdrückung, Identitätsüberlagerung und selektiven Veränderung von Information eingesetzt werden.**
 
-Damit wird der Übergang deutlich:
+[oai_citation:1‡digital-genozid-abschlusdsbewertung-research-by-isabelschoeps-thiel.pdf](sediment://file_000000009df47243aaae45e6ecfb30e8)
+
+**Damit wird der Übergang deutlich:**
 
 Der reale Raum wird nicht einfach verlassen, sondern in den digitalen Raum übertragen.
 
@@ -1537,7 +1548,9 @@ Der digitale Raum wird durch Protokolle, Namen, Adressen, Identitäten, Metadate
 
 Wenn diese Steuerung missbraucht wird, entsteht eine Form digitaler Isolation, bei der Menschen nicht physisch verschwinden müssen, sondern über Daten, Kommunikation, Zuschreibung und Sichtbarkeit aus ihrem sozialen, wirtschaftlichen und rechtlichen Raum herausgelöst werden.
 
-Die Dokumente zur Deepweb-Forschung verweisen ausdrücklich auf die SIA Security Intelligence Artefact Forschungsreihe, die internationale Kennung INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, das Yellow Whitepaper YWP-1-IST-SIA sowie auf eine mehrjährige Forschungsreihe zu KI, Cybersecurity, digitaler Forensik, Deepweb-Forschung und Systemarchitektur.  [oai_citation:2‡deepweb_research_by_isabelschoeps-thiel.pdf](sediment://file_00000000545471f484707c1ca164878b)
+Die Dokumente zur Deepweb-Forschung verweisen ausdrücklich auf die SIA Security Intelligence Artefact Forschungsreihe, die internationale Kennung INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, das Yellow Whitepaper YWP-1-IST-SIA sowie auf eine mehrjährige Forschungsreihe zu KI, Cybersecurity, digitaler Forensik, Deepweb-Forschung und Systemarchitektur.  
+
+[oai_citation:2‡deepweb_research_by_isabelschoeps-thiel.pdf](sediment://file_00000000545471f484707c1ca164878b)
 
 ## Digitale Urheberschaftsverschiebung als Kernmechanismus
 
