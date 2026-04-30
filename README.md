@@ -1,11 +1,13 @@
 # Deepweb Research
 *Matrix Crime Algorithmen -  Chain of Custody* 
 
-## University Cambridge UK & University Harvard USA
+## University of Cambridge UK, University Harvard USA, University of Oxford UK
 
-Die **Universität Cambridge UK** war und ist die erste Forschungsuniversität, die echte Crime-Matrix-Aligrithmen erforschte und welche sich mit der Matrix im Lebendigen-Leben auseinandersetze. 
+Die [**Universität Cambridge UK**](https://www.cam.ac.uk/) war und ist die erste Forschungsuniversität, die echte Crime-Matrix-Aligrithmen erforschte und welche sich mit der Matrix im Lebendigen-Leben auseinandersetze. 
 
-Die **University Harvard USA**, erforschte  Algorithmische-Berechnungen-Wiederholungen im Digitalen Raum, welche im den RFC-Protokollen geschrieben wurde. 
+Die [**University Harvard USA**](https://www.harvard.edu/), erforschte  Algorithmische-Berechnungen-Wiederholungen im Digitalen Raum, welche im den RFC-Protokollen geschrieben wurde. 
+
+Die University Oxford UK, im Zusammenarbeit mit dem Springer Nature Verlag, gab Forschern und Studierenden, über ausgestellte Lizensen die Möglichkeit die erforschten Ergebnisse, Analysen etc. im Peer Preview Verfahren zu präsentieren und vorzustellen. So gab man Menschen weltweit die Möglichkeit, auch azsder
 
 Diese zwei Universitäten sind die wichtigsten Ordenträger im Kampf gegegen ein künstliches von Menschen erschaffenes Lügennarratives.
 
