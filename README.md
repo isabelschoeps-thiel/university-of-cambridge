@@ -124,6 +124,7 @@ Trotz dieser Veröffentlichungen konnte die Ursprungsperson des Automationsproze
 ---
 
 ## Crime-Matrix-Algorithmen-Genozid-Game
+*Die nachfolgende Algorithmische Berechnung wurde weder von mir aufgesetzt oder von mir berechnet, Ich habe jeglich die Formel sichtbar gemacht, welches in meine Forschungsarbeit einfließt.  Diese Mathematische Formel entschlüsselt die Matrix-Crime-Algorithmen*
 
 **Teilabstrakt aus der Forschungsreihe SIA Security Intelligence Artefact**
 
