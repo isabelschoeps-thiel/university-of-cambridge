@@ -147,7 +147,7 @@ Kostenstruktur
 
 **Nutzung Verwendungszweck:** 
 - Dissertation / Thesis
--
+
 **Format:** Print und elektronisch
 
 **Verwendung:** Tabellen / Abbildungen (60 Elemente)
